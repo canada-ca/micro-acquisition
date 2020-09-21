@@ -1,0 +1,89 @@
+---
+head:
+  title:
+    en: &title_en GC Developers Exchange
+    fr: &title_fr Carrefour des programmeurs du GC
+  description:
+    en: GC Developers Exchange
+    fr: Carrefour des programmeurs du GC
+  home:
+    en: Home
+    fr: Accueil
+  skipToMain:
+    en: Skip to main content
+    fr: Passer au contenu principal
+  skipToAbout:
+    en: Skip to "About this site"
+    fr: Passer à « À propos de ce site »
+  languageSelection:
+    en: Language selection
+    fr: Sélection de la langue
+  searchAndMenus:
+    en: Menus
+    fr: Menus
+  youarehere:
+    en: You are here
+    fr: Vous êtes ici
+
+nav:
+  base:
+    en: https://canada-ca.github.io/devex-pages
+    fr: https://canada-ca.github.io/devex-pages
+  home:
+    en: *title_en
+    fr: *title_fr
+    link:
+      en: ./index.html
+      fr: ./index.html
+  Canada:
+    en: Government of Canada
+    fr: Gouvernement du Canada
+    link:
+      en: https://www.canada.ca/en.html
+      fr: https://www.canada.ca/fr.html
+
+footer:
+  AboutGovernment:
+    en: About government
+    fr: Au sujet du gouvernement
+  AboutSite:
+    en: About this site
+    fr: À propos du site
+  reportProblem:
+    en: Report a problem on this page
+    fr: Signaler un problème sur cette page
+  sourceCode:
+    en: View source code of this page
+    fr: Voir le code source de cette page
+  Nav:
+    Canada:
+      en:
+        link: https://www.canada.ca/en.html
+        title: Canada.ca
+      fr:
+        link: https://www.canada.ca/fr.html
+        title: Canada.ca
+    Terms:
+      en:
+        link: https://www.canada.ca/en/transparency/terms.html
+        title: Terms and conditions
+      fr:
+        link: https://www.canada.ca/fr/transparence/avis.html
+        title: Avis
+    Privacy:
+      en:
+        link: https://www.canada.ca/en/transparency/privacy.html
+        title: Privacy
+      fr:
+        link: https://www.canada.ca/fr/transparence/confidentialite.html
+        title: Confidentialité
+  TopOfPage:
+    en: Top of Page
+    fr: Haut de la page
+  Logo:
+    en: Symbol of the Government of Canada
+    fr: Symbole du gouvernement du Canada
+
+language:
+  en: English
+  fr: Français

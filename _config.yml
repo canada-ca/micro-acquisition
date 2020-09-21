@@ -1,0 +1,17 @@
+# Site settings
+baseurl: "/devex-pages"
+url: "https://canada-ca.github.io/devex-pages/"
+
+wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
+wet_cdts_version: "v4_0_32"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+exclude:
+  - "cypress"
+  - "node_modules"
+  - "*.md"
+  - "Gemfile*"
+  - "package*.json"
+  - "requirements.txt"
