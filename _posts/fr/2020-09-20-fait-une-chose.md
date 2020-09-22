@@ -4,6 +4,7 @@ title:  "Fait une chose.."
 ref: opertunity1
 lang: fr
 dept_id: esdc-edsc
+skills: Logiciel libre
 team: "Stratégie TI"
 manager: "Lorem Ipsum"
 email: lorem.ipsum@canada.ca
@@ -12,7 +13,7 @@ status: Ouvert
 last_modified: 2020-09-22
 ---
 
-# Fait une chose
+# {{ page.title }}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus. Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 

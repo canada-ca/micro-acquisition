@@ -10,7 +10,7 @@
 
       <div class="form-group">
         <label for="dt_status">Status</label>
-        <select class="form-control" id="dt_status" name="dt_status" data-column="3">
+        <select class="form-control" id="dt_status" name="dt_status" data-column="2">
           <option value="">&nbsp;</option>
           {%- assign status_arr = "" | split: ',' -%}
           {%- for post in aPost -%}
@@ -19,6 +19,24 @@
           {%- assign status_arr = status_arr | uniq -%}
           {%- for status in status_arr -%}
             <option value="{{ status }}">{{ status }}</option>
+          {%- endfor -%}
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="dt_skills">Skills</label>
+        <select class="form-control" id="dt_skills" name="dt_skills" data-column="1">
+          <option value="">&nbsp;</option>
+          {%- assign skills_arr = "" | split: ',' -%}
+          {%- for post in aPost -%}
+            {%- assign skills_arr1 = post.skills | split: ',' -%}
+            {%- for skill in skills_arr1 -%}
+              {%- assign skills_arr = skills_arr | push: skill -%}
+            {%- endfor -%}
+          {%- endfor -%}
+          {%- assign skills_arr = skills_arr | uniq -%}
+          {%- for skills in skills_arr -%}
+            <option value="{{ skills }}">{{ skills }}</option>
           {%- endfor -%}
         </select>
       </div>
@@ -38,23 +56,25 @@
 
 <!-- Data Table -->
 <div class="col-md-9 mrgn-bttm-lg">
-  <table class="wb-tables table table-striped table-hover" id="dataset-filter" data-wb-tables='{"order": [0, "asc"], "paging": true}'>
+  <table class="wb-tables table table-striped table-hover" id="dataset-filter" data-wb-tables='{"order": [3, "asc"], "columnDefs": [{"targets": [4,5], "visible": false}], "paging": true}'>
     <thead>
       <tr>
-        <th>Title</th>
-        <th>Team</th>
-        <th>Department</th>
+        <th>Opportunity</th>
+        <th>Skills</th>
         <th>Status</th>
         <th>Posted</th>
+        <th>Team</th>
+        <th>Department</th>
       </tr>
     </thead>
     <tbody>
       {%- for post in aPost -%}
         <td><a class="post-link" href="/devex-pages{{ post.url }}">{{ post.title }}</a></td>
-        <td>{{ post.team }}</td>
-        <td>{{ post.dept_id }}</td>
+        <td>{{ post.skills }}</td>
         <td>{{ post.status }}</td>
         <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+        <td>{{ post.team }}</td>
+        <td>{{ post.dept_id }}</td>
       {%- endfor -%}
     </tbody>
   </table>
