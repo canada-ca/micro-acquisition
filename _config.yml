@@ -8,10 +8,3 @@ wet_cdts_version: "v4_0_32"
 # Build settings
 markdown: kramdown
 include: ["_pages"]
-exclude:
-  - "cypress"
-  - "node_modules"
-  - "*.md"
-  - "Gemfile*"
-  - "package*.json"
-  - "requirements.txt"

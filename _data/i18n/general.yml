@@ -84,6 +84,18 @@ footer:
     en: Symbol of the Government of Canada
     fr: Symbole du gouvernement du Canada
 
+clear:
+  en: Clear
+  fr: Effacer
+filter:
+  en: Filter
+  fr: Filtrer
+filterOptions:
+  en: Filter Options
+  fr: Options de filtrage
 language:
   en: English
   fr: Français
+Opportunities:
+  en: Opportunities
+  fr: Opportunités
