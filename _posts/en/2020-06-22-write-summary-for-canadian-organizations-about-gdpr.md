@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "Do a thing.."
-ref: opertunity1
+title: Write a summary for Canadian organizations about the GDPR
+ref: opertunity2
 lang: en
 dept_id: esdc-edsc
-skills: Open source software
-team: "IT Strategy"
-manager: "Lorem Ipsum"
+skills: Privacy
+team: Information management
+manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca
 phone: 819-555-5555
 status: Open

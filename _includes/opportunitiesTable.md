@@ -56,7 +56,7 @@
 
 <!-- Data Table -->
 <div class="col-md-9 mrgn-bttm-lg">
-  <table class="wb-tables table table-striped table-hover" id="dataset-filter" data-wb-tables='{"order": [3, "asc"], "columnDefs": [{"targets": [4,5], "visible": false}], "paging": true}'>
+  <table class="wb-tables table table-striped table-hover" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [4,5], "visible": false}], "paging": true}'>
     <thead>
       <tr>
         <th>Opportunity</th>
@@ -69,12 +69,14 @@
     </thead>
     <tbody>
       {%- for post in aPost -%}
-        <td><a class="post-link" href="/devex-pages{{ post.url }}">{{ post.title }}</a></td>
-        <td>{{ post.skills }}</td>
-        <td>{{ post.status }}</td>
-        <td>{{ post.date | date: "%Y-%m-%d" }}</td>
-        <td>{{ post.team }}</td>
-        <td>{{ post.dept_id }}</td>
+        <tr>
+          <td><a class="post-link" href="/devex-pages{{ post.url }}">{{ post.title }}</a></td>
+          <td>{{ post.skills }}</td>
+          <td>{{ post.status }}</td>
+          <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+          <td>{{ post.team }}</td>
+          <td>{{ post.dept_id }}</td>
+        </tr>
       {%- endfor -%}
     </tbody>
   </table>
