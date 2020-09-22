@@ -43,7 +43,7 @@
       <h2 class="wb-inv">Menu</h2>
       <button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
       <ul role="menu" aria-orientation="vertical">
-        <li role="presentation"><a role="menuitem" href="{%- if page.lang == 'fr' -%}{% link _pages/fr/opportunites.md %}{%- else -%}{% link _pages/en/opportunities.md %}{%- endif -%}">{{ site.data.i18n.general.Opportunities[page.lang] }}</a></li>
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/opportunites.md %}{%- else -%}{% link _pages/en/opportunities.md %}{%- endif -%}">{{ site.data.i18n.general.Opportunities[page.lang] }}</a></li>
       </ul>
     </div>
   </nav>
