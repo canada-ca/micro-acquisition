@@ -7,6 +7,6 @@ permalink: /en/opportunities.html
 
 # Opportunities
 
-DRAFT opertunities originaly posted as [Github Issues](https://git.io/JUgfK) on the previous version of GCdevex.
+**DRAFT opportunities originaly posted on [Github](https://git.io/JUgfK) as IDEAS the previous version of GCdevex.**
 
 {% include opportunitiesTable.md %}
