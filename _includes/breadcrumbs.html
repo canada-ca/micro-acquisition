@@ -2,7 +2,7 @@
   <h2>{{ site.data.i18n.general.head.youarehere[page.lang] }}:</h2>
   <div class="container">
     <ol class="breadcrumb">
-      <li><a href="{%- if page.lang == 'fr' -%}{% link _pages/fr/index.md %}{%- else -%}{% link _pages/en/index.md %}{%- endif -%}">{{ site.data.i18n.general.head.home[page.lang] }}</a></li>
+      <li><a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/index.md %}{%- else -%}{% link _pages/en/index.md %}{%- endif -%}">{{ site.data.i18n.general.head.home[page.lang] }}</a></li>
     </ol>
   </div>
 </nav>
