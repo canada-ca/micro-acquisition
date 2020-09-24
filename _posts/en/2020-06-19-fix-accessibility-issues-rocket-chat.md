@@ -1,19 +1,21 @@
 ---
-layout: default
+layout: post
 title: Fix accessibility issues in Rocket.Chat
-ref: opertunity1
+ref: opportunity1
 lang: en
-dept_id: esdc-edsc
+dept: Employment and Social Development Canada
 skills: Accessibility
 team: IT Strategy
 manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca
 phone: 819-555-5555
 status: Closed
+closing_date: 2020-10-20
+selected_bidder: 
+selected_bidder_link: 
+submitted_work_link:
 last_modified: 2020-09-24
 ---
-
-# {{ page.title }}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus. Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 
