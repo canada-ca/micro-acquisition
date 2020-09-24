@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Corriger les problèmes d'accessibilité dans Rocket.Chat
-ref: opertunity1
+title: Implications de WCAG 2.1 pour le GC et WET-BOEW
+ref: opertunity2
 lang: fr
 dept_id: esdc-edsc
 skills: Accessibilité
-team: Stratégie TI
+team: Technologies Web
 manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca
 phone: 819-555-5555

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Fix accessibility issues in Rocket.Chat
+title: Corriger les problèmes d'accessibilité dans Rocket.Chat
 ref: opertunity1
-lang: en
+lang: fr
 dept_id: esdc-edsc
-skills: Accessibility
-team: IT Strategy
+skills: Accessibilité
+team: Stratégie TI
 manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca
 phone: 819-555-5555
-status: Closed
-last_modified: 2020-09-24
+status: Fermé
+last_modified: 2020-09-22
 ---
 
 # {{ page.title }}
