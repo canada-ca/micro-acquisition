@@ -72,7 +72,13 @@
         <tr>
           <td><a class="post-link" href="/devex-pages{{ post.url }}">{{ post.title }}</a></td>
           <td>{{ post.skills }}</td>
-          <td>{{ post.status }}</td>
+          {%- if post.status == "Open" or post.status == "Ouvert" -%}
+            <td><span class="bg-success">{{ post.status }}</span></td>
+          {%- elsif post.status == "Closed" or post.status == "Fermé" -%}
+            <td><span class="bg-danger">{{ post.status }}</span></td>
+          {%- else -%}
+            <td>{{ post.status }}</td>
+          {% endif %}
           <td>{{ post.date | date: "%Y-%m-%d" }}</td>
           <td>{{ post.team }}</td>
           <td>{{ post.dept_id }}</td>
@@ -83,6 +89,6 @@
 </div>
 
 </div>
-{% else %}
+{%- else -%}
 No opportunities, check back later..
-{% endif %}
+{%- endif -%}
