@@ -81,7 +81,7 @@
           {% endif %}
           <td>{{ post.date | date: "%Y-%m-%d" }}</td>
           <td>{{ post.team }}</td>
-          <td>{{ post.dept_id }}</td>
+          <td>{{ post.department }}</td>
         </tr>
       {%- endfor -%}
     </tbody>

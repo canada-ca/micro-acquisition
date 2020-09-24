@@ -3,7 +3,7 @@ layout: default
 title:  Rédiger un résumé sur le GDPR à l'intention des organisations canadiennes
 ref: opertunity2
 lang: fr
-dept_id: esdc-edsc
+department: Emploi et Développement social Canada (EDSC)
 skills: Vie privé
 team: Gestion de l'information
 manager: Lorem Ipsum

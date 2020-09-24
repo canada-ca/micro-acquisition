@@ -3,8 +3,8 @@ layout: default
 title: Corriger les problèmes d'accessibilité dans Rocket.Chat
 ref: opertunity1
 lang: fr
-dept_id: esdc-edsc
-skills: Accessibilité
+department: Secrétariat du Conseil du Trésor du Canada (SCT)
+skills: Accessibilité, Logiciels libres
 team: Stratégie TI
 manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca

@@ -3,7 +3,7 @@ layout: default
 title: Write a summary for Canadian organizations about the GDPR
 ref: opertunity2
 lang: en
-dept_id: esdc-edsc
+department: Employment and Social Development Canada (ESDC)
 skills: Privacy
 team: Information management
 manager: Lorem Ipsum

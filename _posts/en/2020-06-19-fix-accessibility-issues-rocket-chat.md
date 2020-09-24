@@ -3,8 +3,8 @@ layout: default
 title: Fix accessibility issues in Rocket.Chat
 ref: opertunity1
 lang: en
-dept_id: esdc-edsc
-skills: Accessibility
+department: Treasury Board of Canada Secretariat (TBS)
+skills: Accessibility, Open source software
 team: IT Strategy
 manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca

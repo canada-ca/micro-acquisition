@@ -3,7 +3,7 @@ layout: default
 title: WCAG 2.1 implications for the GC and WET-BOEW
 ref: opertunity3
 lang: en
-dept_id: esdc-edsc
+department: Employment and Social Development Canada (ESDC)
 skills: Accessibility
 team: Web Technologies
 manager: Lorem Ipsum
