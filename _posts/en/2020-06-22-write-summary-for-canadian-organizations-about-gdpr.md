@@ -3,7 +3,7 @@ layout: post
 title: Write a summary for Canadian organizations about the GDPR
 ref: opportunity2
 lang: en
-dept: Employment and Social Development Canada
+department: Employment and Social Development Canada (ESDC)
 skills: Privacy
 team: Information management
 manager: Lorem Ipsum
@@ -11,9 +11,9 @@ email: lorem.ipsum@canada.ca
 phone: 819-555-5555
 status: Open
 closing_date: 2020-10-20
-selected_bidder: 
-selected_bidder_link: 
-submitted_work_link:
+selected_bidder:
+selected_bidder-link:
+submitted_work-link:
 last_modified: 2020-09-22
 ---
 
