@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corriger les problèmes d'accessibilité dans Rocket.Chat
-ref: opertunity1
+ref: opportunity1
 lang: fr
 department: Secrétariat du Conseil du Trésor du Canada (SCT)
 skills: Accessibilité, Logiciels libres

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Implications de WCAG 2.1 pour le GC et WET-BOEW
-ref: opertunity3
+ref: opportunity3
 lang: fr
 department: Emploi et Développement social Canada (EDSC)
 skills: Accessibilité
