@@ -37,7 +37,7 @@
 
     <p>{{ content }}</p>
 
-    <i>Last modified {{ page.last_modified }}</i>
+    <i>{{ site.data.i18n.general.opportunities.last_modified[page.lang] }} {{ page.last_modified }}</i>
 
     {% include footer.html %}
     </body>
