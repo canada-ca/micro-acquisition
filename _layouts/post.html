@@ -8,29 +8,29 @@
 
     <table style="width:100%">
         <tr>
-            <td><b>Department:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.department[page.lang] }}:</b></td>
             <td>{{ page.department }}</td>
-            <td><b>Manager:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.manager[page.lang] }}:</b></td>
             <td>{{ page.manager }}</td>
         </tr>
         <tr>
-            <td><b>Team:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.team[page.lang] }}:</b></td>
             <td>{{ page.team }}</td>
-            <td><b>Email:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.email[page.lang] }}:</b></td>
             <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
         </tr>
         <tr>
-            <td><b>Skill(s):</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b></td>
             <td>{{ page.skills }}</td>
-            <td><b>Phone:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.phone[page.lang] }}:</b></td>
             <td>{{ page.phone }}</td>
         </tr>
         <tr>
-            <td><b>Status:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.status[page.lang] }}:</b></td>
             <td>{{ page.status }}</td>
         </tr>
         <tr>
-            <td><b>Value:</b></td>
+            <td><b>{{ site.data.i18n.general.opportunities.value[page.lang] }}:</b></td>
             <td>{{ page.value }}</td>
         </tr>
     </table>

@@ -99,3 +99,29 @@ language:
 Opportunities:
   en: Opportunities
   fr: Opportunités
+
+opportunities:
+  department:
+    en: Department
+    fr: Ministère&nbsp;
+  team:
+    en: Team
+    fr: Équipe&nbsp;
+  skills:
+    en: Skill(s)
+    fr: Compétence(s)&nbsp;
+  status:
+    en: Status  
+    fr: Statut&nbsp;
+  value:
+    en: Value
+    fr: Valeur&nbsp;
+  manager:
+    en: Manager
+    fr: Gestionnaire&nbsp;
+  email:
+    en: Email  
+    fr: Courriel&nbsp;
+  phone:
+    en: Phone  
+    fr: Téléphone&nbsp;
