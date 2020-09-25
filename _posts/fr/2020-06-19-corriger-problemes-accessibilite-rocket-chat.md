@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Corriger les problèmes d'accessibilité dans Rocket.Chat
 ref: opportunity1
 lang: fr

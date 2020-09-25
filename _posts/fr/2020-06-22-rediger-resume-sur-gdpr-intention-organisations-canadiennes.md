@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Rédiger un résumé sur le GDPR à l'intention des organisations canadiennes
 ref: opportunity2
 lang: fr

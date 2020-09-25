@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Implications de WCAG 2.1 pour le GC et WET-BOEW
 ref: opportunity3
 lang: fr
