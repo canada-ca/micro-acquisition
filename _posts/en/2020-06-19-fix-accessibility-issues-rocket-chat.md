@@ -10,6 +10,7 @@ manager: Lorem Ipsum
 email: lorem.ipsum@canada.ca
 phone: 819-555-5555
 status: Closed
+value: 0,000 $
 closing_date: 2020-10-20
 selected_bidder:
 selected_bidder-link:
