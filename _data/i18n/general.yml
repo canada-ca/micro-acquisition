@@ -110,6 +110,9 @@ opportunities:
   skills:
     en: Skill(s)
     fr: Compétence(s)&nbsp;
+  skill:
+    en: Skill
+    fr: Compétence
   status:
     en: Status  
     fr: Statut&nbsp;
@@ -128,3 +131,6 @@ opportunities:
   last_modified:
     en: Last modified
     fr: Dernière modification
+  posted:
+    en: Posted  
+    fr: Affiché

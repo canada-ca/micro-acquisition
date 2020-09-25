@@ -9,7 +9,7 @@
     <form class="wb-tables-filter" data-bind-to="dataset-filter">
 
       <div class="form-group">
-        <label for="dt_status">Status</label>
+        <label for="dt_status">{{ site.data.i18n.general.opportunities.status[page.lang] }}</label>
         <select class="form-control" id="dt_status" name="dt_status" data-column="2">
           <option value="">&nbsp;</option>
           {%- assign status_arr = "" | split: ',' -%}
@@ -24,7 +24,7 @@
       </div>
 
       <div class="form-group">
-        <label for="dt_skills">Skills</label>
+        <label for="dt_skills">{{ site.data.i18n.general.opportunities.skill[page.lang] }}</label>
         <select class="form-control" id="dt_skills" name="dt_skills" data-column="1">
           <option value="">&nbsp;</option>
           {%- assign skills_arr = "" | split: ',' -%}
@@ -59,12 +59,12 @@
   <table class="wb-tables table table-striped table-hover" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [4,5], "visible": false}], "paging": true}'>
     <thead>
       <tr>
-        <th>Opportunity</th>
-        <th>Skills</th>
-        <th>Status</th>
-        <th>Posted</th>
-        <th>Team</th>
-        <th>Department</th>
+        <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.status[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.posted[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.team[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.department[page.lang] }}</th>
       </tr>
     </thead>
     <tbody>
