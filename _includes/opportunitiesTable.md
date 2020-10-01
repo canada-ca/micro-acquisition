@@ -70,7 +70,7 @@
     <tbody>
       {%- for post in aPost -%}
         <tr>
-          <td><a class="post-link" href="/devex-pages{{ post.url }}">{{ post.title }}</a></td>
+          <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
           <td>{{ post.skills }}</td>
           {%- if post.status == "Open" or post.status == "Ouvert" -%}
             <td><span class="bg-success">{{ post.status }}</span></td>
