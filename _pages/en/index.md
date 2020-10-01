@@ -7,7 +7,7 @@ permalink: /en/index.html
 
 <h1 property="name" id="wb-cont">{{ site.data.i18n.general.head.title.en }}</h1>
 
-GC micro-procurement..
+Prototype Website for micro-procurement.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aliquam venenatis tincidunt ipsum et vulputate.
 Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero.

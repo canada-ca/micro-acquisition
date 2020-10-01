@@ -1,12 +1,12 @@
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
-## GCdevex Website
+## Micro-procurement Prototype Website
+
+https://canada-ca.github.io/devex-pages/en/
 
 What is this project?
 
-Prototype of the GC Developers Exchange.
-
-See https://sara-sabr.github.io/ITStrategy/GCDevelopers-Exchange.html
+See https://sara-sabr.github.io/ITStrategy/Micro-procurement.html
 
 ### How to Contribute
 
@@ -20,13 +20,13 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-## Site Web GCdevex
+## Prototype site Web micro-approvisionnement
+
+https://canada-ca.github.io/devex-pages/fr/
 
 Quel est ce projet?
 
-Prototype du Carrefour des programmeurs du GC.
-
-Voir https://sara-sabr.github.io/ITStrategy/carrefour-programmeurs-GC.html
+Voir https://sara-sabr.github.io/ITStrategy/Micro-approvisionnement.html
 
 ### Comment contribuer
 

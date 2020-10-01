@@ -7,7 +7,7 @@ permalink: /fr/index.html
 
 <h1 property="name" id="wb-cont">{{ site.data.i18n.general.head.title.fr }}</h1>
 
-Micro-approvisionnement GC..
+Site Web prototype micro-approvisionnement.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aliquam venenatis tincidunt ipsum et vulputate.
 Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero.
