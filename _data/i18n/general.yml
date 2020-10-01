@@ -1,11 +1,11 @@
 ---
 head:
   title:
-    en: &title_en GC Developers Exchange
-    fr: &title_fr Carrefour des programmeurs du GC
+    en: &title_en Prototype Website for Micro-Procurement
+    fr: &title_fr Site Web prototype micro-approvisionnement
   description:
-    en: GC Developers Exchange
-    fr: Carrefour des programmeurs du GC
+    en: Prototype website to facilitate micro-procurement.
+    fr: Site web prototype pour faciliter le micro-approvisionnement.
   home:
     en: Home
     fr: Accueil
