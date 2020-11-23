@@ -1,4 +1,4 @@
-([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
+([Français](#prototype-site-web-micro-approvisionnement))
 
 ## Micro-procurement Prototype Website
 
