@@ -1,11 +1,11 @@
 ---
 head:
   title:
-    en: &title_en Prototype Website for Micro-Procurement
-    fr: &title_fr Site Web prototype micro-approvisionnement
+    en: &title_en Prototype Website for Micro-Acquisition
+    fr: &title_fr Site Web prototype micro-acquisition
   description:
-    en: Prototype website to facilitate micro-procurement.
-    fr: Site web prototype pour faciliter le micro-approvisionnement.
+    en: Prototype website to facilitate micro-acquisition.
+    fr: Site web prototype pour faciliter le micro-acquisition.
   home:
     en: Home
     fr: Accueil

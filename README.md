@@ -1,12 +1,12 @@
-([Français](#prototype-site-web-micro-approvisionnement))
+([Français](#prototype-site-web-micro-acquisition))
 
-## Micro-procurement Prototype Website
+## Micro-acquisition Prototype Website
 
 https://canada-ca.github.io/devex-pages/en/
 
 What is this project?
 
-See https://sara-sabr.github.io/ITStrategy/Micro-procurement.html
+See https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html
 
 ### How to Contribute
 
@@ -20,13 +20,13 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-## Prototype site Web micro-approvisionnement
+## Prototype site Web micro-acquisition
 
 https://canada-ca.github.io/devex-pages/fr/
 
 Quel est ce projet?
 
-Voir https://sara-sabr.github.io/ITStrategy/Micro-approvisionnement.html
+Voir https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition.html
 
 ### Comment contribuer
 
