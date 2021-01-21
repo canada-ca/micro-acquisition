@@ -16,9 +16,12 @@ selected_bidder:
 selected_bidder-link:
 submitted_work-link:
 last_modified: 2020-09-24
+excerpt_separator: <!--more-->
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus. Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus.
+<!--more-->
+Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed vitae tellus a erat efficitur posuere in efficitur lorem. Maecenas accumsan fringilla odio, quis aliquam est suscipit at. Nulla viverra lectus sed tortor imperdiet porttitor. Etiam sed tempus magna, non pulvinar mauris. Sed ultricies pharetra nibh nec gravida. Phasellus fringilla justo in semper finibus. Vestibulum eget nibh nec erat pharetra iaculis. In porta ipsum ac libero varius, vel condimentum metus vestibulum. Fusce scelerisque ut diam nec pulvinar. Aenean ipsum risus, sagittis sed euismod semper, varius eget augue. Mauris nec mi tincidunt, fringilla diam non, vulputate velit. Aenean in nunc turpis. Ut rutrum vehicula diam nec mattis.
 

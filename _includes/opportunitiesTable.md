@@ -1,16 +1,16 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
 {%- if aPost.size > 0 -%}
-<div class="row">
+
 
 <!-- Filter dropdowns -->
-<div class="col-md-3">
+
   <details open>
     <summary><h4 class="h4">{{ site.data.i18n.general.filterOptions[page.lang] }}</h4></summary>
-    <form class="wb-tables-filter" data-bind-to="dataset-filter">
-
-      <div class="form-group">
+    <form class="wb-tables-filter form-inline" data-bind-to="dataset-filter">
+<div class="row">
+      <div class="form-group col-md-4">
         <label for="dt_status">{{ site.data.i18n.general.opportunities.status[page.lang] }}</label>
-        <select class="form-control" id="dt_status" name="dt_status" data-column="2">
+        <select class="form-control" id="dt_status" name="dt_status" data-column="3">
           <option value="">&nbsp;</option>
           {%- assign status_arr = "" | split: ',' -%}
           {%- for post in aPost -%}
@@ -23,9 +23,9 @@
         </select>
       </div>
 
-      <div class="form-group">
+      <div class="form-group col-md-4">
         <label for="dt_skills">{{ site.data.i18n.general.opportunities.skill[page.lang] }}</label>
-        <select class="form-control" id="dt_skills" name="dt_skills" data-column="1">
+        <select class="form-control" id="dt_skills" name="dt_skills" data-column="2">
           <option value="">&nbsp;</option>
           {%- assign skills_arr = "" | split: ',' -%}
           {%- for post in aPost -%}
@@ -41,45 +41,53 @@
         </select>
       </div>
 
-      <div class="row">
-        <div class="col-xs-6">
+      <div class="form-group col-md-4">
           <button type="submit" class="btn btn-primary" aria-controls="dataset-filter">{{ site.data.i18n.general.filter[page.lang] }}</button>
-        </div>
-        <div class="col-xs-6">
           <button type="reset" class="btn btn-default">{{ site.data.i18n.general.clear[page.lang] }}</button>
-        </div>
       </div>
-
+</div>
     </form>
   </details>
-</div>
+
+<div class="row">
 
 <!-- Data Table -->
-<div class="col-md-9 mrgn-bttm-lg">
-  <table class="wb-tables table table-striped table-hover" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [4,5], "visible": false}], "paging": true}'>
+<div class="mrgn-bttm-lg">
+  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [6,7], "visible": false}], "paging": false}'>
     <thead>
       <tr>
         <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.excerpt[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.status[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.posted[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.closing[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.team[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.department[page.lang] }}</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody class="row wb-eqht">
       {%- for post in aPost -%}
-        <tr>
+        <tr class="col-xs-12 col-md-6">
           <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-          <td>{{ post.skills }}</td>
-          {%- if post.status == "Open" or post.status == "Ouvert" -%}
-            <td><span class="bg-success">{{ post.status }}</span></td>
-          {%- elsif post.status == "Closed" or post.status == "Fermé" -%}
-            <td><span class="bg-danger">{{ post.status }}</span></td>
-          {%- else -%}
-            <td>{{ post.status }}</td>
-          {% endif %}
-          <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+          <td>{{ post.excerpt }}</td>
+          <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
+            {%- assign skills = post.skills | split: ", " -%}
+            {%- for skill in skills -%}
+            <span class="label label-primary">{{ skill }}</span>&nbsp;
+            {%- endfor -%}
+          </td>
+          <td>{{ site.data.i18n.general.opportunities.status[page.lang] }}:&nbsp;
+            {%- if post.status == "Open" or post.status == "Ouvert" -%}
+              <span class="bg-success">{{ post.status }}</span>
+            {%- elsif post.status == "Closed" or post.status == "Fermé" -%}
+              <span class="bg-danger">{{ post.status }}</span>
+            {%- else -%}
+              {{ post.status }}
+            {%- endif -%}
+          </td>
+          <td>{{ site.data.i18n.general.opportunities.posted[page.lang] }}:&nbsp;{{ post.date | date: "%Y-%m-%d" }}</td>
+          <td>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d" }}</td>
           <td>{{ post.team }}</td>
           <td>{{ post.department }}</td>
         </tr>
