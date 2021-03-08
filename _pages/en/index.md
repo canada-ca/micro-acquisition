@@ -10,7 +10,8 @@ permalink: /en/index.html
 Are you a developer/programmer and you would like to earn some money working on short government contracts?
 Then you have come to the right place!
 
-Check out the [Opportunities]({{ site.baseurl }}{% link _pages/en/opportunities.md %}) page to see if there are any open opportunities that meet your skills.
+**Check out the [Opportunities]({{ site.baseurl }}{% link _pages/en/opportunities.md %}) page** to see if there are any open opportunities that meet your skills.
+
 More information about how Micro-Acquisition works can be found in the [Supplier user guide]({{ site.baseurl }}{% link _pages/en/supplier-guide.md %}) page.
 
 ## How is this different from other government of Canada procurement processes

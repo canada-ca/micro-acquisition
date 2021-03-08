@@ -1,8 +1,8 @@
 ---
 head:
   title:
-    en: &title_en Prototype Website for Micro-Acquisition
-    fr: &title_fr Site Web prototype micro-acquisition
+    en: &title_en Micro-Acquisition Pilot
+    fr: &title_fr Pilote micro-acquisition
   description:
     en: Prototype website to facilitate micro-acquisition.
     fr: Site web prototype pour faciliter le micro-acquisition.
