@@ -1,7 +1,6 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
 {%- if aPost.size > 0 -%}
 
-
 <!-- Filter dropdowns -->
 
   <details open>
@@ -57,39 +56,44 @@
     <thead>
       <tr>
         <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
-        <th>{{ site.data.i18n.general.opportunities.excerpt[page.lang] }}</th>
-        <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.status[page.lang] }}</th>
-        <th>{{ site.data.i18n.general.opportunities.posted[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.closing[page.lang] }}</th>
-        <th>{{ site.data.i18n.general.opportunities.team[page.lang] }}</th>
-        <th>{{ site.data.i18n.general.opportunities.department[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.value[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.short_desc[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
       </tr>
     </thead>
     <tbody class="row wb-eqht">
       {%- for post in aPost -%}
         <tr class="col-xs-12 col-md-6">
           <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-          <td>{{ post.excerpt }}</td>
+          <td>{{ site.data.i18n.general.opportunities.status[page.lang] }}:&nbsp;
+            {%- if post.status == "Open" or post.status == "Ouvert" -%}
+              <span class="bg-success">{{ post.status }}</span>
+          <td>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date }}</td>
+          <td>{{ post.value }}</td>
+          <td>{{ post.short_desc }}</td>
           <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
             {%- assign skills = post.skills | split: ", " -%}
             {%- for skill in skills -%}
             <span class="label label-primary">{{ skill }}</span>&nbsp;
             {%- endfor -%}
           </td>
-          <td>{{ site.data.i18n.general.opportunities.status[page.lang] }}:&nbsp;
-            {%- if post.status == "Open" or post.status == "Ouvert" -%}
-              <span class="bg-success">{{ post.status }}</span>
             {%- elsif post.status == "Closed" or post.status == "Fermé" -%}
+            <!-- If status is closed, do not include the closing date -->
               <span class="bg-danger">{{ post.status }}</span>
+          <td>{{ post.value }}</td>
+          <td>{{ post.short_desc }}</td>
+          <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
+            {%- assign skills = post.skills | split: ", " -%}
+            {%- for skill in skills -%}
+            <span class="label label-primary">{{ skill }}</span>&nbsp;
+            {%- endfor -%}
+          </td>
             {%- else -%}
               {{ post.status }}
             {%- endif -%}
           </td>
-          <td>{{ site.data.i18n.general.opportunities.posted[page.lang] }}:&nbsp;{{ post.date | date: "%Y-%m-%d" }}</td>
-          <td>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d" }}</td>
-          <td>{{ post.team }}</td>
-          <td>{{ post.department }}</td>
         </tr>
       {%- endfor -%}
     </tbody>
