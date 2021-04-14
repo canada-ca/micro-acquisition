@@ -11,10 +11,10 @@ permalink: /en/index.html
 <div class="col-sm-6">Are you a <strong>developer/programmer </strong> and you would like to earn some money working on short government contracts?
 <br>
 <br>
-Check out the <a href="pages/en/opportunities.html">Opportunities page</a> to see if there are any open opportunities that meet your skills.
+Check out the <a href="opportunities.html">Opportunities page</a> to see if there are any open opportunities that meet your skills.
 <br>
 <br>
-More information about how Micro-Acquisition works can be found in the <a href="pages/en/supplier-guide.html">Supplier User Guide</a></div>
+More information about how Micro-Acquisition works can be found in the <a href="supplier-guide.html">Supplier User Guide</a></div>
 
 <div class="col-sm-6">Are you an <strong>Employment and Social Development Canada employee</strong> who has work packages that could be done by external developers?
 <br>
@@ -22,7 +22,7 @@ More information about how Micro-Acquisition works can be found in the <a href="
 Send us an email (add link) and we can help you get the process started.
 <br>
 <br>
-Information about what you'll need to do can be found in the <a href="/pages/en/client-guide.html">Client User Guide</a></div>
+Information about what you'll need to do can be found in the <a href="client-guide.html">Client User Guide</a></div>
 </div>
 
 ## What is Micro-Acquisition
