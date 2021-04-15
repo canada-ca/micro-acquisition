@@ -10,7 +10,12 @@
     <div class="col-md-4">
     <b>{{ site.data.i18n.general.opportunities.status[page.lang] }} : </b>{{ page.status }}</div>
     <div class="col-md-8">
+        {%- if post.status == "Open" or post.status == "Ouvert" -%}
     <b>{{ site.data.i18n.general.opportunities.closing[page.lang] }} : </b>{{ page.closing_date }}</div>
+    {%- else -%}
+    <b>{{ site.data.i18n.general.opportunities.closed[page.lang] }} : </b>{{ page.closing_date }}</div>
+  {%- endif -%}
+
     </div>
 <br>
     <p>{{ page.short_desc}}</p>

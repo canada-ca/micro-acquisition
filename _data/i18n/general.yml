@@ -137,6 +137,9 @@ opportunities:
   closing:
     en: Closes
     fr: Date de fermeture
+  closed:
+    en: Closed
+    fr: Fermé
   details:
     en: Details
     fr: Détails
