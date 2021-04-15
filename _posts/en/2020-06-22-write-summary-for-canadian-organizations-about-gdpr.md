@@ -3,10 +3,7 @@ layout: post
 title: Write a summary for Canadian organizations about the GDPR
 ref: opportunity2
 lang: en
-department: Employment and Social Development Canada (ESDC)
 skills: Privacy
-team: Information management
-email: lorem.ipsum@canada.ca
 status: Open
 value: $0,000
 closing_date: 2020-10-20

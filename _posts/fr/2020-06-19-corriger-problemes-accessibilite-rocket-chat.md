@@ -3,10 +3,7 @@ layout: post
 title: Corriger les problèmes d'accessibilité dans Rocket.Chat
 ref: opportunity1
 lang: fr
-department: Secrétariat du Conseil du Trésor du Canada (SCT)
 skills: Accessibilité, Logiciels libres
-team: strategie TI
-email: lorem.ipsum@canada.ca
 status: Fermé
 value: 0,000 $
 closing_date: 2020-10-20

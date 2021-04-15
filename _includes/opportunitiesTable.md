@@ -22,7 +22,7 @@
         </select>
       </div>
 
-      <div class="form-group col-md-4">
+  <div class="form-group col-md-4">
         <label for="dt_skills">{{ site.data.i18n.general.opportunities.skill[page.lang] }}</label>
         <select class="form-control" id="dt_skills" name="dt_skills" data-column="2">
           <option value="">&nbsp;</option>
@@ -40,7 +40,7 @@
         </select>
       </div>
 
-      <div class="form-group col-md-4">
+  <div class="form-group col-md-4">
           <button type="submit" class="btn btn-primary" aria-controls="dataset-filter">{{ site.data.i18n.general.filter[page.lang] }}</button>
           <button type="reset" class="btn btn-default">{{ site.data.i18n.general.clear[page.lang] }}</button>
       </div>
