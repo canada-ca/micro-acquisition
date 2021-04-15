@@ -8,21 +8,16 @@ permalink: /en/index.html
 # Welcome to the Micro-Acquisition website
 
 <div class="row">
-<div class="col-sm-6">Are you a <strong>developer/programmer </strong> and you would like to earn some money working on short government contracts?
-<br>
-<br>
-Check out the <a href="opportunities.html">Opportunities page</a> to see if there are any open opportunities that meet your skills.
-<br>
-<br>
-More information about how Micro-Acquisition works can be found in the <a href="supplier-guide.html">Supplier User Guide</a></div>
-
-<div class="col-sm-6">Are you an <strong>Employment and Social Development Canada employee</strong> who has work packages that could be done by external developers?
-<br>
-<br>
-Send us an email (add link) and we can help you get the process started.
-<br>
-<br>
-Information about what you'll need to do can be found in the <a href="client-guide.html">Client User Guide</a></div>
+  <div class="col-sm-6">
+    <p>Are you a <strong>developer/programmer</strong> and you would like to earn some money working on short government contracts?</p>
+    <p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any open opportunities that meet your skills.</p>
+    <p>More information about how Micro-Acquisition works can be found in the <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="Supplier User Guide">Supplier User Guide</a></p>
+  </div>
+  <div class="col-sm-6">
+    <p>Are you an <strong>Employment and Social Development Canada employee</strong> who has work packages that could be done by external developers?</p>
+    <p>Send us an email (add link) and we can help you get the process started.</p>
+    <p>Information about what you'll need to do can be found in the <a href="{{ site.baseurl }}{% link _pages/en/client-guide.md %}" title="Client User Guide">Client User Guide</a></p>
+  </div>
 </div>
 
 ## What is Micro-Acquisition
@@ -39,7 +34,7 @@ On this web site you will find opportunities to be paid for coding work which me
 
 - **The application process is easy.** Our goal is that you will be able to apply in 2 hours or less.
 - **You will be paid quickly.** We are using credit cards/PayPal for payment to ensure you do not have to wait long once you have delivered your code.
-- **Fewer barriers in your way.** All the work is unclassified which means it can be done from your home on your computer and you do not need to have completed a government security screening. </div>
+- **Fewer barriers in your way.** All the work is unclassified which means it can be done from your home on your computer and you do not need to have completed a government security screening.
 
 ## Gratitude
 
