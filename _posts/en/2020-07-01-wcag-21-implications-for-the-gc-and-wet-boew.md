@@ -3,10 +3,7 @@ layout: post
 title: WCAG 2.1 implications for the GC and WET-BOEW
 ref: opportunity3
 lang: en
-department: Employment and Social Development Canada (ESDC)
 skills: Accessibility
-team: Web Technologies
-email: lorem.ipsum@canada.ca
 status: Open
 value: $0,000
 closing_date: 2020-10-20

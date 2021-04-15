@@ -3,10 +3,7 @@ layout: post
 title:  Rédiger un résumé sur le GDPR à l'intention des organisations canadiennes
 ref: opportunity2
 lang: fr
-department: Emploi et Développement social Canada (EDSC)
 skills: Vie privé
-team: Gestion de l'information
-email: lorem.ipsum@canada.ca
 status: Ouvert
 value: 0,000 $
 closing_date: 2020-10-20

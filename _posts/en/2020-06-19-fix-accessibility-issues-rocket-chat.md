@@ -3,10 +3,7 @@ layout: post
 title: Fix accessibility issues in Rocket.Chat
 ref: opportunity1
 lang: en
-department: Treasury Board of Canada Secretariat (TBS)
 skills: Accessibility, Open source software
-team: IT Strategy
-email: lorem.ipsum@canada.ca
 status: Closed
 value: $0,000
 closing_date: 2020-10-20
