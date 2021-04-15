@@ -9,7 +9,7 @@ team: Information management
 email: lorem.ipsum@canada.ca
 status: Open
 value: $0,000
-closing_date: 20 October 2021 -  23:59, Pacific Time
+closing_date: 2020-10-20
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:

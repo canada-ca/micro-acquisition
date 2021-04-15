@@ -70,7 +70,7 @@
           <td>{{ site.data.i18n.general.opportunities.status[page.lang] }}:&nbsp;
             {%- if post.status == "Open" or post.status == "Ouvert" -%}
               <span class="bg-success">{{ post.status }}</span>
-          <td>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date }}</td>
+          <td>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d" }}
           <td>{{ post.value }}</td>
           <td>{{ post.short_desc }}</td>
           <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
