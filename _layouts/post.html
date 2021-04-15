@@ -11,7 +11,7 @@
     <b>{{ site.data.i18n.general.opportunities.status[page.lang] }} : </b>{{ page.status }}</div>
     <div class="col-md-8">
     <!-- If status is closed, the label for the closing date should be 'Closed:' rather than 'Closing:' -->
-        {%- if post.status == "Open" or post.status == "Ouvert" -%}
+        {%- if page.status == "Open" or page.status == "Ouvert" -%}
     <b>{{ site.data.i18n.general.opportunities.closing[page.lang] }} : </b>{{ page.closing_date }}</div>
     {%- else -%}
     <b>{{ site.data.i18n.general.opportunities.closed[page.lang] }} : </b>{{ page.closing_date }}</div>
