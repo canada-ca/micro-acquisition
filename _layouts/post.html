@@ -6,14 +6,34 @@
     {% include header.html %}
     <h1>{{ page.title }}</h1>
 
+    <div class="row">
+    <div class="col-md-4">
+    <b>{{ site.data.i18n.general.opportunities.status[page.lang] }} : </b>{{ page.status }}</div>
+    <div class="col-md-8">
+    <!-- If status is closed, the label for the closing date should be 'Closed:' rather than 'Closing:' -->
+        {%- if page.status == "Open" or page.status == "Ouvert" -%}
+    <b>{{ site.data.i18n.general.opportunities.closing[page.lang] }} : </b>{{ page.closing_date }}</div>
+    {%- else -%}
+    <b>{{ site.data.i18n.general.opportunities.closed[page.lang] }} : </b>{{ page.closing_date }}</div>
+  {%- endif -%}
+
+    </div>
+<br>
+    <p>{{ page.short_desc}}</p>
+    <hr>
+    <h2>{{ site.data.i18n.general.opportunities.details[page.lang] }}</h2>
+    <b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b>{{ page.skills }}
+<!-- Commenting this out for now replaced with div instead of table and removed unnecessary fields
     <table style="width:100%">
+        <tr>
+            <td><b>{{ site.data.i18n.general.opportunities.status[page.lang] }}:</b></td>
+            <td>{{ page.status }}</td>
+            <td><b>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:</b></td>
+            <td>{{ page.closing }}</td>
+        </tr>
         <tr>
             <td><b>{{ site.data.i18n.general.opportunities.department[page.lang] }}:</b></td>
             <td>{{ page.department }}</td>
-            <td><b>{{ site.data.i18n.general.opportunities.manager[page.lang] }}:</b></td>
-            <td>{{ page.manager }}</td>
-        </tr>
-        <tr>
             <td><b>{{ site.data.i18n.general.opportunities.team[page.lang] }}:</b></td>
             <td>{{ page.team }}</td>
             <td><b>{{ site.data.i18n.general.opportunities.email[page.lang] }}:</b></td>
@@ -22,20 +42,19 @@
         <tr>
             <td><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b></td>
             <td>{{ page.skills }}</td>
-            <td><b>{{ site.data.i18n.general.opportunities.phone[page.lang] }}:</b></td>
-            <td>{{ page.phone }}</td>
         </tr>
         <tr>
-            <td><b>{{ site.data.i18n.general.opportunities.status[page.lang] }}:</b></td>
-            <td>{{ page.status }}</td>
+
         </tr>
         <tr>
             <td><b>{{ site.data.i18n.general.opportunities.value[page.lang] }}:</b></td>
             <td>{{ page.value }}</td>
         </tr>
-    </table>
+    </table> -->
 
     <p>{{ content }}</p>
+
+    {% include howtoapply.html %}
 
     <i>{{ site.data.i18n.general.opportunities.last_modified[page.lang] }} {{ page.last_modified }}</i>
 
