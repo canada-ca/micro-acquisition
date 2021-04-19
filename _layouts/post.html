@@ -6,51 +6,22 @@
     {% include header.html %}
     <h1>{{ page.title }}</h1>
 
-    <div class="row">
-    <div class="col-md-4">
-    <b>{{ site.data.i18n.general.opportunities.status[page.lang] }} : </b>{{ page.status }}</div>
-    <div class="col-md-8">
     <!-- If status is closed, the label for the closing date should be 'Closed:' rather than 'Closing:' -->
-        {%- if page.status == "Open" or page.status == "Ouvert" -%}
-    <b>{{ site.data.i18n.general.opportunities.closing[page.lang] }} : </b>{{ page.closing_date }}</div>
-    {%- else -%}
-    <b>{{ site.data.i18n.general.opportunities.closed[page.lang] }} : </b>{{ page.closing_date }}</div>
-  {%- endif -%}
-
-    </div>
-<br>
+    <p>
+        {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+        {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
+        {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.pacificTime[page.lang] }}&nbsp;
+        {%- if closeXML > nowXML -%}
+            <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
+        {%- else -%}
+            <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>
+        {%- endif -%}
+    </p>
+    <hr/>
     <p>{{ page.short_desc}}</p>
-    <hr>
+    <hr/>
     <h2>{{ site.data.i18n.general.opportunities.details[page.lang] }}</h2>
     <b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b>{{ page.skills }}
-<!-- Commenting this out for now replaced with div instead of table and removed unnecessary fields
-    <table style="width:100%">
-        <tr>
-            <td><b>{{ site.data.i18n.general.opportunities.status[page.lang] }}:</b></td>
-            <td>{{ page.status }}</td>
-            <td><b>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:</b></td>
-            <td>{{ page.closing }}</td>
-        </tr>
-        <tr>
-            <td><b>{{ site.data.i18n.general.opportunities.department[page.lang] }}:</b></td>
-            <td>{{ page.department }}</td>
-            <td><b>{{ site.data.i18n.general.opportunities.team[page.lang] }}:</b></td>
-            <td>{{ page.team }}</td>
-            <td><b>{{ site.data.i18n.general.opportunities.email[page.lang] }}:</b></td>
-            <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
-        </tr>
-        <tr>
-            <td><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b></td>
-            <td>{{ page.skills }}</td>
-        </tr>
-        <tr>
-
-        </tr>
-        <tr>
-            <td><b>{{ site.data.i18n.general.opportunities.value[page.lang] }}:</b></td>
-            <td>{{ page.value }}</td>
-        </tr>
-    </table> -->
 
     <p>{{ content }}</p>
 

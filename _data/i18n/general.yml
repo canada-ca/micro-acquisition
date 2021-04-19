@@ -140,9 +140,15 @@ opportunities:
   closed:
     en: Closed
     fr: Fermé
+  open:
+    en: Open
+    fr: Ouvert
   details:
     en: Details
     fr: Détails
+  pacificTime:
+    en: Pacific time
+    fr: heure du pacifique
 
 apply:
   title:

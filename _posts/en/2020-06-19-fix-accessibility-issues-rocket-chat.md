@@ -4,9 +4,8 @@ title: Fix accessibility issues in Rocket.Chat
 ref: opportunity1
 lang: en
 skills: Accessibility, Open source software
-status: Closed
 value: $0,000
-closing_date: 2020-10-20
+closing_date: 2020-10-20T23:59:59-07:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
