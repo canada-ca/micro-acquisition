@@ -4,9 +4,8 @@ title: Write a summary for Canadian organizations about the GDPR
 ref: opportunity2
 lang: en
 skills: Privacy
-status: Open
 value: $0,000
-closing_date: 2020-10-20
+closing_date: 2020-10-20T23:59:59-07:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:

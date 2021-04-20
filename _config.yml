@@ -8,3 +8,4 @@ wet_cdts_version: "v4_0_39"
 # Build settings
 markdown: kramdown
 include: ["_pages"]
+timezone: America/Vancouver

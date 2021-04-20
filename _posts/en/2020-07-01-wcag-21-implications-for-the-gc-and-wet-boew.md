@@ -4,13 +4,12 @@ title: WCAG 2.1 implications for the GC and WET-BOEW
 ref: opportunity3
 lang: en
 skills: Accessibility
-status: Open
 value: $0,000
-closing_date: 2020-10-20
+closing_date: 2021-05-20T23:59:59-07:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
-last_modified: 2020-09-24
+last_modified: 2021-04-19
 short_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus. Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque."
 ---
 
