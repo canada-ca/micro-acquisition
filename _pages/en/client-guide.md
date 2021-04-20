@@ -7,7 +7,9 @@ permalink: /en/client-guide.html
 # Client user guide
 
 To be a client of this pilot you must be an ESDC or Service Canada employee.
-Thank you for considering being part of this pilot and enabling small businesses and freelancers across the country to access GC contract dollars. 
+
+Thank you for considering being part of this pilot and enabling small businesses and freelancers across the country to access GC contract dollars.
+
 We think you will find some fantastic talent!
 
 **Step 1:** Think you'd like to do a micro-acquisition?
