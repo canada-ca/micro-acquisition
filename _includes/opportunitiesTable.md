@@ -1,7 +1,7 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
 {%- if aPost.size > 0 -%}
 
-<link rel='stylesheet' href='{{ site.url }}{{ site.baseurl }}/assets/css/gridify.css' />
+<link rel='stylesheet' href='../assets/css/gridify.css' />
 
 <!-- Filter dropdowns -->
 
