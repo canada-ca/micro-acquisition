@@ -4,10 +4,9 @@ ref: supplier
 lang: en
 permalink: /en/supplier-guide.html
 ---
-<!-- markdownlint-disable MD026 -->
 # Supplier user guide
 
-## Before you apply, do you have:
+## Before you apply, do you have
 
 ### 1. An account on an public source code repository
 
@@ -16,7 +15,7 @@ Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitH
 
 ### 2. Familiarity with Git version control system
 
-add *a link to a bilingual user guide*
+> Note: add a link to a bilingual user guide
 
 ### 3. The ability to accept payment from a credit card using a payment system or via PayPal
 

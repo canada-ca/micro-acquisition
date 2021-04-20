@@ -4,6 +4,7 @@ ref: terms
 lang: en
 permalink: /en/terms.html
 ---
+
 # Micro-Acquisition Terms and Conditions
 
 Suppliers who do work as part of the Micro-Acquisition Pilot will be required to sign the following terms:

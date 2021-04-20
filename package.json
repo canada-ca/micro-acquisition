@@ -1,0 +1,28 @@
+{
+  "name": "micro-acquisition",
+  "version": "1.0.0",
+  "description": "([Français](#prototype-site-web-micro-acquisition))",
+  "main": "index.js",
+  "scripts": {
+    "lint-markdown": "markdownlint -i node_modules -i _site -i _includes -i README.md -i SECURITY.md \"**/*.md\"",
+    "lint-editorconfig": "editorconfig-checker -disable-indentation -disable-insert-final-newline",
+    "open-licences": "licensee --errors-only",
+    "test": "npm run lint-markdown && npm run lint-editorconfig && npm run open-licences"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/micro-acquisition.git"
+  },
+  "author": "Sébastien Lemay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canada-ca/micro-acquisition/issues"
+  },
+  "homepage": "https://github.com/canada-ca/micro-acquisition#readme",
+  "devDependencies": {
+    "editorconfig-checker": "^4.0.2",
+    "licensee": "^8.2.0",
+    "markdownlint-cli": "^0.27.1"
+  },
+  "dependencies": {}
+}
