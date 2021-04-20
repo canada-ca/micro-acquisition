@@ -6,7 +6,7 @@
   <details open>
     <summary><h4 class="h4">{{ site.data.i18n.general.filterOptions[page.lang] }}</h4></summary>
     <form class="wb-tables-filter form-inline" data-bind-to="dataset-filter">
-<div class="row">
+    <div class="row">
       <div class="form-group col-md-4">
         <label for="dt_status">{{ site.data.i18n.general.opportunities.status[page.lang] }}</label>
         <select class="form-control" id="dt_status" name="dt_status" data-column="1">
@@ -15,8 +15,7 @@
           <option value="{{ site.data.i18n.general.opportunities.closed[page.lang] }}">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</option>
         </select>
       </div>
-
-  <div class="form-group col-md-4">
+      <div class="form-group col-md-4">
         <label for="dt_skills">{{ site.data.i18n.general.opportunities.skill[page.lang] }}</label>
         <select class="form-control" id="dt_skills" name="dt_skills" data-column="5">
           <option value="">&nbsp;</option>
@@ -33,12 +32,11 @@
           {%- endfor -%}
         </select>
       </div>
-
-  <div class="form-group col-md-4">
+      <div class="form-group col-md-4">
           <button type="submit" class="btn btn-primary" aria-controls="dataset-filter">{{ site.data.i18n.general.filter[page.lang] }}</button>
           <button type="reset" class="btn btn-default">{{ site.data.i18n.general.clear[page.lang] }}</button>
       </div>
-</div>
+    </div>
     </form>
   </details>
 
@@ -46,11 +44,10 @@
 
 <!-- Data Table -->
 <div class="mrgn-bttm-lg">
-  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [1], "visible": false}], "paging": false}'>
+  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
     <thead>
       <tr>
         <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
-        <th>{{ site.data.i18n.general.opportunities.status[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.closing[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.value[page.lang] }}</th>
         <th>{{ site.data.i18n.general.opportunities.short_desc[page.lang] }}</th>
@@ -63,14 +60,6 @@
         {%- capture closeXML -%}{{ post.closing_date | date_to_xmlschema }}{%- endcapture -%}
         <tr class="col-xs-12 col-md-6">
           <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-          <td>
-            {{ site.data.i18n.general.opportunities.status[page.lang] }}:&nbsp;
-            {%- if closeXML > nowXML -%}
-              {{ site.data.i18n.general.opportunities.open[page.lang] }}
-            {%- else -%}
-              {{ site.data.i18n.general.opportunities.closed[page.lang] }}
-            {%- endif -%}
-          </td>
           <td>
             {%- if closeXML > nowXML -%}
               <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
