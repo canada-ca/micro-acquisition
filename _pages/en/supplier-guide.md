@@ -20,7 +20,7 @@ Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitH
 
 ### 3. The ability to accept payment from a credit card using a payment system or via PayPal?
 
-Note that having a credit card does not mean you are able to accept payment by credit card. Learn about how to get set up to accept credit cards using a payment system *add a link to some info about this - is there an open source option?* and [get set up to accept payment via PayPal](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds).
+Learn about how to get set up to accept credit cards using a payment system add a link to some info about this - is there an open source option? and get set up to accept payment via PayPal [get set up to accept payment via PayPal](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds). Note that simply having a credit card does not mean you are able to accept payment by credit card.
 
 **You will need all of the above three things to work on a micro-acquisition contract.**
 
