@@ -4,23 +4,28 @@ ref: supplier
 lang: en
 permalink: /en/supplier-guide.html
 ---
-
+<!-- markdownlint-disable MD026 -->
 # Supplier user guide
 
 ## Before you apply, do you have:
 
-### 1. An account on an public source code repository?
+### 1. An account on an public source code repository
 
 You can work on a repository of your choice.
 Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitHub](https://github.com.com/) (english only), [Bitbucket](https://bitbucket.org/) (english only)
 
-### 2. Familiarity with Git version control system?
+### 2. Familiarity with Git version control system
 
-*add a link to a bilingual user guide*
+add *a link to a bilingual user guide*
 
-### 3. The ability to accept payment from a credit card using a payment system or via PayPal?
+### 3. The ability to accept payment from a credit card using a payment system or via PayPal
 
-Learn about how to get set up to accept credit cards using a payment system add a link to some info about this - is there an open source option? and get set up to accept payment via PayPal [get set up to accept payment via PayPal](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds). Note that simply having a credit card does not mean you are able to accept payment by credit card.
+If you have never accepted payment via a credit card or via PayPal, learn about how to get set up to:
+
+- accept credit cards using a payment system *add a link to some info about this - is there an open source option?* or
+- accept payment via PayPal [get set up to accept payment via PayPal](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds).
+
+Note that simply having a credit card does not mean you are able to accept payment by credit card.
 
 **You will need all of the above three things to work on a micro-acquisition contract.**
 
