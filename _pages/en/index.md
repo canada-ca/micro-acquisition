@@ -9,7 +9,7 @@ permalink: /en/index.html
 
 <div class="row">
   <div class="col-sm-6">
-    <p>Are you a <strong>developer/programmer</strong> and you would like to earn some money working on short government contracts?</p>
+    <p>Are you a <strong>developer / programmer</strong> and you would like to earn some money working on short government contracts?</p>
     <p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any open opportunities that meet your skills.</p>
     <p>More information about how Micro-Acquisition works can be found in the <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="Supplier User Guide">Supplier User Guide</a></p>
   </div>
