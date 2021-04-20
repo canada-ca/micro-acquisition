@@ -27,8 +27,8 @@ head:
 
 nav:
   base:
-    en: https://canada-ca.github.io/devex-pages
-    fr: https://canada-ca.github.io/devex-pages
+    en: https://canada-ca.github.io/micro-acquisition
+    fr: https://canada-ca.github.io/micro-acquisition
   home:
     en: *title_en
     fr: *title_fr

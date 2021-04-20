@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "/devex-pages"
-url: "https://canada-ca.github.io/devex-pages/"
+baseurl: "/micro-acquisition"
+url: "https://canada-ca.github.io/micro-acquisition/"
 
 wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
 wet_cdts_version: "v4_0_39"
