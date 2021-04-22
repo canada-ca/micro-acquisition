@@ -6,37 +6,48 @@ permalink: /en/client-guide.html
 ---
 # Client user guide
 
-To be a client of this pilot you must be an ESDC or Service Canada employee.
+To be a client of this pilot you must be an Employment and Social Development Canada or Service Canada employee.
 
 Thank you for considering being part of this pilot and enabling small businesses and freelancers across the country to access GC contract dollars.
 
-We think you will find some fantastic talent!
+We think you will find some fantastic programmer/developer talent!
 
-**Step 1:** Think you'd like to do a micro-acquisition?
+<div class="well"><h2>Step 1</h2>
+<p> Think you'd like to do a micro-acquisition?
 Get in touch with us!
-Here is the email: *add client email*
+Here is the email: *add client email*.</p>
 
-**Step 2:** determining if your need meets the eligibility criteria for the pilot and whether we have capacity to run it (we can explain what this means)
+<h2>Step 2</h2>
+<p>Determine if your need meets the eligibility criteria for the pilot and whether we have capacity to run it (we can explain what this means).</p>
 
-**Step 3:** You write a description of the work required.
-We have a template *add link* for that!
-Want to see what descriptions of work can look like?
-Check out the BC Digital marketplace for examples.
-*Note: It is important to get this piece right as if it is unclear to suppliers you will spend a lot of time fielding questions and answering/translating answers (they all have to be posted on the website within a 48 hour time frame – less if the opportunity is only posted for a week)*
+<h2>Step 3</h2>
+<p>You write a description of the work required.
+We have a template *add link* for that!</p>
 
-**Step 4:** The funds get committed and the translated opportunity is posted on the website.
-*Note: to get the opportunity posted on the website, you will need to open a Pull Request on the repo (on GitHub).
-If you don't know how to do this, no problem! We can coach you through it. Message us at (add client email address)*
+<p><em>Note: It is worth spending the time up front to ensure that the description of the work required is clear and accurate.
+If it is unclear, you will spend more time fielding questions from suppliers and answering/translating your answers.</em></p>
 
-**Step 5:** You evaluate the suppliers who express an interest. (we have guidance *add link* for that)
+<h2>Step 4</h2>
+<p>The funds get reserved and the translated opportunity is posted on the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> page.</p>
 
-**Step 6:** You select a supplier and the work begins on an open repository.
+<p><em>Note: to get your opportunity posted, you will need to open a Pull Request on the Micro-Acquisition repository (on GitHub).
+If you don't know how to do this, no problem! We can coach you through it. Message us at (add client email address).</em></p>
 
-**Step 7:** You assess the delivered code against criteria that were included in the web posting. (we have guidance *add link* for that)
+<h2>Step 5</h2>
+<p>You evaluate the suppliers who express an interest in your opportunity based on the evaluation criteria included in your opportunity statement.</p>
 
-**Step 8:** You accept the code and the supplier is paid.
+<h2>Step 6</h2>
+<p>You select a supplier and the work begins on an open repository.</p>
 
-**Step 9:** You add an entry for the code in the [Open Resource Exchange](https://code.open.canada.ca/en/index.html) so others can find and reuse the code.
+<h2>Step 7</h2>
+<p>You assess the delivered code against the acceptance criteria included in the opportunity statement.</p>
 
-Want to know a lot more about how this works?
-Here is our Roles and Responsibilities document. *add link*
+<h2>Step 8</h2>
+<p>You accept the code and the supplier is paid.</p>
+
+<h2>Step 9</h2>
+<p>You add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html">Open Resource Exchange</a> so others can find and reuse the code.</p>
+</div>
+
+Want to know more information about the process?
+Send us an email (add client email address)!
