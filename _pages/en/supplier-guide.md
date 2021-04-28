@@ -41,13 +41,11 @@ Before sending your email, verify that you have included the following in your e
 - The name of the opportunity you are applying for
 - Your name
 - Your business name (if different from your name)
-- Written affirmations as follows:
-  - "I can complete the work by *add completion date from the opportunity statement*"
-  - "I agree to be paid by credit card or PayPal"
-  - "I have the skills required to complete the work described in the *add name of the opportunity* opportunity statement
-- A text description of your experience with the required skills (500 words or less)
+- Written affirmation that by applying to an opportunity, you agree to complete the work by the completion date in the opportunity statement and that you agree to be paid by credit card or PayPal
+- Responses to all of the Evaluation Criteria for the opportunity you are applying for with the required skills (500 words or less).
+
 Note that these requirements are marked as a pass/fail.
-You will not be graded on each but a pass is required for each item in order to be able to be considered for an opportunity
+You will not be graded on each but a pass is required for each item in order to be able to be considered for an opportunity.
 
 ## After applying
 
