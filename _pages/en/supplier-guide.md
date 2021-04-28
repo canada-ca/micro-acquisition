@@ -57,4 +57,8 @@ A random number generator will then be used to select the winning supplier.
 
 You will be advised via email if you have (or have not) been selected.
 
-Still to do......Anticipate questions and include the answers in the documentation (advice from OSME)
+## Work and payment
+
+If you are selected, before starting work, you will be asked to sign this [intellectual property form](terms.md).
+
+Once your work has been completed and the client agrees that the work meets the acceptance criteria in the opportunity statement, you will send an invoice for the $ value of the opportunity. This [template invoice](../../assets/invoice_template.odt) can be used and includes all the fields required for payment.
