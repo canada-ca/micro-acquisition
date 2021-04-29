@@ -13,9 +13,8 @@ permalink: /en/supplier-guide.html
 You can work on a repository of your choice.
 Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitHub](https://github.com.com/) (english only), [Bitbucket](https://bitbucket.org/) (english only)
 
-### 2. Familiarity with Git version control system
+### 2. Familiarity with [Git version control system](https://training.github.com/downloads/fr/github-git-cheat-sheet/)
 
-> Note: add a link to a bilingual user guide
 
 ### 3. The ability to accept payment from a credit card using a payment system or via PayPal
 
