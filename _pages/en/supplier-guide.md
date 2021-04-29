@@ -15,7 +15,7 @@ Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitH
 
 ### 2. Familiarity with Git version control system
 
-> Note: add a link to a bilingual user guide
+If you have not used Git before or need a refresher, this [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet) includes all the basic commands.
 
 ### 3. The ability to accept payment from a credit card using a payment system or via PayPal
 
