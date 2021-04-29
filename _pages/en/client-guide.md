@@ -23,7 +23,7 @@ Here is the email: *add client email*.</p>
 
 <h2 class="h5">Step 3</h2>
 <p>You write a description of the work required.
-We have a <a target="_blank" href="https://github.com/canada-ca/micro-acquisition/raw/main/_posts/en/template-opportunity.md" title="Opportunity Template">Opportunity Template</a> for that!</p>
+We have a <a target="_blank" href="https://raw.githubusercontent.com/canada-ca/micro-acquisition/opptemplate/_posts/en/template-opportunity.md" title="Opportunity Template">Opportunity Template</a> for that!</p>
 
 <p><em>Note: It is worth spending the time up front to ensure that the description of the work required is clear and accurate.
 If it is unclear, you will spend more time fielding questions from suppliers and answering/translating your answers.</em></p>
