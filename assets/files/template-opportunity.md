@@ -1,34 +1,20 @@
----
-layout: post
-title:
-ref: opportunity1
-lang: en
-skills:
-value: $0,000
-closing_date: 2020-10-20T23:59:59-07:00
-work_start_date: 2020-10-30
-work_delivery_date: 2020-11-15
-selected_bidder:
-selected_bidder-link:
-submitted_work-link:
-last_modified: 2020-09-24
-short_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus."
+
 ---
 
-<!-- layout: post       do not change this. -->
-<!-- title: add the name of the opportunity here. Max 100 chars -->
-<!-- ref: opportunity1      format should be 'opportunity' + <sequential number of the opportunity -->
-<!-- lang: en           do not change this. -->
-<!-- skills: add skills separated by a comma e.g. Accessibility, Open source software -->
-<!-- value: value must be less than or equal to $10K including all taxes. The format should be $0,000 -->
-<!-- closing_date: 2020-10-20T23:59:59-07:00    all opportunities close at midnight PST.  Only change the date. -->
-<!-- work_start_date: 2020-10-30   include the date the work will start. Must be later than closing_date -->
-<!-- work_delivery_date: 2020-11-15   include the date the completed work must be delivered by. Must be later than work_start_date. -->
-<!-- selected_bidder:  leave this blank until a bidder is selected. Remove this comment prior to posting the opportunity -->
-<!-- selected_bidder-link: leave this blank until a bidder is selected. Remove this comment prior to posting the opportunity -->
-<!-- submitted_work-link:  leave this blank until a bidder is selected. Remove this comment prior to posting the opportunity -->
-<!-- last_modified: 2020-09-24  This will change automatically -->
-<!-- short_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus." replace the text in the quotes with a short 2-3 sentence description of the opportunity. This is what will be displayed on the main opportunities page.  The text should make suppliers feel interested in applying -->
+layout: post       do not change this.
+title: add the name of the opportunity here. Max 100 chars
+ref: opportunity1      format should be 'opportunity' + <sequential number of the opportunity>
+lang: en           do not change this.
+skills: add skills separated by a comma e.g. Accessibility, Open source software
+value: value must be less than or equal to $10K including all taxes. The format should be $0,000
+closing_date: 2020-10-20T23:59:59-07:00    all opportunities close at midnight PST.  Only change the date.
+work_start_date: 2020-10-30   include the date the work will start. Must be later than closing_date
+work_delivery_date: 2020-11-15   include the date the completed work must be delivered by. Must be later than work_start_date.
+selected_bidder:  leave this blank until a bidder is selected. Remove this comment prior to posting the opportunity
+selected_bidder-link: leave this blank until a bidder is selected. Remove this comment prior to posting the opportunity
+submitted_work-link:  leave this blank until a bidder is selected. Remove this comment prior to posting the opportunity
+last_modified: 2020-09-24  This will change automatically
+short_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus." replace the text in the quotes with a short 2-3 sentence description of the opportunity. This is what will be displayed on the main opportunities page.  The text should make suppliers feel interested in applying
 
 ## Description
 
