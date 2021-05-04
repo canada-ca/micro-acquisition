@@ -23,10 +23,7 @@ Here is the email: *add client email*.</p>
 
 <h2 class="h5">Step 3</h2>
 <p>You write a description of the work required.
-We have a template *add link* for that!</p>
-
-<p><em>Note: It is worth spending the time up front to ensure that the description of the work required is clear and accurate.
-If it is unclear, you will spend more time fielding questions from suppliers and answering/translating your answers.</em></p>
+We have a template and instructions for how to do that. Send us an email and we can share this with you.</p>
 
 <h2 class="h5">Step 4</h2>
 <p>The funds get reserved and the translated opportunity is posted on the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> page.</p>
