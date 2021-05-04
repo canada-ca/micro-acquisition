@@ -149,6 +149,12 @@ opportunities:
   pacificTime:
     en: Pacific time
     fr: heure du pacifique
+  startdate:
+    en: Work start date
+    fr: date de début de travail
+  deliverydate:
+    en: Work delivery date
+    fr: date de livraison de travail
 
 apply:
   title:
