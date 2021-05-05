@@ -11,15 +11,9 @@
         {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
         {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
         {%- if closeXML > nowXML -%}
-            {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;
+            <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>&nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.pacificTime[page.lang] }}&nbsp;
         {%- else -%}
-            {{ site.data.i18n.general.opportunities.closed[page.lang] }}:&nbsp;
-        {%- endif -%}
-        {{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.pacificTime[page.lang] }}&nbsp;
-        {%- if closeXML > nowXML -%}
-            <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
-        {%- else -%}
-            <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>
+            <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.pacificTime[page.lang] }}&nbsp;
         {%- endif -%}
     </b></p>
     <hr/>
