@@ -48,6 +48,6 @@ We have also endeavoured to learn from the lessons of the [GC Developers Exchang
 ## Feedback
 
 We want to hear from you!
-If you are having trouble using this website, if you have questions if you are finding any of our processes confusing.
+If you are having trouble using this website, if you have questions, if you are finding any of our processes confusing.
 Let us know!
-Open an issue on the Micro-Acquisition repo *add link* or send us an email *add link*.
+Open an issue on the [Micro-Acquisition repo](https://github.com/canada-ca/micro-acquisition) or send us an email *add link*.
