@@ -42,7 +42,7 @@ On this web site you will find opportunities to be paid for coding work which me
 
 ## Gratitude
 
-This pilot would not have been possible without the help of the kind folks at the [BC Developers Exchange](https://bcdevexchange.org/)/[BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) who have lead the way for years, and from the wonderful people at the Office of Small and Medium Enterprises who have generously shared their expertise.
+This pilot would not have been possible without the help of the kind folks at the [BC Developers Exchange](https://bcdevexchange.org/)/[BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) who have lead the way for years, and from the wonderful people at the [Office of Small and Medium Enterprises](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) who have generously shared their expertise.
 We have also endeavoured to learn from the lessons of the [GC Developers Exchange](https://github.com/canada-ca/devex) (the Government of Canada's first foray into low dollar value acquisitions for open source code).
 
 ## Feedback
