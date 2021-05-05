@@ -6,6 +6,9 @@ permalink: /en/supplier-guide.html
 ---
 # Supplier user guide
 
+## Are you Eligible?
+To be eligible to apply to an opportunity on this site you must be Canadian and/or First Nations, Métis, Inuit or you must have the appropriate [work permits](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html) to work in Canada.
+
 ## Before you apply, do you have
 
 ### 1. An account on an public source code repository
