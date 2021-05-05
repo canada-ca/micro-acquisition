@@ -45,8 +45,8 @@ Before sending your email, verify that you have included the following in your e
 - Your name
 - Your business name (if different from your name)
 - Responses to all of the Evaluation Criteria for the opportunity you are applying for
-- "I affirm that *(fill in the blank with either*: 
-1. I am Canadian and/or First Nations, Métis, Inuit or 
+- "I affirm that *(fill in the blank with either*:
+1. I am Canadian and/or First Nations, Métis, Inuit or
 2. I have all the relevant work permits to work in Canada")
 
 Note that these requirements are marked as a pass/fail.
