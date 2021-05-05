@@ -42,6 +42,9 @@ Before sending your email, verify that you have included the following in your e
 - Your name
 - Your business name (if different from your name)
 - Responses to all of the Evaluation Criteria for the opportunity you are applying for
+- "I affirm that *(fill in the blank with either*: 
+1. I am Canadian and/or First Nations, Métis, Inuit or 
+2. I have all the relevant work permits to work in Canada")
 
 Note that these requirements are marked as a pass/fail.
 You will not be graded on each but a pass is required for each item in order to be able to be considered for an opportunity.
@@ -54,7 +57,7 @@ You will not be graded on each but a pass is required for each item in order to 
 ## After applying
 
 Once the opportunity deadline has passed, the applications will be evaluated.
-If multiple suppliers pass the evaluation, those suppliers will be assigned a number.
+If multiple suppliers pass the evaluation criteria, those suppliers will be assigned a number.
 A random number generator will then be used to select the winning supplier.
 
 You will be advised via email if you have (or have not) been selected.
