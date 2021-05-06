@@ -2,7 +2,7 @@
 
 ## Micro-acquisition Prototype Website
 
-https://canada-ca.github.io/devex-pages/en/
+https://canada-ca.github.io/micro-acquisition/en/index.html
 
 What is this project?
 
@@ -22,7 +22,7 @@ ______________________
 
 ## Prototype site Web micro-acquisition
 
-https://canada-ca.github.io/devex-pages/fr/
+https://canada-ca.github.io/micro-acquisition/fr/index.html
 
 Quel est ce projet?
 
