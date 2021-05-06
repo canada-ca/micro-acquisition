@@ -163,6 +163,13 @@ apply:
   description:
     en: "To apply to a Micro-Acquisition opportunity, send an email to the following address: *add email address*."
     fr: "French description of how to apply to come"
-  link:
-    en: "A checklist of what to include in your email can be found in the Supplier User Guide."
+  checklist:
+    en: "A checklist of what to include in your email can be found in the"
     fr: "French link to supplier user guide and text to come"
+  guide: 
+    en: 
+      link: _pages/en/supplier-guide.md
+      title: Supplier User Guide
+    fr:
+      link: _pages/fr/guide-fournisseur.md
+      title: guide de l'utilisateur du fournisseur
