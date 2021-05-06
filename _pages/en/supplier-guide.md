@@ -6,6 +6,10 @@ permalink: /en/supplier-guide.html
 ---
 # Supplier user guide
 
+## Are you Eligible?
+
+You are eligible for opportunities on this site if you are Canadian and/or First Nations, Métis, Inuit or if you have the appropriate [work permits](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html) to work in Canada.
+
 ## Before you apply, do you have
 
 ### 1. An account on an public source code repository
@@ -19,9 +23,9 @@ If you have not used Git before or need a refresher, this [Git cheat sheet](http
 
 ### 3. The ability to accept payment from a credit card using a payment system or via PayPal
 
-If you have never accepted payment via a credit card or via PayPal, learn about how to get set up to:
+If you have never accepted payment via a credit card or via PayPal, learn about how to get set up to either:
 
-- accept credit cards using a payment system *add a link to some info about this - is there an open source option?* or
+- accept credit cards using a payment system *add a link to some info about this - is there an open source option?*
 - accept payment via PayPal [get set up to accept payment via PayPal](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds).
 
 Note that simply having a credit card does not mean you are able to accept payment by credit card.
@@ -36,12 +40,16 @@ If you have a question about an opportunity, get them in as fast as possible, an
 ## Ready to apply?
 
 You apply to Micro-Acquisition opportunities by email to this address *add email address*.
-Before sending your email, verify that you have included the following in your email:
+Please include the following information in your email:
 
 - The name of the opportunity you are applying for
 - Your name
 - Your business name (if different from your name)
 - Responses to all of the Evaluation Criteria for the opportunity you are applying for
+- One of the following written statements:
+
+  1. I affirm that I am Canadian and/or First Nations, Métis, Inuit or
+  2. I affirm that I have all the relevant work permits to work in Canada
 
 Note that these requirements are marked as a pass/fail.
 You will not be graded on each but a pass is required for each item in order to be able to be considered for an opportunity.
@@ -54,7 +62,7 @@ You will not be graded on each but a pass is required for each item in order to 
 ## After applying
 
 Once the opportunity deadline has passed, the applications will be evaluated.
-If multiple suppliers pass the evaluation, those suppliers will be assigned a number.
+If multiple suppliers pass the evaluation criteria, those suppliers will be assigned a number.
 A random number generator will then be used to select the winning supplier.
 
 You will be advised via email if you have (or have not) been selected.
