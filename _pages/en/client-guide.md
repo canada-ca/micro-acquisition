@@ -15,8 +15,7 @@ We think you will find some fantastic programmer/developer talent!
 
 <div class="well"><h2 class="h5">Step 1</h2>
 <p> Think you'd like to do a micro-acquisition?
-Get in touch with us!
-Here is the email: *add client email*.</p>
+Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a> with some information about your coding needs.</p>
 
 <h2 class="h5">Step 2</h2>
 <p>Determine if your need meets the eligibility criteria for the pilot and whether we have capacity to run it (we can explain what this means).</p>
@@ -48,4 +47,4 @@ If you don't know how to do this, no problem! We can coach you through it. Messa
 </div>
 
 Want to know more information about the process?
-Send us an email (add client email address)!
+Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>!

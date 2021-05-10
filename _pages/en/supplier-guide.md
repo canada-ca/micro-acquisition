@@ -34,12 +34,12 @@ Note that simply having a credit card does not mean you are able to accept payme
 
 ## Got questions?
 
-If you need clarification on the details of an open opportunity before applying, please send your question(s) in an email to *add email address*.
+If you need clarification on the details of an open opportunity before applying, please send your question(s) in an email to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.
 If you have a question about an opportunity, get them in as fast as possible, answers to these questions need to be posted on the website for everyone so we can't except questions with less than 24 hours to an opportunity closing.
 
 ## Ready to apply?
 
-You apply to Micro-Acquisition opportunities by email to this address *add email address*.
+You apply to Micro-Acquisition opportunities by <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>.
 Please include the following information in your email:
 
 - The name of the opportunity you are applying for

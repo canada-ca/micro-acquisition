@@ -18,7 +18,7 @@ permalink: /en/index.html
   <div class="col-md-6">
     <div class="well">
       <p>Are you an <strong>Employment and Social Development Canada employee</strong> who has work packages that could be done by external developers?</p>
-      <p>Send us an email (add link) and we can help you get the process started.</p>
+      <p>Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a> and we can help you get the process started.</p>
       <p>More information about what you'll need to do can be found in the <a href="{{ site.baseurl }}{% link _pages/en/client-guide.md %}" title="Client User Guide">Client User Guide</a></p>
     </div>
   </div>
@@ -50,4 +50,4 @@ We have also endeavoured to learn from the lessons of the [GC Developers Exchang
 We want to hear from you!
 If you are having trouble using this website, if you have questions, if you are finding any of our processes confusing.
 Let us know!
-Open an issue on the [Micro-Acquisition repo](https://github.com/canada-ca/micro-acquisition) or send us an email *add link*.
+Open an issue on the [Micro-Acquisition repo](https://github.com/canada-ca/micro-acquisition) or send us an [email](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
