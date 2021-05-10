@@ -2,7 +2,8 @@
 <div class = "row">
     <div class="col-md-12 well">
        <h2>{{ site.data.i18n.general.apply.title[page.lang] }}</h2>
-       <p>{{ site.data.i18n.general.apply.description[page.lang] }}</p>
-        <p>{{ site.data.i18n.general.apply.link[page.lang] }}</p>
+       <p>{{ site.data.i18n.general.apply.description[page.lang] }}&nbsp;<a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a></p>
+       <p>{{ site.data.i18n.general.apply.checklist[page.lang] }}&nbsp;<a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/guide-fournisseur.md %}{%- else -%}{% link _pages/en/supplier-guide.md %}{%- endif -%}">{{ site.data.i18n.general.apply.guide[page.lang] }}.</a>
+            </p>
     </div>
 </div>

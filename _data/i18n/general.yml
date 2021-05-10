@@ -161,8 +161,11 @@ apply:
     en: How to Apply
     fr: Comment présenter une proposition
   description:
-    en: "To apply to a Micro-Acquisition opportunity, send an email to the following address: *add email address*. Your email must include your name and/or business name as well as responses to all of the Proposal Evaluation Criteria for the opportunity you are applying for."
+    en: "To apply to a Micro-Acquisition opportunity, send an email to the following address:"
     fr: "French description of how to apply to come"
-  link:
-    en: "More information on how to apply can be found in the Supplier User Guide."
+  checklist:
+    en: "A checklist of what to include in your email can be found in the"
     fr: "French link to supplier user guide and text to come"
+  guide: 
+    en: Supplier User Guide
+    fr: guide de l'utilisateur du fournisseur
