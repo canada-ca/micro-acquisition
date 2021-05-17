@@ -1,0 +1,17 @@
+name: Github Pages Build
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/github-script@v4.0.2
+      with:
+          script: |
+            github.rest.repos.requestPagesBuild({
+              "canada-ca",
+              "micro-acquisition",
+            });
