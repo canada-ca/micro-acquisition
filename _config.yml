@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "/micro-acquisition"
-url: "https://canada-ca.github.io/micro-acquisition/"
+baseurl: ""
+url: "https://micro-acquisition.alpha.canada.ca/"
 
 wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
 wet_cdts_version: "v4_0_39"
