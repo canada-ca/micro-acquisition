@@ -5,46 +5,46 @@ lang: en
 permalink: /en/client-guide.html
 ---
 
-# Client user guide
+# GC client user guide
 
-To be a client of this pilot you must be an Employment and Social Development Canada or Service Canada employee.
+Those purchasing code using the Micro-acquisition pilot must be an Employment and Social Development Canada or Service Canada employee.
 
 Thank you for considering being part of this pilot and enabling small businesses and freelancers across the country to access GC contract dollars.
 
-We think you will find some fantastic programmer/developer talent!
+We think you will find some fantastic talent!
 
 <div class="well"><h2 class="h5">Step 1</h2>
 <p> Think you'd like to do a micro-acquisition?
 Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a> with some information about your coding needs.</p>
 
 <h2 class="h5">Step 2</h2>
-<p>Determine if your need meets the eligibility criteria for the pilot and whether we have capacity to run it (we can explain what this means).</p>
+<p>Determine if your need meets the eligibility criteria for the pilot and whether the micro-acquisition pilot team has capacity to run your opportunity (we have the capacity to run at least 10 micro-procurement opportunities. If demand is greater that this we will do our best but might not be able to meet the demand).</p>
 
 <h2 class="h5">Step 3</h2>
-<p>You write a description of the work required.
-We have a template and instructions for how to do that. Send us an email and we can share this with you.</p>
+<p>Write a description of the work required.
+We have a template with instructions for how to do that.</p>
 
 <h2 class="h5">Step 4</h2>
-<p>The funds get reserved and the translated opportunity is posted on the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> page.</p>
+<p>Reserve the funds and post the bilingual opportunity on the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> page.</p>
 
-<p><em>Note: to get your opportunity posted, you will need to open a Pull Request on the Micro-Acquisition repository (on GitHub).
-If you don't know how to do this, no problem! We can coach you through it. Message us at (add client email address).</em></p>
+<p><em>Note: to post your opportunity, you will have to open a Pull Request on the Micro-Acquisition repository (on GitHub).
+If you don't know how to do this, no problem! We can coach you through it. Send us an [email](add client email address).</em></p>
 
 <h2 class="h5">Step 5</h2>
-<p>You evaluate the suppliers who express an interest in your opportunity based on the evaluation criteria included in your opportunity statement.</p>
+<p>Evaluate the suppliers who express an interest in your opportunity based on the evaluation criteria included in your opportunity statement.</p>
 
 <h2 class="h5">Step 6</h2>
-<p>You select a supplier and the work begins on an open repository.</p>
+<p>Select a supplier. Then the work begins on an open repository (such as <a href="https://gitlab.com/">GitLab</a> (bilingual), <a href="https://github.com.com/"> GitHub</a> (English only), <a href="https://bitbucket.org/">Bitbucket </a> (English only).)</p>
 
 <h2 class="h5">Step 7</h2>
-<p>You assess the delivered code against the acceptance criteria included in the opportunity statement.</p>
+<p>Assess the delivered code against the acceptance criteria included in the opportunity statement.</p>
 
 <h2 class="h5">Step 8</h2>
-<p>You accept the code and the supplier is paid.</p>
+<p>If the code meets the acceptance criteria you accept the code. Then the supplier is paid by credit card.</p>
 
 <h2 class="h5">Step 9</h2>
-<p>You add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html">Open Resource Exchange</a> so others can find and reuse the code.</p>
+<p>Add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html">Open Resource Exchange</a> so others can find and reuse the code.</p>
 </div>
 
 Want to know more information about the process?
-Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>!
+More detailed guide for ESDC clients of micro-acquisition is availible on request!
