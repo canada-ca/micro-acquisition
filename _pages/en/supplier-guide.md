@@ -23,8 +23,8 @@ If you have not used Git before or need a refresher, this [Git cheat sheet](http
 
 ### 3. The ability to accept payment from a credit card using a payment system or via PayPal
 
-If you choose to use a payment system, it must be one that accepts payment via Visa card. If you would like to accept payment via PayPal but are not sure how, instructions for [how to get set up to accept payment](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds) can be found on the Paypal website.
-Note that simply having a credit card does not mean you are able to accept payment by credit card.
+If you choose to use a payment system, it must be one that accepts payment via Visa card. If you would like to accept payment via PayPal but are not sure how, instructions for [how to get set up to accept payment](https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds) can be found on the Paypal website.  
+*Note that simply having a credit card does not mean you are able to accept payment by credit card.*
 
 **You will need all three of these things to work on a micro-acquisition contract.**
 
