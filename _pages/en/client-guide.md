@@ -47,4 +47,4 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 </div>
 
 Want to know more information about the process?
-More detailed guide for ESDC clients of micro-acquisition is availible on request!
+More detailed guide for ESDC clients of micro-acquisition is available on request!
