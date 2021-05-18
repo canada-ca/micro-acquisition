@@ -13,5 +13,5 @@ jobs:
           script: |
             github.rest.repos.requestPagesBuild({
               "canada-ca",
-              "micro-acquisition",
+              "micro-acquisition"
             });
