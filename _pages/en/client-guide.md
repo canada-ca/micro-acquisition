@@ -18,7 +18,9 @@ We think you will find some fantastic talent!
 Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a> with some information about your coding needs.</p>
 
 <h2 class="h5">Step 2</h2>
-<p>Determine if your need meets the eligibility criteria for the pilot and whether the micro-acquisition pilot team has capacity to run your opportunity (we have the capacity to run at least 10 micro-procurement opportunities. If demand is greater that this we will do our best but might not be able to meet the demand).</p>
+<p>Determine if your need meets the eligibility criteria for the pilot and whether the micro-acquisition pilot team has capacity to run your opportunity.  
+For the pilot we have the capacity to run at least 10 micro-procurement opportunities.
+If demand is greater that this we might not be able to meet that demand.</p>
 
 <h2 class="h5">Step 3</h2>
 <p>Write a description of the work required.
@@ -27,14 +29,14 @@ We have a template with instructions for how to do that.</p>
 <h2 class="h5">Step 4</h2>
 <p>Reserve the funds and post the bilingual opportunity on the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> page.</p>
 
-<p><em>Note: to post your opportunity, you will have to open a Pull Request on the Micro-Acquisition repository (on GitHub).
-If you don't know how to do this, no problem! We can coach you through it. Send us an [email](add client email address).</em></p>
+<p><em>Note: to post your opportunity, you will open a Pull Request on the Micro-Acquisition repository (on GitHub).
+If you don't know how to do this, no problem! We can coach you through it. Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>.</em></p>
 
 <h2 class="h5">Step 5</h2>
 <p>Evaluate the suppliers who express an interest in your opportunity based on the evaluation criteria included in your opportunity statement.</p>
 
 <h2 class="h5">Step 6</h2>
-<p>Select a supplier. Then the work begins on an open repository (such as <a href="https://gitlab.com/">GitLab</a> (bilingual), <a href="https://github.com.com/"> GitHub</a> (English only), <a href="https://bitbucket.org/">Bitbucket </a> (English only).)</p>
+<p>Select a supplier. Then the work begins on an open repository such as <a href="https://gitlab.com/">GitLab</a> (bilingual), <a href="https://github.com.com/"> GitHub</a> (English only), <a href="https://bitbucket.org/">Bitbucket </a> (English only).</p>
 
 <h2 class="h5">Step 7</h2>
 <p>Assess the delivered code against the acceptance criteria included in the opportunity statement.</p>
@@ -47,4 +49,4 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 </div>
 
 Want to know more information about the process?
-More detailed guide for ESDC clients of micro-acquisition is available on request!
+A more detailed guide for ESDC teams wanting to use micro-acquisition is available on request. Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email!</a>
