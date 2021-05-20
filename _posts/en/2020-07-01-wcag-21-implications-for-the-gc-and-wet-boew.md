@@ -72,11 +72,8 @@ Your proposal will be evaluated using the following criterion:
 
 1. Confirm that you have the skills to complete this work. Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in WCAG 2.1AA and HTML5. Describe when you gained these skills, what you did and how you did it. Examples could include: previous work experience, school work, Civic Tech projects etc.
 
- 
 You  will also be required to confirm that you meet the following eligibility criteria:
 
 - you are a Canadian citizen and/or are First Nations, Métis or Inuit, or
 
 - you have the appropriate work permit(s) to work in Canada.
-
- 
