@@ -60,8 +60,6 @@ This is a fixed price opportunity governed by the terms of the Micro-Acquisition
 
 - [https://color.a11y.com/?wc3](https://color.a11y.com/?wc3)
 
- 
-
 ## Proposal Evaluation Criteria
 
 <!-- Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
