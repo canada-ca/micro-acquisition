@@ -146,9 +146,9 @@ opportunities:
   details:
     en: Details
     fr: Détails
-  pacificTime:
-    en: Pacific time
-    fr: heure du pacifique
+  easternTime:
+    en: Eastern time
+    fr: heure de l'Est
   startdate:
     en: Work start date
     fr: date de début de travail
