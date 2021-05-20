@@ -24,9 +24,6 @@ permalink: /en/index.html
   </div>
 </div> -->
 
-
-
-
 <p> Want to get paid to write code for the Government of Canada?</p>
 
 <p>On this website you will find micro-opportunities for coding work that meets the following criteria:</p>
@@ -38,23 +35,18 @@ permalink: /en/index.html
 
 <div class="panel panel-default">
   <div class="panel-body">
-<p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any open opportunities that meets your skills! <a href="https://twitter.com/MicroBuysGC" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear about new opportunities. Learn more about how <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="Supplier User Guide">this</a> works.</p> 
+<p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any open opportunities that meets your skills! <a href="https://twitter.com/MicroBuysGC" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear when a new opportunity is posted. Learn more about <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="Supplier User Guide">how this works</a>.</p>
 </div>
 </div>
 
 <p><strong>How is this different from other Government of Canada procurement  opportunities?</strong></p>
 <p>Our goal is to make the process simpler for you from start to finish:</p>
-<ul> 
+<ul>
 <li><strong>Easier application process.</strong> Complete and submit your application in 2 hours or less.</li>
 <li><strong>Quick approval turnaround.</strong> The evaluation of applications for an opportunity has been designed to be rapid and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
-<li><strong>Fewer barriers to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias, no government security clearance required (as the work you will do is unclassified), all work is done virtually so an NCR location is not required.</li> 
-<li><strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.</li> 
+<li><strong>Fewer barriers to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias, no government security clearance required (as the work you will do is unclassified), all work is done virtually so an NCR location is not required.</li>
+<li><strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.</li>
 </ul>
-<div class="well well-lg">
-<p>This is a pilot project being run for one year out of Employment and Social Development Canada through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch. The pilot allows Employment and Social Development Canada (ESDC) teams to buy custom code that is licensed as open source for $10K or less. Learn more about why we are doing <a href="https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html" title="IT Strategy website">this</a>.</p> 
-<p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team and have a coding opportunity!</p>
-</div>
-
 
 <!-- ## What is Micro-Acquisition
 
@@ -77,9 +69,13 @@ On this web site you will find opportunities to be paid for coding work which me
 This pilot would not have been possible without the help of the kind folks at the [BC Developers Exchange](https://bcdevexchange.org/)/[BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) who have lead the way for years, and from the wonderful people at the [Office of Small and Medium Enterprises](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) who have generously shared their expertise.
 We have also endeavoured to learn from the lessons of the [GC Developers Exchange](https://github.com/canada-ca/devex) (the Government of Canada's first foray into low dollar value procurement of open source code).
 
-## Feedback
+<div class="well well-lg">
+<p>This is a pilot project being run for one year out of <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch. The pilot allows Employment and Social Development Canada (ESDC) teams to buy custom code that is licensed as open source for $10K or less. Learn more about <a href="https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html" title="IT Strategy website" target="_blank">why we are doing this</a>.</p>
+<p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
+</div>
 
+<!-- ## Feedback
 We want to hear from you!
 If you are having trouble using this website, if you have questions, if you are finding any of our processes confusing.
 Let us know!
-Open an issue on the [Micro-Acquisition repo](https://github.com/canada-ca/micro-acquisition) or send us an [email](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Open an issue on the [Micro-Acquisition repo](https://github.com/canada-ca/micro-acquisition) or send us an [email](mailto:microacquisition@hrsdc-rhdcc.gc.ca). -->
