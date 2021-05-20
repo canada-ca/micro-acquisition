@@ -36,7 +36,7 @@ Other governments, such as the UK, has emphasized the need for keyboard only foc
 Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus. -->
 Add a feature to the existing [WET](https://github.com/wet-boew/wet-boew) and [Canada.ca](https://github.com/wet-boew/GCWeb) themes which will ensure that those with a  keyboard-only set-up will be able see visually where their keyboard focus is.
 
-The keyboard focus should be a blue box around the text or image that is the focus and would look like this:
+The keyboard focus should be a blue box around the text or image that is the focus.
 
 <hr/>
 
@@ -53,7 +53,6 @@ This is a fixed price opportunity governed by the terms of the Micro-Acquisition
 1. The code must be delivered with an MIT license
 2. A reviewed and approved pull request that adds source code to fulfil all the requirements in the opportunity description.
 3. The code must pass the following tests:
-
 - [https://www.webaccessibility.com/](https://www.webaccessibility.com/)
 - [https://color.a11y.com/?wc3](https://color.a11y.com/?wc3)
 
@@ -68,12 +67,10 @@ This is a fixed price opportunity governed by the terms of the Micro-Acquisition
 3. criteria 3 -->
 
 Your proposal will be evaluated using the following criterion:
-
 1. Confirm that you have the skills to complete this work. Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in WCAG 2.1AA and HTML5. Describe when you gained these skills, what you did and how you did it. Examples could include: previous work experience, school work, Civic Tech projects etc.
 
  
 You  will also be required to confirm that you meet the following eligibility criteria:
-
 - you are a Canadian citizen and/or are First Nations, Métis or Inuit, or
 - you have the appropriate work permit(s) to work in Canada.
 

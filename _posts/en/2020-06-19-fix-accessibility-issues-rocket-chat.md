@@ -29,7 +29,6 @@ In order to deploy the micro-acquisition pilot rapidly and easily, a low tech so
 Within the application suppliers:
 
 1. Must certify that they are Canadian and/or First Nations, Métis or Inuit OR that they have work permits to work in Canada.
-
 2. Are asked to voluntarily provide some demographic information about themselves
 
 Once bids are received they are manually anonymized and consolidated into a single file so that they can be sent on to the ESDC client for evaluation once the submission deadline has passed.
@@ -39,9 +38,7 @@ Demographic information that is voluntarily submitted is also anonymized and sto
 The challenges with the current process:
 
 1. No validation on the supplier’s application.  This means there is a high likelihood for mistakes. If a supplier forgets to include the text certifying ‘Canadian and/or....’ or includes the wrong text, their application will be rejected but only once the deadline has passed.  Validation cannot be manually done on applications as applications could come in minutes before the deadline and that would not give us time to write back (via email) to say, you have forgotten something.
-
 2. Suppliers will be less likely to provide demographic information about themselves in the email as they will have to type or copy/paste the text into an email (they do not have the option to simply select checkboxes with the current process).
-
 3. If the demand for the micro-acquisition pilot is high and we get 1000+ applications for an opportunity, the existing manual process is not sustainable.
 
 ### Opportunity
@@ -52,19 +49,19 @@ Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisq
 To complete this opportunity you must provide:
 
 - Add a web form to the MA website that requests the applicant the following:
-   - (free text, max 500 chars) Justification of skills. This is mandatory.
-   - (checkbox) statement about belonging to eligible groups (Canadians, First Nations, etc.). This is mandatory.
-   - Optional demographic questions as follows:
-     * (Yes/No) Have you worked for the GC before in any capacity? (student, contract, part-time, full-time)
-     * (Yes/No) Have you been part of a GC procurement process before (for a contract rather than a job)
-     * (free text, max 100 chars) Where do you reside? (Province/Community, country)
-     * (number) If you are applying as a company, how many employees does your company have?
+  - (free text, max 500 chars) Justification of skills. This is mandatory.
+  - (checkbox) statement about belonging to eligible groups (Canadians, First Nations, etc.). This is mandatory.
+  - Optional demographic questions as follows:
+    * (Yes/No) Have you worked for the GC before in any capacity? (student, contract, part-time, full-time)
+    * (Yes/No) Have you been part of a GC procurement process before (for a contract rather than a job)
+    * (free text, max 100 chars) Where do you reside? (Province/Community, country)
+    * (number) If you are applying as a company, how many employees does your company have?
 - The form will send the data via email using an ESDC SMTP server.
 - After successful submission of the form, a confirmation web page is displayed to the end-user “thank you for applying to a micro-acquisition opportunity”.
 - If the submission of the form is not successful (e.g. if some mandatory fields are missing) this message should be displayed “Please fill in the <field name> field”.
 - The submitted form application must also meet the following non-functional requirements:
-   - Accessibility
-   - Official languages (supports switching languages, don’t need to provide the French/English content itself)
+  - Accessibility
+  - Official languages (supports switching languages, don’t need to provide the French/English content itself)
 - Documentation (either in-line comments or as a separate document) about what you are providing and how it works.  Ensure that your documentation/comments describes the logic and/or business rules used by your script or section of a script. Also, please use descriptive variable names and put spaces between large blocks of comments.
 
 <hr/>
@@ -80,13 +77,10 @@ To complete this opportunity you must provide:
 This is a fixed price opportunity governed by the terms of the Micro-Acquisition pilot. To be paid the fixed price, you must meet all of the following criteria:
 
 1. The code must be delivered with an MIT license
-
 2. A reviewed and approved pull request that adds source code to fulfill all the requirements in the opportunity description.
-
 3. The code must pass the following automated tests:
-
-   - [https://www.deque.com/axe/auditor/](https://www.deque.com/axe/auditor/ )
-   - JavaScript lint CLI [https://www.npmjs.com/package/jslint-cli](https://www.npmjs.com/package/jslint-cli)
+- [https://www.deque.com/axe/auditor/](https://www.deque.com/axe/auditor/ )
+- JavaScript lint CLI [https://www.npmjs.com/package/jslint-cli](https://www.npmjs.com/package/jslint-cli)
 
 
 ## Proposal Evaluation Criteria
@@ -98,11 +92,9 @@ This is a fixed price opportunity governed by the terms of the Micro-Acquisition
 3. criteria 3 -->
 
 Your proposal will be evaluated using the following criterion:
- 
 1. Confirm that you have the skills to complete this work. Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Javascript or Typescript. Describe when you gained these skills, what you did and how you did it. Examples could include: previous work experience, school work, Civic Tech projects etc.
 
 You  will also be required to confirm that you meet either of the following eligibility criteria:
-
 * you are a Canadian citizen and/or are First Nations, Métis or Inuit, or
 * you have the appropriate work permits to work in Canada.
 
