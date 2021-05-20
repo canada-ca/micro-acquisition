@@ -52,33 +52,19 @@ Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisq
 To complete this opportunity you must provide:
 
 - Add a web form to the MA website that requests the applicant the following:
-
    - (free text, max 500 chars) Justification of skills. This is mandatory.
-
    - (checkbox) statement about belonging to eligible groups (Canadians, First Nations, etc.). This is mandatory.
-
    - Optional demographic questions as follows:
-
      * (Yes/No) Have you worked for the GC before in any capacity? (student, contract, part-time, full-time)
-
      * (Yes/No) Have you been part of a GC procurement process before (for a contract rather than a job)
-
      * (free text, max 100 chars) Where do you reside? (Province/Community, country)
-
      * (number) If you are applying as a company, how many employees does your company have?
-
 - The form will send the data via email using an ESDC SMTP server.
-
 - After successful submission of the form, a confirmation web page is displayed to the end-user “thank you for applying to a micro-acquisition opportunity”.
-
 - If the submission of the form is not successful (e.g. if some mandatory fields are missing) this message should be displayed “Please fill in the <field name> field”.
-
 - The submitted form application must also meet the following non-functional requirements:
-
    - Accessibility
-
    - Official languages (supports switching languages, don’t need to provide the French/English content itself)
-
 - Documentation (either in-line comments or as a separate document) about what you are providing and how it works.  Ensure that your documentation/comments describes the logic and/or business rules used by your script or section of a script. Also, please use descriptive variable names and put spaces between large blocks of comments.
 
 <hr/>
@@ -100,7 +86,6 @@ This is a fixed price opportunity governed by the terms of the Micro-Acquisition
 3. The code must pass the following automated tests:
 
    - [https://www.deque.com/axe/auditor/](https://www.deque.com/axe/auditor/ )
-
    - JavaScript lint CLI [https://www.npmjs.com/package/jslint-cli](https://www.npmjs.com/package/jslint-cli)
 
 
@@ -119,7 +104,6 @@ Your proposal will be evaluated using the following criterion:
 You  will also be required to confirm that you meet either of the following eligibility criteria:
 
 * you are a Canadian citizen and/or are First Nations, Métis or Inuit, or
-
 * you have the appropriate work permits to work in Canada.
 
  

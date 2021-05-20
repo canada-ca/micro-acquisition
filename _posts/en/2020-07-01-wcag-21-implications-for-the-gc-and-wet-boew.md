@@ -51,13 +51,10 @@ The keyboard focus should be a blue box around the text or image that is the foc
 This is a fixed price opportunity governed by the terms of the Micro-Acquisition pilot. To be paid the fixed price, you must meet all the following criteria:
 
 1. The code must be delivered with an MIT license
-
 2. A reviewed and approved pull request that adds source code to fulfil all the requirements in the opportunity description.
-
 3. The code must pass the following tests:
 
 - [https://www.webaccessibility.com/](https://www.webaccessibility.com/)
-
 - [https://color.a11y.com/?wc3](https://color.a11y.com/?wc3)
 
  
@@ -78,7 +75,6 @@ Your proposal will be evaluated using the following criterion:
 You  will also be required to confirm that you meet the following eligibility criteria:
 
 - you are a Canadian citizen and/or are First Nations, Métis or Inuit, or
-
 - you have the appropriate work permit(s) to work in Canada.
 
  
