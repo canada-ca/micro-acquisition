@@ -36,7 +36,7 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 <p>Evaluate the suppliers who express an interest in your opportunity based on the evaluation criteria included in your opportunity statement.</p>
 
 <h2 class="h5">Step 6</h2>
-<p>Select a supplier. Then the work begins on an open repository such as <a href="https://gitlab.com/">GitLab</a> (bilingual), <a href="https://github.com.com/"> GitHub</a> (English only), <a href="https://bitbucket.org/">Bitbucket </a> (English only).</p>
+<p>Select a supplier. Then the work begins on an open repository such as <a href="https://gitlab.com/" target="_blank">GitLab</a> (bilingual), <a href="https://github.com/" target="_blank"> GitHub</a> (English only), <a href="https://bitbucket.org/" target="_blank">Bitbucket </a> (English only).</p>
 
 <h2 class="h5">Step 7</h2>
 <p>Assess the delivered code against the acceptance criteria included in the opportunity statement.</p>
@@ -45,7 +45,7 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 <p>If the code meets the acceptance criteria you accept the code. Then the supplier is paid by credit card.</p>
 
 <h2 class="h5">Step 9</h2>
-<p>Add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html">Open Resource Exchange</a> so others can find and reuse the code.</p>
+<p>Add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html" target="_blank">Open Resource Exchange</a> so others can find and reuse the code.</p>
 </div>
 
 Want to know more information about the process?
