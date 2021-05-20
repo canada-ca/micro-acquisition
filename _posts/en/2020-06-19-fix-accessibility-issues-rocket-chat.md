@@ -14,7 +14,7 @@ selected_bidder-link:
 submitted_work-link:
 last_modified: 2020-09-24
 # short_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus."
-short_desc:
+short_desc: "Help make the Micro-acquisition process easier for suppliers by building a form interface suppliers will use to submit applications. This form interface will replace the existing process of email submission."
 ---
 
 ## Description
