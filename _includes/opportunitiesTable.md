@@ -65,7 +65,7 @@
           <td>
             {%- if closeXML > nowXML -%}
               <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
-              {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.pacificTime[page.lang] }}&nbsp;
+              {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
             {%- else -%}
               <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>
             {%- endif -%}
