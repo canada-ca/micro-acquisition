@@ -35,7 +35,7 @@ permalink: /en/index.html
 
 <div class="panel panel-default">
   <div class="panel-body">
-<p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any that meet your skills! <a href="https://twitter.com/MicroBuysGC" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear when a new opportunity is posted. Learn more about <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="Supplier User Guide">how this works</a>.</p>
+<p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any that meet your skills! <a href="https://twitter.com/MicroBuysGC" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear when a new opportunity is posted. Learn more about <a href="{{ site.baseurl }}{% link _pages/en/how-this-works.md %}" title="How This Works">how this works</a>.</p>
 </div>
 </div>
 
