@@ -1,6 +1,5 @@
 ---
 layout: post
-# title: Fix accessibility issues in Rocket.Chat
 title: Building a form interface to collect micro-acquisition applications
 ref: opportunity1
 lang: en

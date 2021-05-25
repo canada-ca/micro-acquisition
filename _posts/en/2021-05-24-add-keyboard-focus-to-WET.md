@@ -3,7 +3,6 @@ layout: post
 title: Add keyboard focus behaviours to the canada.ca theme in the Web accessibility Toolkit 
 ref: opportunity3
 lang: en
-# skills: Accessibility
 skills: WCAG 2.1AA, HTML5
 value: $0,000
 closing_date: 2021-06-20T23:59:59-07:00
