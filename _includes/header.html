@@ -44,6 +44,8 @@
       <button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
       <ul role="menu" aria-orientation="vertical">
         <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/opportunites.md %}{%- else -%}{% link _pages/en/opportunities.md %}{%- endif -%}">{{ site.data.i18n.general.Opportunities[page.lang] }}</a></li>
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/comment-ca-marche.md %}{%- else -%}{% link _pages/en/how-this-works.md %}{%- endif -%}">{{ site.data.i18n.general.Howthisworks[page.lang] }}</a></li>
+        <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/guide-fournisseur.md %}{%- else -%}{% link _pages/en/supplier-guide.md %}{%- endif -%}">{{ site.data.i18n.general.apply.guide[page.lang] }}</a></li>
       </ul>
     </div>
   </nav>
@@ -54,5 +56,5 @@
 <main property="mainContentOfPage" class="container">
 
 <section class="alert alert-info" style="font-size:17px;">
-  <p>This is website is part of a pilot and not live yet. We are currently working to make it available soon. Until then if you see anything that isn’t working or want to share your feedback, please open an <a href="https://github.com/canada-ca/micro-acquisition/issues">issue</a> or send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>.</p>
+  <p>This website is part of a pilot and not live yet. We are currently working to make it available soon. Until then if you see anything that isn’t working or want to share your feedback, please open an <a href="https://github.com/canada-ca/micro-acquisition/issues">issue</a> or send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>.</p>
 </section>
