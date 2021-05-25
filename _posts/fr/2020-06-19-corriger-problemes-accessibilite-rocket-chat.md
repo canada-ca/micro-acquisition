@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ajouter une interface de formulaire
+title: Corriger les problèmes d'accessibilité dans Rocket.Chat
 ref: opportunity1
 lang: fr
-skills: Javascript/Typescript
+skills: Accessibilité, logiciels libres
 value: 0,000 $
 closing_date: 2020-10-20T23:59:59-07:00
 start_date: 2020-11-01
