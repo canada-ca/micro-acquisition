@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Rédiger un résumé sur le GDPR à l'intention des organisations canadiennes
-ref: opportunity2
+title: Ajouter une interface de formulaire
+ref: opportunity1
 lang: fr
-skills: Vie privé
+skills: Javascript/Typescript
 value: 0,000 $
 closing_date: 2020-10-20T23:59:59-07:00
 start_date: 2020-11-01

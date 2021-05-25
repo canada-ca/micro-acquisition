@@ -4,7 +4,7 @@ layout: post
 title: Building a form interface to collect micro-acquisition applications
 ref: opportunity1
 lang: en
-skills: Accessibility, Open source software
+skills: Javascript/Typescript
 value: $0,000
 closing_date: 2020-10-20T23:59:59-07:00
 start_date: 2020-11-01
