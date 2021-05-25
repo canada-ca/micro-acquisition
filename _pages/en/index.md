@@ -26,7 +26,7 @@ permalink: /en/index.html
 
 <p> Want to get paid to write code for the Government of Canada?</p>
 
-<p>On this website you will find micro-opportunities for coding work that meets the following criteria:</p>
+<p>On this website you will find micro-opportunities for coding work that meet the following criteria:</p>
 <ul>
 <li>delivered code must be licensed as open source</li>
 <li>fixed price of $10K or less</li>
@@ -39,7 +39,7 @@ permalink: /en/index.html
 </div>
 </div>
 
-<p><strong>How is this different from other Government of Canada procurement  opportunities?</strong></p>
+<h2>How is this different from other Government of Canada procurement  opportunities?</h2>
 <p>Our goal is to make the process simpler for you from start to finish:</p>
 <ul>
 <li><strong>Easier application process.</strong> Complete and submit your application in 2 hours or less.</li>
