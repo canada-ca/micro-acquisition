@@ -10,8 +10,9 @@ jobs:
     steps:
     - uses: actions/github-script@v4.0.2
       with:
+          github-token: ${{secrets.SEB_TOKEN}}
           script: |
             github.repos.requestPagesBuild({
-              owner: "canada-ca",
-              repo: "micro-acquisition"
+              owner: context.repo.owner,
+              repo: context.repo.repo
             })
