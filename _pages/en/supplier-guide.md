@@ -35,13 +35,13 @@ If you would like to accept payment via PayPal but are not sure how, instruction
 
 ## Got questions?
 
-If you need clarification on the details of an open opportunity before applying, please email your question(s) to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca" target="_blank">microacquisition@hrsdc-rhdcc.gc.ca</a>.
+If you need clarification on the details of an open opportunity before applying, please email your question(s) to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.
 
 If you have a question about an open opportunity, send it to us as fast as possible. Answers to these questions are posted on the website for everyone. Unfortunately we can't accept or answer questions if they are received less than 2 business days before an opportunity closes.
 
 ## Ready to apply?
 
-When you apply to Micro-Acquisition opportunities by <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca" target="_blank">email</a>, please include the following information:
+When you apply to Micro-Acquisition opportunities by <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>, please include the following information:
 
 - The name of the opportunity you are applying for
 - Your name
@@ -71,7 +71,7 @@ You will be advised by email whether you *have* or *have not* been selected.
 
 ## Your work and payment
 
-If you are selected, you will be asked to sign <a href="http://micro-acquisition.alpha.canada.ca/en/terms.html" target="_blank"> terms and conditions document</a> before you start the work (the document will be sent to you already filled in).
+If you are selected, you will be asked to sign <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">terms and conditions document</a> before you start the work (the document will be sent to you already filled in).
 
 Once your work has been completed and the client agrees that the work meets the acceptance criteria in the opportunity statement, you will send an invoice for the fixed price of the opportunity plus any applicable taxes.
 

@@ -71,7 +71,7 @@ We have also endeavoured to learn from the lessons of the <a href="https://githu
 
 <div class="well well-lg">
 <p>This is a pilot project being run for one year out of <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch. The pilot allows Employment and Social Development Canada (ESDC) teams to buy custom code that is licensed as open source for $10K or less. Learn more about <a href="https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html" title="IT Strategy website" target="_blank">why we are doing this</a>.</p>
-<p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca" target="_blank">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
+<p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
 </div>
 
 <!-- ## Feedback
