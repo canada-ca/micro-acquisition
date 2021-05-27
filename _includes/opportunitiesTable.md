@@ -1,10 +1,11 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
-{%- if aPost.size > 0 -%}
+{%- assign totalopen = 0 -%}
+{%- assign totalclosed = 0 -%}
 
 <link rel='stylesheet' href='../assets/css/gridify.css' />
 
 <!-- Filter dropdowns -->
-
+<!-- Commenting out the filter for now until we have enough opportunities to warrant it
   <details open>
     <summary><h4 class="h4">{{ site.data.i18n.general.filterOptions[page.lang] }}</h4></summary>
     <form class="wb-tables-filter form-inline" data-bind-to="dataset-filter">
@@ -41,10 +42,11 @@
     </div>
     </form>
   </details>
-
+-->
 <div class="row">
 
 <!-- Data Table -->
+<!--
 <div class="mrgn-bttm-lg">
   <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
     <thead>
@@ -85,6 +87,96 @@
 </div>
 
 </div>
-{%- else -%}
-No opportunities, check back later..
+-->
+<h2>Open</h2>
+<!-- Data Table open opportunities-->
+
+<div class="mrgn-bttm-lg">
+  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
+    <thead>
+      <tr>
+        <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.closing[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.value[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.short_desc[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
+      </tr>
+    </thead>
+    <tbody class="row wb-eqht">
+      {%- for post in aPost -%}
+        {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+        {%- capture closeXML -%}{{ post.closing_date | date_to_xmlschema }}{%- endcapture -%}
+          {%- if closeXML > nowXML -%}
+            <tr class="col-xs-12 col-md-6">
+              <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+              <td>
+              <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
+              {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
+              </td>
+              <td>{{ post.value }}</td>
+              <td>{{ post.short_desc }}</td>
+              <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
+              {%- assign skills = post.skills | split: ", " -%}
+              {%- for skill in skills -%}
+                <span class="label label-primary">{{ skill }}</span>&nbsp;
+              {%- endfor -%}
+              </td>
+            </tr>
+            {%- assign totalopen = totalopen+1 -%}
+          {%- endif -%}
+      {%- endfor -%}
+    </tbody>
+  </table>
+</div>
+
+{%- if totalopen == 0 -%}
+<p>No open opportunities.</p>
+{%- endif -%}
+
+<hr/>
+
+<h2> Closed</h2>
+
+<!-- Data Table closed opportunities-->
+
+<div class="mrgn-bttm-lg">
+  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
+    <thead>
+      <tr>
+        <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.closing[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.value[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.short_desc[page.lang] }}</th>
+        <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
+      </tr>
+    </thead>
+    <tbody class="row wb-eqht">
+      {%- for post in aPost -%}
+        {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+        {%- capture closeXML -%}{{ post.closing_date | date_to_xmlschema }}{%- endcapture -%}
+        {%- if closeXML < nowXML -%}
+          <tr class="col-xs-12 col-md-6">
+            <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+            <td>
+            <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>
+              {{ site.data.i18n.general.opportunities.closed[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d" }}
+            </td>
+            <td>{{ post.value }}</td>
+            <td>{{ post.short_desc }}</td>
+            <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
+            {%- assign skills = post.skills | split: ", " -%}
+            {%- for skill in skills -%}
+              <span class="label label-primary">{{ skill }}</span>&nbsp;
+            {%- endfor -%}
+            </td>
+          </tr>
+          {%- assign totalclosed = totalclosed+1 -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </tbody>
+  </table>
+</div>
+
+{%- if totalclosed == 0 -%}
+  <p>No closed opportunities.</p>
 {%- endif -%}
