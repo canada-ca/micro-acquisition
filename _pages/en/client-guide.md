@@ -20,7 +20,7 @@ Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a> with so
 <h2 class="h5">Step 2</h2>
 <p>Determine if your need meets the eligibility criteria for the pilot and whether the micro-acquisition pilot team has capacity to run your opportunity.  
 For the pilot we have the capacity to run at least 10 micro-procurement opportunities.
-If demand is greater that this we might not be able to meet that demand.</p>
+If demand is greater than this we might not be able to meet that demand.</p>
 
 <h2 class="h5">Step 3</h2>
 <p>Write a description of the work required.
@@ -46,7 +46,6 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 
 <h2 class="h5">Step 9</h2>
 <p>Add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html" target="_blank">Open Resource Exchange</a> so others can find and reuse the code.</p>
-</div>
 
 Want to know more information about the process?
 A more detailed guide for ESDC teams wanting to use micro-acquisition is available on request. Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email!</a>

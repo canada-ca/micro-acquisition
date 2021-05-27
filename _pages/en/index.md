@@ -35,7 +35,7 @@ permalink: /en/index.html
 
 <div class="panel panel-default">
   <div class="panel-body">
-<p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any that meet your skills! <a href="https://twitter.com/MicroBuysGC" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear when a new opportunity is posted. Learn more about <a href="{{ site.baseurl }}{% link _pages/en/how-this-works.md %}" title="How This Works">how this works</a>.</p>
+<p>Check out the <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities">Opportunities</a> to see if there are any that meet your skills! <a href="https://twitter.com/MicroBuysGC" target="_blank" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear when a new opportunity is posted. Learn more about <a href="{{ site.baseurl }}{% link _pages/en/how-this-works.md %}" title="How This Works">how this works</a>.</p>
 </div>
 </div>
 
@@ -66,8 +66,8 @@ On this web site you will find opportunities to be paid for coding work which me
 
 ## Gratitude
 
-This pilot would not have been possible without the help of the kind folks at the [BC Developers Exchange](https://bcdevexchange.org/)/[BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) who have lead the way for years, and from the wonderful people at the [Office of Small and Medium Enterprises](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) who have generously shared their expertise.
-We have also endeavoured to learn from the lessons of the [GC Developers Exchange](https://github.com/canada-ca/devex) (the Government of Canada's first foray into low dollar value procurement of open source code).
+This pilot would not have been possible without the help of the kind folks at the <a href="https://bcdevexchange.org/" target="_blank">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace" target="_blank">BC Digital Marketplace</a> who have lead the way for years, and from the wonderful people at the <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html" target="_blank">Office of Small and Medium Enterprises</a> who have generously shared their expertise.
+We have also endeavoured to learn from the lessons of the <a href="https://github.com/canada-ca/devex" target="_blank">GC Developers Exchange</a> (the Government of Canada's first foray into low dollar value procurement of open source code).
 
 <div class="well well-lg">
 <p>This is a pilot project being run for one year out of <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch. The pilot allows Employment and Social Development Canada (ESDC) teams to buy custom code that is licensed as open source for $10K or less. Learn more about <a href="https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html" title="IT Strategy website" target="_blank">why we are doing this</a>.</p>

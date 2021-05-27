@@ -13,7 +13,7 @@ permalink: /en/how-this-works.html
 <h2 class="h5">Step 2</h2>
 <p>The Micro-Acquisition team determines if that team's coding need meets the eligibility criteria for the pilot and if the micro-acquisition pilot team has capacity to run the opportunity.  
 For the pilot we have the capacity to run at least 10 micro-procurement opportunities.
-If demand is greater that this we might not be able to meet that demand.</p>
+If demand is greater than this we might not be able to meet that demand.</p>
 
 <h2 class="h5">Step 3</h2>
 <p>The ESDC team writes a description of the work required.
@@ -35,10 +35,10 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 <p>The ESDC client assesses the delivered code against the acceptance criteria included in the opportunity statement.</p>
 
 <h2 class="h5">Step 8</h2>
-<p>If the code meets the acceptance criteria the ESDC team will accept the code. Once the code is accepted, the supplier sends and invoice and the supplier is paid by credit card.</p>
+<p>If the code meets the acceptance criteria the ESDC team will accept the code. Once the code is accepted, the supplier sends an invoice and the supplier is paid by credit card.</p>
 
 <h2 class="h5">Step 9</h2>
-<p>The ESDC team adds an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html" target="_blank">Open Resource Exchange</a> so others can find and reuse the code.</p></div>
+<p>The ESDC team adds an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html" target="_blank">Open Resource Exchange</a> so others can find and reuse the code.</p>
 
 <h2>Want to know more about the process?</h2>
 
