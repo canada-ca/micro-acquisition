@@ -47,6 +47,5 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 <h2 class="h5">Step 9</h2>
 <p>Add an entry for the delivered code in the <a href="https://code.open.canada.ca/en/index.html" target="_blank">Open Resource Exchange</a> so others can find and reuse the code.</p>
 
-
 Want to know more information about the process?
 A more detailed guide for ESDC teams wanting to use micro-acquisition is available on request. Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email!</a>
