@@ -24,8 +24,12 @@
   padding-top:15px;
 }
 
-.tbl-gridify td:first-child a,.tbl-gridify td:first-child a:hover,.tbl-gridify td:first-child a:active,.tbl-gridify td:first-child a:focus,.tbl-gridify td:first-child a:visited{
+.tbl-gridify td:first-child a,.tbl-gridify td:first-child a:focus,.tbl-gridify td:first-child a:visited{
   color:#fff !important;
+}
+
+.tbl-gridify td:first-child a:hover,.tbl-gridify td:first-child a:active{
+  color:#eef !important;
 }
 
 .tbl-gridify td {
