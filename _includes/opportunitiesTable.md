@@ -1,4 +1,4 @@
-{%- assign aPost = site.posts | where:"lang", page.lang -%}
+{%- assign aPost = site.posts | where:"lang", page.lang | sort:"closing_date" -%}
 {%- assign totalopen = 0 -%}
 {%- assign totalclosed = 0 -%}
 
@@ -129,15 +129,27 @@
   </table>
 </div>
 
+<!--
 {%- if totalopen == 0 -%}
 <p>No open opportunities.</p>
 {%- endif -%}
-
+-->
 <hr/>
 
-<h2> Closed</h2>
+<details>
+  <summary><strong>Closed Opportunity</strong></summary>
+    <ul>
+    {%- for post in aPost -%}
+      {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+      {%- capture closeXML -%}{{ post.closing_date | date_to_xmlschema }}{%- endcapture -%}
+      {%- if closeXML < nowXML -%}
+        <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+</details>
 
-<!-- Data Table closed opportunities-->
+<!-- Data Table closed opportunities
 
 <div class="mrgn-bttm-lg">
   <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
@@ -180,3 +192,4 @@
 {%- if totalclosed == 0 -%}
   <p>No closed opportunities.</p>
 {%- endif -%}
+-->
