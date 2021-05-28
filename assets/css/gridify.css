@@ -29,7 +29,7 @@
 }
 
 .tbl-gridify td:first-child a:hover,.tbl-gridify td:first-child a:active{
-  color:#eef !important;
+  color:#000 !important;
 }
 
 .tbl-gridify td {
