@@ -61,7 +61,7 @@
         {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
         {%- capture closeXML -%}{{ post.closing_date | date_to_xmlschema }}{%- endcapture -%}
         <tr class="col-xs-12 col-md-6">
-          <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+          <td><a class="panel-title h4 post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
           <td>
             {%- if closeXML > nowXML -%}
               <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
