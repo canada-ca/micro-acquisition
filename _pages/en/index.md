@@ -24,16 +24,17 @@ permalink: /en/index.html
   </div>
 </div> -->
 
-<p>Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license. These work opportunities are low dollar value ($10K or less) and involve the use of unclassified, non-protected information only (so you do not need security clearance).</p>
-<p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
+<p>Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
 
-<p>View opportunities:</p>
+<p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you do not need security clearance).</p>
+
+<p class="text-center"><em>Contribute to increased working in the open and reuse of code in the Government of Canada!</em></p>
 
 <!-- <button type="button" class="btn btn-primary">Opportunities</button>
 
 <button type="button" class="btn btn-default btn-lg">Opportunites</button> -->
 
-<button type="button" class="btn btn-default btn-block" style="max-width: 300px; font-size: 23px;">Opportunites</button>
+<p class="text-center"><a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities"><button type="button" class="btn btn-primary btn-lrg">View opportunities &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></button></a></p>
 
 <!-- <div class="panel panel-default">
   <div class="panel-body">
