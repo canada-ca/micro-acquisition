@@ -24,7 +24,6 @@ permalink: /en/index.html
   </div>
 </div> -->
 
-
 <p>Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license. These work opportunities are low dollar value ($10K or less) and involve the use of unclassified, non-protected information only (so you do not need security clearance).</p>
 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
 
@@ -35,7 +34,6 @@ permalink: /en/index.html
 <button type="button" class="btn btn-default btn-lg">Opportunites</button> -->
 
 <button type="button" class="btn btn-default btn-block" style="max-width: 300px; font-size: 23px;">Opportunites</button>
-
 
 <!-- <div class="panel panel-default">
   <div class="panel-body">
@@ -78,7 +76,6 @@ We have also endeavoured to learn from the lessons of the <a href="https://githu
 <div class="well well-lg">
 <p>This is a one-year pilot project being run at <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch.
 <p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
-
 
 <!-- ## Feedback
 We want to hear from you!
