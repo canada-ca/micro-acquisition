@@ -92,7 +92,7 @@
 <!-- Data Table open opportunities-->
 
 <div class="mrgn-bttm-lg">
-  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
+  <table class="wb-tables tbl-gridify" data-wb-tables='{"order": [3, "desc"], "searching": false, "columnDefs": [{"targets": [], "visible": false}], "paging": false, "info": false}'>
     <thead>
       <tr>
         <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
@@ -129,15 +129,13 @@
   </table>
 </div>
 
-<!--
 {%- if totalopen == 0 -%}
 <p>No open opportunities.</p>
 {%- endif -%}
--->
-<hr/>
 
+<!--
 <details>
-  <summary><strong>Closed Opportunity</strong></summary>
+  <summary><h2>Closed</h2></summary>
     <ul>
     {%- for post in aPost -%}
       {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
@@ -147,12 +145,13 @@
       {%- endif -%}
     {%- endfor -%}
     </ul>
-</details>
+</details> -->
 
-<!-- Data Table closed opportunities
+<details>
+  <summary><h2>Closed</h2></summary>
 
 <div class="mrgn-bttm-lg">
-  <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "columnDefs": [{"targets": [], "visible": false}], "paging": false}'>
+  <table class="wb-tables tbl-gridify" data-wb-tables='{"order": [3, "desc"], "searching": false, "columnDefs": [{"targets": [], "visible": false}], "paging": false, "info": false}'>
     <thead>
       <tr>
         <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
@@ -192,4 +191,5 @@
 {%- if totalclosed == 0 -%}
   <p>No closed opportunities.</p>
 {%- endif -%}
--->
+
+</details>
