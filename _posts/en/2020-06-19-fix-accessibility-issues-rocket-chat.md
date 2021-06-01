@@ -24,11 +24,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tinci
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed vitae tellus a erat efficitur posuere in efficitur lorem. Maecenas accumsan fringilla odio, quis aliquam est suscipit at. Nulla viverra lectus sed tortor imperdiet porttitor. Etiam sed tempus magna, non pulvinar mauris. Sed ultricies pharetra nibh nec gravida. Phasellus fringilla justo in semper finibus. Vestibulum eget nibh nec erat pharetra iaculis. In porta ipsum ac libero varius, vel condimentum metus vestibulum. Fusce scelerisque ut diam nec pulvinar. Aenean ipsum risus, sagittis sed euismod semper, varius eget augue. Mauris nec mi tincidunt, fringilla diam non, vulputate velit. Aenean in nunc turpis. Ut rutrum vehicula diam nec mattis.
 
-
 ### Opportunity
 
 Nam tincidunt suscipit magna a consequat. Fusce scelerisque erat nec nisl mollis aliquam. Integer quis risus cursus, laoreet enim non, vestibulum lorem. Sed non erat at mauris posuere ornare ut quis arcu. In at velit placerat, vehicula diam nec, scelerisque odio. Proin vel mi lobortis, malesuada neque fermentum, bibendum erat. Mauris ac erat a mauris ornare aliquet aliquam eget sapien. Mauris vel diam volutpat, ornare massa sed, porta justo. Etiam euismod nibh eget sapien dictum, ac commodo tellus interdum. Proin pretium lectus enim, eu tempus risus maximus sit amet. Nam blandit, massa eu vehicula ultricies, augue ex scelerisque nibh, sit amet varius lorem lacus non mi. Quisque auctor efficitur enim.
-
 
 <hr/>
 
@@ -48,4 +46,3 @@ Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisq
 1. criteria 1
 2. criteria 2
 3. criteria 3
-

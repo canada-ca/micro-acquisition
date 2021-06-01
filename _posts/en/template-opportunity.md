@@ -29,7 +29,7 @@ short_desc: "add a short catchy description of the opportunity here"
 
 ## Application evaluation
 
-Your application will be evaluated using the following criteria....  
+Your application will be evaluated using the following criteria
 
 <!-- The Evaluation Criteria explain how ESDC will evaluate the applications submitted by suppliers. These criteria identify what must be submitted and how it will be evaluated. 
 When developing your criteria, remember that we want suppliers to be able to apply to any opportunity in two hours or less.  Also consider that there could be 20+ people applying to any opportunity and we want the work that you must do as evaluators to be easy and not time consuming. With those two things in mind, we recommend that all opportunities include the below evaluation criteria.  You can find more information on why we chose these criteria in the Evaluation Criteria guidance.  
@@ -38,6 +38,7 @@ Your proposal will be scored using the following criteria:
 Using 250 words or less, please provide:
 Confirmation that you have the skills to complete this work. Include examples of how you obtained and/or have used these skills before. Examples could include: previous work experience, schoolwork, Civic Tech projects etc.)
 -->
+
 ## Work acceptance criteria
 
 <!-- The acceptance criteria describe how the code will be assessed once it is delivered by the supplier. 
@@ -56,5 +57,3 @@ The code must get a pass mark on the following tests:
 Test a
 Test b
 Test c -->
-
-

@@ -41,8 +41,6 @@ The keyboard focus should be a blue box around the text or image that is the foc
 
 <hr/>
 
-
-
 ## Application evaluation
 
 Your application will be evaluated using the following criteria....  
@@ -51,7 +49,6 @@ Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisq
 1. criteria 1
 2. criteria 2
 3. criteria 3
-
 
 ## Work acceptance criteria
 
