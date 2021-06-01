@@ -7,6 +7,7 @@ permalink: /en/supplier-guide.html
 # User guide
 
 This guide provides information for applicants applying on micro-acquisition coding opportunities. On this page, applicants can find information on eligibility, how to apply, receiving payment and contact information.  
+<br>
 
 ## Are you eligible?
 
@@ -14,8 +15,9 @@ You are eligible for opportunities on this site if:
 
 - you are Canadian and/or First Nations, Métis, Inuit or
 - you have the appropriate <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html" target="_blank"> work permit(s) </a> to work in Canada.
+<br>
 
-<h2>Before you apply, you need:</h2>
+<h2>To do the work and get paid you need: </h2>
 
 ### 1. An account on a public source code repository
 
@@ -34,27 +36,22 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 *Note: simply having a credit card does not mean you are able to accept payment by credit card.*
 
 **You will need all three of these things to work on a micro-acquisition contract.**
+<br>
 
 ## Looking for more information?
 
 If you need clarification on the details of an open opportunity before applying, please email your question(s) to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.
 
 If you have a question about an open opportunity, send it to us as fast as possible. Answers to these questions are posted on the website for everyone. Questions may be submitted up until two business days before an opportunity closes.
+<br>
 
 ## Are you ready to apply?
 
-When you apply to micro-acquisition opportunities by <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>, please include the following information:
+To apply to an opportunity, fill out an application form and send it to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.
 
-- The name of the opportunity you are applying for
-- Your name
-- Your business name (if different from your name)
-- Responses to all of the Evaluation Criteria
-- One of the following written statements:
+Application evaluation criteria are marked as a pass/fail (there is no scoring). 
 
-  1. I affirm that I am Canadian and/or First Nations, Métis, Inuit or
-  2. I affirm that I have all the relevant work permits to work in Canada
-
-Note: evaluation criteria are marked as a pass/fail (there is no scoring). **A pass is required for each evaluation criteria in order for you to be considered for an opportunity.**
+**A pass is required for each evaluation criteria in order for you to be considered for an opportunity.**
  
 We encourage you to apply to other opportunities that may interest you.  
 
@@ -62,15 +59,19 @@ We encourage you to apply to other opportunities that may interest you. 
 
 <ul><li>complete the work by the completion date in the opportunity statement; and</li>
 <li>be paid by credit card (Visa) or PayPal </li></ul></div>
+<br>
 
 ## After you apply
 
-Once the opportunity selection date closes, applications are evaluated.
+Once the closing date has passed, applications are evaluated.
 If multiple suppliers pass the evaluation criteria, we assign a number to those suppliers.
 Then, we use a random number generator to select the winning supplier from this group.  
 
 
-You will be advised by email whether you *have* or *have not* been selected. **If you are not selected, you may contact us to request a debrief.**
+You will be advised by email whether you *have* or *have not* been selected.
+
+**If you are not selected, you may <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">contact us</a> to request a debrief.**
+<br>
 
 ## Work and payment
 
@@ -81,21 +82,5 @@ Once the work is complete, it is assessed against the Work Acceptance Criteria
 If the work *does not meet* the Work Acceptance Criteria in the opportunity statement, you will have the opportunity to revise your work. With that in mind, we recommend that you deliver your work in advance of the deadline to allow time for any revision necessary.  
 
 If the work *does meet* the Work Acceptance Criteria in the opportunity statement, you send an invoice for the fixed price of the opportunity, plus any applicable taxes to <a href="mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca.">NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca.</a>   
-You may use your own invoice template if you have one.   
- 
 
-We have an  [ invoice template ](../../assets/invoice_template.odt) if you need one. It includes all the fields required for payment.  
-
-<!-- If you are selected, you will be asked to sign <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">terms and conditions document</a> before you start the work (the document will be sent to you already filled in).
-
-Once your work has been completed and the client agrees that the work meets the acceptance criteria in the opportunity statement, you will send an invoice for the fixed price of the opportunity plus any applicable taxes.
-
-You can use [this template invoice](../../assets/invoice_template.odt). It includes all the fields required for payment. -->
-
-## Learn more about the process 
- 
-Review the Supplier Guide(????????) for more information. The guide provides detailed information on eligibility criteria and getting set up to accept credit card payment. A detailed guide on micro-acquisition is available upon request. To get a copy of the guide, please contact <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.  
-
-Those purchasing code using the micro-acquisition pilot must be an Employment and Social Development Canada (ESDC) or Service Canada employee. 
- 
-Thank you for being a part of this pilot and enabling small businesses, freelancers and students across the country to access GC contract dollars. 
+You may use your own invoice template if you have one, or use this  [invoice template](../../assets/invoice_template.odt). It includes all the fields required for payment.
