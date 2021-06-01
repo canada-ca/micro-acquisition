@@ -13,7 +13,7 @@ Dans le cadre de l’entente entre _________________________ (le Canada) et ____
 
 1. « Matériel » désigne tout ce qui est créé par l’entrepreneur dans le cadre de la possibilité de micro-acquisition prévue au contrat, qui doit être livré au Canada, et qui est protégé par un droit d’auteur.
 
-2. L’entrepreneur est titulaire du droit d’auteur sur le matériel. 
+2. L’entrepreneur est titulaire du droit d’auteur sur le matériel.
 L’entrepreneur met le matériel à la disposition du Canada, conformément aux modalités de la licence de source ouverte suivante : ____________________________________________
 
 3. L’entrepreneur déclare et garantit qu’il a le droit d’accorder des licences et tout autre droit d’utiliser les renseignements originaux et contextuels.
