@@ -4,18 +4,22 @@ ref: home
 lang: en
 permalink: /en/index.html
 ---
+<section class="well well-sm brdr-0">
+    <div class="container-fluid">
+        <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
 
-<h1 style="font-size: 60px"> Calling all coders!</h1>
+<h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 60px"> Calling all coders!</h1>
 
-<p>Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
+<p class="mrgn-tp-md mrgn-bttm-lg">Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
 
-<p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you do not need security clearance).</p>
+<p class="mrgn-tp-md mrgn-bttm-lg">These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you do not need security clearance).</p>
 
 <p class="text-center"><em>Contribute to increased working in the open and reuse of code in the Government of Canada!</em></p>
 
-
 <p class="text-center"><a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities"><button type="button" class="btn btn-primary btn-lrg">View opportunities &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></button></a></p>
-
+</div>
+</div>
+</section>
 
 <h2>How is this different from other Government of Canada procurement  opportunities?</h2>
 <p>Our goal is to make the process simpler for you from start to finish by:</p>
@@ -54,7 +58,6 @@ We have also endeavoured to learn from the lessons of the <a href="https://githu
 <p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
 
 <!-- <div class="well well-lg"> -->
-
 
 <!-- ## Feedback
 We want to hear from you!
