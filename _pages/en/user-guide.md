@@ -63,11 +63,11 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 <b>If you are not selected, you may <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">contact us</a> to request a debrief.</b>
 <br>
 <h2>Work and payment</h2>
-<p>If you are selected, you will be asked to sign a <em>terms and conditions document</em>  before the work is started. This is the  <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">template terms and conditions </a>  document that will be used for all micro-acquisition opportunities. Once this document is signed, you are put in contact with the client.</p> 
+<p>If you are selected, you will be asked to sign a <em>terms and conditions document</em>  before the work is started. This is the  <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">template terms and conditions </a>  document that will be used for all micro-acquisition opportunities. Once this document is signed, you are put in contact with the client.</p>
 <p>Once the work is complete, it is assessed against the Work Acceptance Criteria.</p>
 
 <p>If the work <em>does not meet</em> the Work Acceptance Criteria in the opportunity statement, you will have the opportunity to revise your work. With that in mind, we recommend that you deliver your work in advance of the deadline to allow time for any revision necessary.</p>
 
-<p>If the work <em>does meet</em> the Work Acceptance Criteria in the opportunity statement, you send an invoice for the fixed price of the opportunity, plus any applicable taxes to <a href="mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca.">NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca.</a></p>  
+<p>If the work <em>does meet</em> the Work Acceptance Criteria in the opportunity statement, you send an invoice for the fixed price of the opportunity, plus any applicable taxes to <a href="mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca">NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca.</a></p>  
 
 You may use your own invoice template if you have one, or use this  [invoice template](../../assets/invoice_template.odt). It includes all the fields required for payment.
