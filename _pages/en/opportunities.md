@@ -7,7 +7,7 @@ permalink: /en/opportunities.html
 
 # Opportunities
 
-Each coding opportunity has unique requirements, work acceptance criteria, and work delivery date. Be sure to review the ‘details’ section in each opportunity to select the right opportunity for you!  
+Each coding opportunity has unique requirements, work acceptance criteria, and work delivery date. Be sure to review the ‘details’ section in each opportunity to select the right opportunity for you!
 
 <a href="https://twitter.com/MicroBuysGC" title="Follow us on Twitter">Follow us on Twitter</a> to be the first to hear about new opportunities.
 
