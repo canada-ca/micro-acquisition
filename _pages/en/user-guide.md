@@ -1,8 +1,8 @@
 ---
 layout: default
-ref: supplier
+ref: user
 lang: en
-permalink: /en/supplier-guide.html
+permalink: /en/user-guide.html
 ---
 <h1>User guide</h1>
 
