@@ -161,13 +161,13 @@ opportunities:
 
 apply:
   title:
-    en: How to Apply
+    en: How to apply
     fr: Comment présenter une proposition
   description:
-    en: "To apply to a Micro-Acquisition opportunity, send an email to the following address:"
+    en: "To apply to this opportunity, fill in an application form and send it to:"
     fr: "French description of how to apply to come"
   checklist:
-    en: "A checklist of what to include in your email is in the "
+    en: "Find more information on eligibility criteria and the application process in the "
     fr: "French link to supplier user guide and text to come"
   guide: 
     en: User Guide

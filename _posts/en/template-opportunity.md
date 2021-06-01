@@ -27,7 +27,7 @@ short_desc: "add a short catchy description of the opportunity here"
 
 <hr/>
 
-## Applying for this opportunity 
+## Application evaluation
 
 Your application will be evaluated using the following criteria....  
 
