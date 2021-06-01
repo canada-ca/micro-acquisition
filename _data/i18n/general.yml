@@ -158,7 +158,12 @@ opportunities:
   deliverydate:
     en: Work delivery date
     fr: date de livraison de travail
-
+  noOpen:
+    en: No open opportunities
+    fr: Pas d&#39opportunitée ouverte
+  noClosed:
+    en: No closed opportunities
+    fr: Pas d&#39opportunitée fermée
 apply:
   title:
     en: How to Apply

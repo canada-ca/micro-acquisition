@@ -1,7 +1,7 @@
 ---
 layout: post
-title: WCAG 2.1 implications for the GC and WET-BOEW
-ref: opportunity3
+title: opportunity4
+ref: opportunity4
 lang: en
 skills: Accessibiity
 value: $0,000
