@@ -1,9 +1,9 @@
 ---
 layout: post
-title: WCAG 2.1 implications for the GC and WET-BOEW
-ref: opportunity3
+title: opportunity4
+ref: opportunity4
 lang: en
-skills: Accessibility
+skills: Accessibiity
 value: $0,000
 closing_date: 2020-09-20T23:59:59-07:00
 start_date: 2020-09-01
@@ -13,7 +13,7 @@ selected_bidder-link:
 submitted_work-link:
 last_modified: 2021-04-19
 short_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis tincidunt ipsum et vulputate. Nunc ultricies, diam eget blandit ornare, purus libero dapibus turpis, vel faucibus felis est sed libero. In et erat in mi ultrices dapibus. Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque."
-
+# short_desc: "The canada.ca theme in the Web Accessibility Toolkit does not currently include strong keyboard focus behaviours. This makes navigating Canada.ca sites difficult for keyboard-only users. Help improve the  accessibility of the toolkit by adding this feature. "
 ---
 
 ## Description
@@ -41,19 +41,27 @@ The keyboard focus should be a blue box around the text or image that is the foc
 
 <hr/>
 
+## Acceptance Criteria
 
-
-## Application evaluation
-
-Your application will be evaluated using the following criteria....  
 Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 
 1. criteria 1
 2. criteria 2
 3. criteria 3
 
+<!-- This is a fixed price opportunity governed by the terms of the Micro-Acquisition pilot. To be paid the fixed price, you must meet all the following criteria:
 
-## Work acceptance criteria
+1. The code must be delivered with an MIT license
+
+2. A reviewed and approved pull request that adds source code to fulfil all the requirements in the opportunity description.
+
+3. The code must pass the following tests:
+
+- [https://www.webaccessibility.com/](https://www.webaccessibility.com/)
+
+- [https://color.a11y.com/?wc3](https://color.a11y.com/?wc3) -->
+
+## Proposal Evaluation Criteria
 
 Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 
