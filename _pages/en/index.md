@@ -12,7 +12,7 @@ permalink: /en/index.html
 
 <p class="mrgn-tp-md mrgn-bttm-lg">Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
 
-<p class="mrgn-tp-md mrgn-bttm-lg">These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you do not need security clearance).</p>
+<p class="mrgn-tp-md mrgn-bttm-lg">These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so security clearance is not required).</p>
 
 <p class="text-center"><em>Contribute to increased working in the open and reuse of code in the Government of Canada!</em></p>
 
