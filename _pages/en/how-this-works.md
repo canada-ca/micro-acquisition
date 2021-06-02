@@ -42,7 +42,7 @@ If you don't know how to do this, no problem! We can coach you through it. Send 
 
 <h2>Want to know more about the process?</h2>
 
-<p>We have a <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="Supplier Guide">Supplier Guide</a> with more detailed information including things like eligibilty criteria and getting set up to accept credit card payment.</p>
+<p>We have a <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="Supplier Guide">Supplier Guide</a> with more detailed information including things like eligibilty criteria and getting set up to accept credit card payment.</p>
 
 <p>For ESDC teams who are interested in Micro-Acquisition, we have a detailed guide for ESDC teams available on request. Send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email!</a>  For the pilot, those purchasing code using the Micro-acquisition pilot must be an Employment and Social Development Canada or Service Canada employee.</p>
 
