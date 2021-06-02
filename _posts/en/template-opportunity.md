@@ -5,9 +5,9 @@ ref: opportunity1
 lang: en
 skills:
 value: $0,000
-closing_date: 2020-10-20T23:59:59-07:00
+closing_date: 2020-10-20T23:59:59-04:00
 start_date: 2020-10-30
-delivery_date: 2020-11-15T23:59:59-07:00
+delivery_date: 2020-11-15T23:59:59-04:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
@@ -27,7 +27,19 @@ short_desc: "add a short catchy description of the opportunity here"
 
 <hr/>
 
-## Acceptance Criteria
+## Application evaluation
+
+Your application will be evaluated using the following criteria
+
+<!-- The Evaluation Criteria explain how ESDC will evaluate the applications submitted by suppliers. These criteria identify what must be submitted and how it will be evaluated. 
+When developing your criteria, remember that we want suppliers to be able to apply to any opportunity in two hours or less.  Also consider that there could be 20+ people applying to any opportunity and we want the work that you must do as evaluators to be easy and not time consuming. With those two things in mind, we recommend that all opportunities include the below evaluation criteria.  You can find more information on why we chose these criteria in the Evaluation Criteria guidance.  
+Example:
+Your proposal will be scored using the following criteria:
+Using 250 words or less, please provide:
+Confirmation that you have the skills to complete this work. Include examples of how you obtained and/or have used these skills before. Examples could include: previous work experience, schoolwork, Civic Tech projects etc.)
+-->
+
+## Work acceptance criteria
 
 <!-- The acceptance criteria describe how the code will be assessed once it is delivered by the supplier. 
 The acceptance criteria must include:
@@ -45,13 +57,3 @@ The code must get a pass mark on the following tests:
 Test a
 Test b
 Test c -->
-
-## Proposal Evaluation Criteria
-
-<!-- The Evaluation Criteria explain how ESDC will evaluate the applications submitted by suppliers. These criteria identify what must be submitted and how it will be evaluated. 
-When developing your criteria, remember that we want suppliers to be able to apply to any opportunity in two hours or less.  Also consider that there could be 20+ people applying to any opportunity and we want the work that you must do as evaluators to be easy and not time consuming. With those two things in mind, we recommend that all opportunities include the below evaluation criteria.  You can find more information on why we chose these criteria in the Evaluation Criteria guidance.  
-Example:
-Your proposal will be scored using the following criteria:
-Using 250 words or less, please provide:
-Confirmation that you have the skills to complete this work. Include examples of how you obtained and/or have used these skills before. Examples could include: previous work experience, schoolwork, Civic Tech projects etc.)
--->
