@@ -23,13 +23,16 @@ permalink: /en/index.html
 
 <h2>How is this different from other Government of Canada procurement  opportunities?</h2>
 <p>Our goal is to make the process simpler for you from start to finish by:</p>
-<ul>
-<li><strong>Easier application process.</strong> Complete and submit your application in 2 hours or less.</li>
-<li><strong>Quick selection turnaround.</strong> The evaluation of applications for an opportunity is fast and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
-<li><strong>Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so an NCR location is not required.</li>
-<li><strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.</li>
+<ul style="list-style: none;  text-indent: -45px; margin-left:100px;" >
+<li> <span class="glyphicon glyphicon-send" style="font-size: 2em; margin: 0 4rem 1rem 0;"> </span> <strong> Easier application process.</strong> Complete and submit your application in 2 hours or less. </li>
+<p></p>
+<li><span class="glyphicon glyphicon-hand-right" style="font-size: 2em; margin: 0 4rem 1rem 0;"> </span> <strong> Quick selection turnaround.</strong> The evaluation of applications for an opportunity is fast and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
+<p></p>
+<li><span class="glyphicon glyphicon-briefcase" style="font-size: 2em; margin: 0 4rem 1rem 0"> </span> <strong> Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so an NCR location is not required. </li>
+<p></p>
+<li><span class="glyphicon glyphicon-usd" style="font-size: 2em;  margin: 0 4rem 1rem 0"> </span> <strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.</li>
 </ul>
-
+<br>
 <p> Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="User Guide">User Guide</a></p>
 
 <!-- ## What is Micro-Acquisition
