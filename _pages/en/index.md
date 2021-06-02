@@ -35,21 +35,6 @@ permalink: /en/index.html
 <br>
 <p> Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="User Guide">User Guide</a></p>
 
-<!-- ## What is Micro-Acquisition
-
-This is a pilot project being run for one year out of Employment and Social Development Canada through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch.
-
-On this web site you will find opportunities to be paid for coding work which meets the following criteria:
-
-- delivered code must be licensed as open source
-- contract value of $10K or less
-- all work is unclassified
-
-## How is this different from other government of Canada procurement processes
-
-- **The application process is easy.** Our goal is that you will be able to apply in 2 hours or less.
-- **You will be paid quickly.** We are using credit cards/PayPal for payment to ensure you do not have to wait long once you have delivered your code.
-- **Fewer barriers in your way.** All the work is unclassified which means it can be done from your home on your computer and you do not need to have completed a government security screening. -->
 
 ## About this pilot
 
