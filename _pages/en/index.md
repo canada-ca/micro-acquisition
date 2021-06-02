@@ -4,6 +4,7 @@ ref: home
 lang: en
 permalink: /en/index.html
 ---
+<!-- markdownlint-disable MD041 -->
 <section class="well well-sm brdr-0">
     <div class="container-fluid">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
@@ -17,24 +18,23 @@ permalink: /en/index.html
 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
 
 <p><a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities"><button type="button" class="btn btn-primary btn-lrg">View opportunities &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></button></a></p>
-</div>
-</div>
+        </div>
+    </div>
 </section>
 
 <h2>How is this different from other Government of Canada procurement  opportunities?</h2>
 <p>Our goal is to make the process simpler for you from start to finish by:</p>
-<ul style="list-style: none;  text-indent: -45px; margin-left:100px;" >
-<li> <span class="glyphicon glyphicon-send" style="font-size: 2em; margin: 0 4rem 1rem 0;"> </span> <strong> Easier application process.</strong> Complete and submit your application in 2 hours or less. </li>
+<ul style="list-style: none;  text-indent: -45px; margin-left:100px;">
+<li> <span class="glyphicon glyphicon-send" style="font-size: 2em; margin: 0 4rem 1rem 0;"> </span><strong> Easier application process.</strong> Complete and submit your application in 2 hours or less.</li>
 <p></p>
-<li><span class="glyphicon glyphicon-hand-right" style="font-size: 2em; margin: 0 4rem 1rem 0;"> </span> <strong> Quick selection turnaround.</strong> The evaluation of applications for an opportunity is fast and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
+<li><span class="glyphicon glyphicon-repeat" style="font-size: 2em; margin: 0 4rem 1rem 0;"> </span> <strong> Quick selection turnaround.</strong> The evaluation of applications for an opportunity is fast and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
 <p></p>
-<li><span class="glyphicon glyphicon-briefcase" style="font-size: 2em; margin: 0 4rem 1rem 0"> </span> <strong> Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so an NCR location is not required. </li>
+<li><span class="glyphicon glyphicon-ok" style="font-size: 2em; margin: 0 4rem 1rem 0"> </span> <strong> Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so an NCR location is not required. </li>
 <p></p>
 <li><span class="glyphicon glyphicon-usd" style="font-size: 2em;  margin: 0 4rem 1rem 0"> </span> <strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.</li>
 </ul>
 <br>
 <p> Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="User Guide">User Guide</a></p>
-
 
 ## About this pilot
 
