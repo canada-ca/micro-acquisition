@@ -7,7 +7,7 @@ skills: Accessibility
 value: $0,000
 closing_date: 2020-09-20T23:59:59-07:00
 start_date: 2020-09-01
-delivery_date: 2020-09-15T23:59:59-07:00
+delivery_date: 2020-09-15T23:59:59-04:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
