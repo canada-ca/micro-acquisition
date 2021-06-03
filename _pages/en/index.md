@@ -9,7 +9,8 @@ permalink: /en/index.html
     <div class="container-fluid">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
 
-<h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 60px"> Calling all coders!</h1>
+<h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 60px"> Calling all coders!<img src="/assets/images/computer.png" alt="Computer with code" width="300" height="300" style="float:right"> </h1>
+
 
 <p class="mrgn-tp-md mrgn-bttm-lg">Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
 
