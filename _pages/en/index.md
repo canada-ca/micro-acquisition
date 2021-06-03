@@ -34,7 +34,7 @@ permalink: /en/index.html
 <li><span class="glyphicon glyphicon-usd" style="font-size: 2em;  margin: 0 4rem 1rem 0"> </span> <strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.</li>
 </ul>
 <br>
-<p> Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/supplier-guide.md %}" title="User Guide">User Guide</a></p>
+<p> Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="User Guide">User Guide</a></p>
 
 ## About this pilot
 
