@@ -46,7 +46,7 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 
 <h2>Are you ready to apply?</h2>
 
-<p>To apply to an opportunity, fill out an <a href="../../assets/application_form.pdf" download>application form</a> and send it to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>. Application evaluation criteria are marked as a pass/fail (there is no scoring).</p>
+<p>To apply to an opportunity, fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form</a> and send it to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>. Application evaluation criteria are marked as a pass/fail (there is no scoring).</p>
 
 <p><b>A pass is required for each evaluation criteria in order for you to be considered for an opportunity.</b></p>
 <p>We encourage you to apply to other opportunities that may interest you.</p>
