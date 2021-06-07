@@ -6,18 +6,22 @@ permalink: /en/index.html
 ---
 <!-- markdownlint-disable MD041 -->
 <section class="well well-sm brdr-0">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
-
+            <div class="col-md-8 col-lrg-8">
 <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 60px"> Calling all coders!</h1>
 
-<p class="mrgn-tp-md mrgn-bttm-lg">Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
+<p>Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
 
-<p class="mrgn-tp-md mrgn-bttm-lg">These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so security clearance is not required).</p>
+<p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so security clearance is not required).</p>
 
 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
-
+<br>
 <p><a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities"><button type="button" class="btn btn-primary btn-lrg">View opportunities &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></button></a></p>
+</div>
+<div class="col-md-4 col-lrg-4">
+<img src="/assets/images/computer.png" alt="Computer with code">
+            </div>
         </div>
     </div>
 </section>
@@ -44,11 +48,3 @@ permalink: /en/index.html
 We have also endeavoured to learn from the lessons of the <a href="https://github.com/canada-ca/devex" target="_blank">GC Developers Exchange</a> (the Government of Canada's first foray into low dollar value procurement of open source code).</p>
 
 <p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
-
-<!-- <div class="well well-lg"> -->
-
-<!-- ## Feedback
-We want to hear from you!
-If you are having trouble using this website, if you have questions, if you are finding any of our processes confusing.
-Let us know!
-Open an issue on the [Micro-Acquisition repo](https://github.com/canada-ca/micro-acquisition) or send us an [email](mailto:microacquisition@hrsdc-rhdcc.gc.ca). -->
