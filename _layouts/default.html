@@ -4,8 +4,11 @@
 {% include head.html %}
 <body vocab="http://schema.org/" typeof="WebPage" class="page-{{ page.ref }}">
 {% include header.html %}
-{{ content }}
+<main property="mainContentOfPage" class="landingpage">
+    {%- if page.ref != "home" -%}<div class="container">{%- endif -%}
+    {{ content }}
+    {%- if page.ref != "home" -%}</div>{%- endif -%}
+</main>
 {% include footer.html %}
 </body>
-
 </html>
