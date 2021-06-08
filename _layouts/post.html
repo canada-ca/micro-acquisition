@@ -4,31 +4,33 @@
     {% include head.html %}
     <body vocab="http://schema.org/" typeof="WebPage" class="page-{{ page.ref }}">
     {% include header.html %}
-    <h1>{{ page.title }}</h1>
+    <div class="container">
+        <h1>{{ page.title }}</h1>
 
-    <!-- If status is closed, the label for the closing date should be 'Closed:' rather than 'Closing:' -->
-    <p><b>
-        {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
-        {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
-        {%- if closeXML > nowXML -%}
-            <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>&nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
-        {%- else -%}
-            <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
-        {%- endif -%}
-    </b></p>
-    <hr/>
-    <p>{{ page.short_desc}}</p>
-    <hr/>
-    <h2>{{ site.data.i18n.general.opportunities.details[page.lang] }}</h2>
-    <p><b>{{ site.data.i18n.general.opportunities.startdate[page.lang] }}:</b>&nbsp;{{ page.start_date }}</p>
-    <p><b>{{ site.data.i18n.general.opportunities.deliverydate[page.lang] }}:</b>&nbsp;{{ page.delivery_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}</p>
-    <p><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b>{{ page.skills }}</p>
+        <!-- If status is closed, the label for the closing date should be 'Closed:' rather than 'Closing:' -->
+        <p><b>
+            {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+            {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
+            {%- if closeXML > nowXML -%}
+                <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>&nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
+            {%- else -%}
+                <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
+            {%- endif -%}
+        </b></p>
+        <hr/>
+        <p>{{ page.short_desc}}</p>
+        <hr/>
+        <h2>{{ site.data.i18n.general.opportunities.details[page.lang] }}</h2>
+        <p><b>{{ site.data.i18n.general.opportunities.startdate[page.lang] }}:</b>&nbsp;{{ page.start_date }}</p>
+        <p><b>{{ site.data.i18n.general.opportunities.deliverydate[page.lang] }}:</b>&nbsp;{{ page.delivery_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}</p>
+        <p><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b>{{ page.skills }}</p>
 
-    <p>{{ content }}</p>
+        {{ content }}
 
-    {% include howtoapply.html %}
+        {% include howtoapply.html %}
 
-    <i>{{ site.data.i18n.general.opportunities.last_modified[page.lang] }} {{ page.last_modified }}</i>
+        <i>{{ site.data.i18n.general.opportunities.last_modified[page.lang] }} {{ page.last_modified }}</i>
+    </div>
 
     {% include footer.html %}
     </body>
