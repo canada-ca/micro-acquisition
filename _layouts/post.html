@@ -26,8 +26,11 @@
         <p><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b>{{ page.skills }}</p>
 
         {{ content }}
+       
+        {%- if closeXML > nowXML -%}
+            {% include howtoapply.html %}
+        {%- endif -%}
 
-        {% include howtoapply.html %}
 
         <i>{{ site.data.i18n.general.opportunities.last_modified[page.lang] }} {{ page.last_modified }}</i>
     </div>
