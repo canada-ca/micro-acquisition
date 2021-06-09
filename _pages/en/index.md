@@ -9,11 +9,10 @@ permalink: /en/index.html
     <div class="container">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
             <div class="col-md-8 col-lrg-8">
-                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 60px"> Calling all coders!</h1>
-                <p>Employment and Social Development Canada (ESDC) is looking for coders that can create and deliver custom code under an open source license.</p>
-                <p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so security clearance is not required).</p>
+                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 50px"> Calling all coders!</h1>
+                <p>Employment and Social Development Canada (ESDC) is looking for coders to create and deliver custom code under an open source license.</p>
+                <p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you don't need security clearance).</p>
                 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
-                <br>
                 <p>
                     <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities" class="btn btn-primary btn-lrg">View opportunities &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
                 </p>
