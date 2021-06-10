@@ -45,10 +45,10 @@ permalink: /en/index.html
         </li>
     </ul>
     <br>
-    <p>Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="User Guide">User Guide</a></p>
+    <p>Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="User Guide">User Guide</a>.</p>
     <h2>About this pilot</h2>
     <p>This micro-acquisition pilot project is being run for one year at <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch.</p>
-    <p>This pilot would not have been possible without the help of the <a href="https://bcdevexchange.org/" target="_blank">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace" target="_blank">BC Digital Marketplace</a> who have lead the way for years, and from the <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html" target="_blank">Office of Small and Medium Enterprises</a> who have generously shared their expertise.</p>
+    <p>This pilot would not have been possible without the help of the <a href="https://bcdevexchange.org/" target="_blank">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace" target="_blank">BC Digital Marketplace</a> who have lead the way for years, and have generously shared their expertise.</p>
     <p>We have also endeavoured to learn from the lessons of the <a href="https://github.com/canada-ca/devex" target="_blank">GC Developers Exchange</a> (the Government of Canada's first foray into low dollar value procurement of open source code).</p>
     <p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
 </div>
