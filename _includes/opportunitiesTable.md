@@ -88,7 +88,7 @@
 
 </div>
 -->
-<h2>Open</h2>
+<h2>{{ site.data.i18n.general.opportunities.open[page.lang] }}</h2>
 <!-- Data Table open opportunities-->
 
 <div class="mrgn-bttm-lg">
@@ -148,7 +148,7 @@
 </details> -->
 
 <details>
-  <summary><h2>Closed</h2></summary>
+  <summary><h2>{{ site.data.i18n.general.opportunities.closed[page.lang] }}</h2></summary>
 
 <div class="mrgn-bttm-lg">
   <table class="wb-tables tbl-gridify" data-wb-tables='{"order": [3, "desc"], "language": {"emptyTable": "{{ site.data.i18n.general.opportunities.noClosed[page.lang] }}"}, "searching": false, "columnDefs": [{"targets": [], "visible": false}], "paging": false, "info": false}'>
