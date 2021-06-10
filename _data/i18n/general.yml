@@ -164,6 +164,7 @@ opportunities:
   noClosed:
     en: No closed opportunities
     fr: Pas d&#39opportunitée fermée
+
 apply:
   title:
     en: How to apply
@@ -183,3 +184,17 @@ apply:
   guide: 
     en: User Guide
     fr: guide de l'utilisateur
+
+alert:
+  alert1:
+    en: This website is part of a pilot. If you want to share your feedback, please open an 
+    fr: Ce site fait partie d'un pilote. Si vous souhaitez partager vos commentaires, posez une 
+  issue:
+    en: issue
+    fr: question
+  alert2:
+    en: or send us an 
+    fr: ou envoyez-nous un
+  email:
+    en: email
+    fr: courriel
