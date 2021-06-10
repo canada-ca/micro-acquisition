@@ -14,7 +14,7 @@ This guide provides information for applicants applying on micro-acquisition cod
 You are eligible for opportunities on this site if:
 
 - you are Canadian and/or First Nations, Métis, Inuit or
-- you have the appropriate <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html" target="_blank"> work permit(s) </a> to work in Canada.
+- you have the appropriate <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html" target="_blank">work permit(s)</a> to work in Canada.
 <br>
 
 <h2>To do the work and get paid you need: </h2>
@@ -22,16 +22,16 @@ You are eligible for opportunities on this site if:
 <li> <b>An account on a public source code repository.</b></li>
 
 You can work on a repository of your choice.
-Some repository options include <a href="https://gitlab.com/" target="_blank"> GitLab </a> (bilingual), <a href="https://github.com/" target="_blank">GitHub </a> (English only), <a href="https://bitbucket.org/" target="_blank">Bitbucket </a>(English only).
+Some repository options include <a href="https://gitlab.com/" target="_blank">GitLab</a> (bilingual), <a href="https://github.com/" target="_blank">GitHub</a> (English only), <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> (English only).
 
 <li><b> Familiarity with Git version control system.</b></li>
 
-If you have not used Git before or need a refresher, this <a href="https://training.github.com/downloads/github-git-cheat-sheet" target="_blank"> Git cheat sheet </a> includes all the basic commands.
+If you have not used Git before or need a refresher, this <a href="https://training.github.com/downloads/github-git-cheat-sheet" target="_blank">Git cheat sheet</a> includes all the basic commands.
 
 <li><b>The ability to accept payment from a credit card using a payment system or via PayPal.</b></li>
 
 If you choose to use a payment system, it must accept payment via Visa card.
-If you would like to accept payment via PayPal, visit <a href="https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds" target="_blank">how to get set up to accept PayPal payment </a>.  
+If you would like to accept payment via PayPal, visit <a href="https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds" target="_blank">how to get set up to accept PayPal payment</a>.  
 </ol>
 <p><em>Note: simply having a credit card does not mean you are able to accept payment by credit card.</em></p>
 
@@ -46,7 +46,7 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 
 <h2>Are you ready to apply?</h2>
 
-<p>To apply to an opportunity, fill out an application form and send it to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>. Application evaluation criteria are marked as a pass/fail (there is no scoring).</p>
+<p>To apply to an opportunity, fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form</a> and send it to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>. Application evaluation criteria are marked as a pass/fail (there is no scoring).</p>
 
 <p><b>A pass is required for each evaluation criteria in order for you to be considered for an opportunity.</b></p>
 <p>We encourage you to apply to other opportunities that may interest you.</p>
@@ -63,7 +63,7 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 <b>If you are not selected, you may <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">contact us</a> to request a debrief.</b>
 <br>
 <h2>Work and payment</h2>
-<p>If you are selected, you will be asked to sign a <em>terms and conditions document</em>  before the work is started. This is the  <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">template terms and conditions </a>  document that will be used for all micro-acquisition opportunities. Once this document is signed, you are put in contact with the client.</p>
+<p>If you are selected, you will be asked to sign a <em>terms and conditions document</em>  before the work is started. This is the  <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">template terms and conditions</a>  document that will be used for all micro-acquisition opportunities. Once this document is signed, you are put in contact with the client.</p>
 <p>Once the work is complete, it is assessed against the Work Acceptance Criteria.</p>
 
 <p>If the work <em>does not meet</em> the Work Acceptance Criteria in the opportunity statement, you will have the opportunity to revise your work. With that in mind, we recommend that you deliver your work in advance of the deadline to allow time for revisions.</p>
