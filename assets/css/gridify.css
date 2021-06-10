@@ -11,6 +11,10 @@
   padding-bottom:30px;
 }
 
+.tbl-gridify>tbody>tr[class=""] {
+    background: none !important;
+}
+
 .tbl-gridify td:first-child {
   padding-top:15px;
   background:#777;
