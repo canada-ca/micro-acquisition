@@ -19,19 +19,19 @@ You are eligible for opportunities on this site if:
 
 <h2>To do the work and get paid you need: </h2>
 <ol>
-<li> <b>An account on a public source code repository.</b></li>
+<li> <b>An account on a public source code repository.</b>
 
 You can work on a repository of your choice.
-Some repository options include <a href="https://gitlab.com/" target="_blank">GitLab</a> (bilingual), <a href="https://github.com/" target="_blank">GitHub</a> (English only), <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> (English only).
+Some repository options include <a href="https://gitlab.com/" target="_blank">GitLab</a> (bilingual), <a href="https://github.com/" target="_blank">GitHub</a> (English only), <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> (English only).</li>
 
-<li><b> Familiarity with Git version control system.</b></li>
+<li><b> Familiarity with Git version control system.</b>
 
-If you have not used Git before or need a refresher, this <a href="https://training.github.com/downloads/github-git-cheat-sheet" target="_blank">Git cheat sheet</a> includes all the basic commands.
+If you have not used Git before or need a refresher, this <a href="https://training.github.com/downloads/github-git-cheat-sheet" target="_blank">Git cheat sheet</a> includes all the basic commands.</li>
 
-<li><b>The ability to accept payment from a credit card using a payment system or via PayPal.</b></li>
+<li><b>The ability to accept payment from a credit card using a payment system or via PayPal.</b>
 
 If you choose to use a payment system, it must accept payment via Visa card.
-If you would like to accept payment via PayPal, visit <a href="https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds" target="_blank">how to get set up to accept PayPal payment</a>.  
+If you would like to accept payment via PayPal, visit <a href="https://www.paypal.com/ca/business/get-paid?kid=p42863580764&gclid=Cj0KCQiAyoeCBhCTARIsAOfpKxhGE1kaeCjl6C4w_xMLIHHGw-EWc9FgPpFUvZXgjFzH81ptH4MTBEgaAoYHEALw_wcB&gclsrc=aw.ds" target="_blank">how to get set up to accept PayPal payment</a>.</li>
 </ol>
 <p><em>Note: simply having a credit card does not mean you are able to accept payment by credit card.</em></p>
 
