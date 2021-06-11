@@ -168,19 +168,19 @@ opportunities:
 apply:
   title:
     en: How to apply
-    fr: Comment présenter une proposition
+    fr: Comment présenter une demande
   description1:
     en: "To apply to this opportunity, fill in an"
-    fr: "French description of how to apply to come"
+    fr: "Pour présenter votre demande pour cette opportunité, remplissez un"
   application:
     en: application form
     fr: formulaire de demande
   description2:
     en: "and send it to:"
-    fr: french to come
+    fr: "et envoyez le à:"
   checklist:
-    en: "Find more information on eligibility criteria and the application process in the "
-    fr: "French link to supplier user guide and text to come"
+    en: "Find more information on eligibility criteria and the application process in the"
+    fr: "Vous trouverez de plus amples renseignements sur les critères d’admissibilité et le processus de demande dans le"
   guide: 
     en: User Guide
     fr: guide de l'utilisateur
