@@ -1,8 +1,8 @@
 ([Français](#prototype-site-web-micro-acquisition))
 
-## Micro-acquisition Prototype Website
+## Micro-acquisition Website
 
-https://canada-ca.github.io/micro-acquisition/en/index.html
+https://micro-acquisition.alpha.canada.ca/en/index.html
 
 What is this project?
 
@@ -20,9 +20,9 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-## Prototype site Web micro-acquisition
+## Site Web micro-acquisition
 
-https://canada-ca.github.io/micro-acquisition/fr/index.html
+https://micro-acquisition.alpha.canada.ca/fr/index.html
 
 Quel est ce projet?
 
