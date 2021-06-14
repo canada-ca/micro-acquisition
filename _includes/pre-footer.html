@@ -1,0 +1,24 @@
+<div class="container mrgn-tp-xl mrgn-bttm-xl">
+  <div class="pageDetails">
+    <div class="row">
+      <section class="alert alert-info" style="font-size:17px;">
+        <!-- <p> This website is part of a pilot. If you want to share your feedback, please open an  <a href="https://github.com/canada-ca/micro-acquisition/issues">issue</a> or send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>.</p> -->
+        <!-- <p>This website is part of a pilot and not live yet. We are currently working to make it available soon. Until then if you see anything that isn’t working or want to share your feedback, please open an  <a href="https://github.com/canada-ca/micro-acquisition/issues">issue</a> or send us an <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">email</a>.</p> -->
+        <p>{{ site.data.i18n.general.alert.alert1[page.lang] }}&nbsp;<a href="https://github.com/canada-ca/micro-acquisition/issues">{{ site.data.i18n.general.alert.issue[page.lang] }}</a>&nbsp;{{ site.data.i18n.general.alert.alert2[page.lang] }}&nbsp;<a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">{{ site.data.i18n.general.alert.email[page.lang] }}</a>.</p>
+      </section>
+    </div>
+    <div class="row">
+      <!--<div class="btn-group btn-group-lg col-md-9 col-lg-8 col-sm-9">
+        <a href="https://github.com/canada-ca/micro-acquisition/issues" class="btn btn-default" role="button" target="_blank">{{ site.data.i18n.general.footer.reportProblem[page.lang]}}</a>
+        <a href="https://github.com/canada-ca/micro-acquisition/tree/main/{{page.path}}" class="btn btn-default" role="button" target="_blank"> {{ site.data.i18n.general.footer.sourceCode[page.lang]}} </a>
+      </div> -->
+      <div class="col-md-4 col-lg-3 col-sm-4">
+        <a href="https://github.com/canada-ca/micro-acquisition/issues" class="btn btn-default btn-lrg" target="_blank">{{ site.data.i18n.general.footer.reportProblem[page.lang]}}</a>
+      </div>
+      <div class="col-md-5 col-lg-4 col-sm-5">
+        <a href="https://github.com/canada-ca/micro-acquisition/tree/main/{{page.path}}" class="btn btn-default btn-lrg" target="_blank">{{ site.data.i18n.general.footer.sourceCode[page.lang]}}</a>
+        </div>  
+      <div class="wb-share col-md-3 col-sm-3  col-lg-offset-1" data-wb-share='{"lnkClass": "btn btn-default btn-block"}'></div>
+    </div>
+  </div>
+</div>
