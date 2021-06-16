@@ -41,9 +41,11 @@ Si vous choisissez d’utiliser un système de paiement, celuici doit accepter l
 
 <h2>Vous voulez en savoir plus?</h2>
 
-<p>Si vous avez besoin de précisions sur les détails d’une opportunité ouverte avant de présenter votre demande, veuillez envoyer vos questions par courriel à<a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.</p>
+<p>Si vous avez besoin de précisions sur les détails d’une opportunité ouverte avant de présenter votre demande, veuillez envoyer vos questions par courriel à <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.</p>
 
 <p>Si vous avez une question au sujet d’une opportunité ouverte, envoyez-nous la dès que possible. Les réponses à ces questions sont affichées sur le site Web pour tous. Les questions peuvent être soumises jusqu’à deux jours ouvrables avant la clôture d’une opportunité.</p>
+
+<p>Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par e-mail à <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.</p>
 
 <p>Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le <a href="https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux" target="_blank">Bureau des petites et moyennes entreprises</a>. Ils ont un réseau de bureaux partout au Canada.</p>
 
