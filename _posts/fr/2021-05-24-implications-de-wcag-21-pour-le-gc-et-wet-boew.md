@@ -31,7 +31,7 @@ Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisq
 
 <hr/>
 
-## Critères d’acceptation
+## Évaluation de la demande
 
 Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 
@@ -39,7 +39,7 @@ Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisq
 2. criteria 2
 3. criteria 3
 
-## Critères d’évaluation de la proposition
+## Critères d’acceptation de travail
 
 Nullam sed venenatis erat, sed fringilla odio. Vivamus lacinia feugiat scelerisque. Donec vestibulum rutrum nunc, eget finibus augue. Morbi laoreet dapibus purus, sed euismod elit tristique eget. Vestibulum sed nulla iaculis, tempus ante a, commodo erat. Aenean vitae sem scelerisque risus bibendum bibendum et semper tellus. Maecenas eget malesuada tellus.
 
