@@ -1,6 +1,4 @@
 {%- assign aPost = site.posts | where:"lang", page.lang | sort:"closing_date" -%}
-{%- assign totalopen = 0 -%}
-{%- assign totalclosed = 0 -%}
 
 <link rel='stylesheet' href='../assets/css/gridify.css' />
 
@@ -79,7 +77,6 @@
                 {%- endfor -%}
                 </td>
               </tr>
-              {%- assign totalopen = totalopen+1 -%}
             {%- endif -%}
         {%- endfor -%}
       </tbody>
@@ -119,7 +116,6 @@
                 {%- endfor -%}
                 </td>
               </tr>
-              {%- assign totalclosed = totalclosed+1 -%}
             {%- endif -%}
           {%- endfor -%}
         </tbody>
