@@ -153,11 +153,11 @@ opportunities:
     en: Eastern time
     fr: heure de l'Est
   startdate:
-    en: Supplier selection date
-    fr: date de début de travail
+    en: Anticipated supplier selection date
+    fr: Date prévue de sélection du fournisseur
   deliverydate:
     en: Work delivery date
-    fr: date de livraison de travail
+    fr: Date de livraison de travail
   noOpen:
     en: No open opportunities
     fr: Pas d&#39opportunitée ouverte
