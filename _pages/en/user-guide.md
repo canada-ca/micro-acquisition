@@ -46,7 +46,7 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 
 <p>If you have questions about the micro-acquisiiton pilot in general, you can also send these questions by email to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.</p>
 
-<p>If you are new to doing business with the Government of Canada and you need help understanding the federal procurement process, or if you are interested in learning how to find opportunities to bid on, you can contact the <a href="https://buyandsell.gc.ca/for-businesses/contacts-for-businesses/office-of-small-and-medium-enterprises-osme-regional-offices" target="_blank">Office of Small and Medium Enterprises</a> . They have a network of offices across Canada.</p>
+<p>If you are new to doing business with the Government of Canada and you need help understanding the federal procurement process, or if you are interested in learning how to find opportunities to bid on, you can contact the <a href="https://buyandsell.gc.ca/for-businesses/contacts-for-businesses/office-of-small-and-medium-enterprises-osme-regional-offices" target="_blank">Office of Small and Medium Enterprises</a>. They have a network of offices across Canada.</p>
 
 <h2>Are you ready to apply?</h2>
 
