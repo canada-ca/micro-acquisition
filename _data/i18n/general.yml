@@ -153,8 +153,8 @@ opportunities:
     en: Eastern time
     fr: heure de l'Est
   startdate:
-    en: Supplier selection date
-    fr: Date de début de travail
+    en: Anticipated supplier selection date
+    fr: Date prévue de sélection du fournisseur
   deliverydate:
     en: Work delivery date
     fr: Date de livraison de travail
