@@ -6,11 +6,11 @@ permalink: /fr/index.html
 ---
 
 <!-- markdownlint-disable MD041 -->
-<section class="stretch-panel" style="width: 100%; background-color: #EDEDED; padding: 30px 0;">
+<section class="stretch-panel">
     <div class="container">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
             <div class="col-md-8 col-lrg-8">
-                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 50px"> Appel à tous les codeurs!</h1>
+                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Appel à tous les codeurs!</h1>
                 <p>Emploi et Développement social Canada (EDSC) est à la recherche de codeurs qui peuvent créer et livrer un code personnalisé en vertu d’une licence de source ouverte.</p>
                 <p>Ces occasions de travail sont de faible valeur (10 k$ ou moins) et nécessitent l’utilisation de <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html" target="_blank">renseignements non classifiés et non protégés</a> seulement (donc vous n'avez pas besoin d'autorisation de sécurité).</p>
                 <p>Contribuez à accroître le travail ouvert et la réutilisation des codes au gouvernement du Canada!</p>
@@ -28,21 +28,21 @@ permalink: /fr/index.html
 <div class="container">
     <h2>En quoi cela diffère-t-il des autres occasions d’approvisionnement du gouvernement du Canada?</h2>
     <p>Notre objectif est de vous simplifier le processus du début à la fin par les moyens suivants :</p>
-    <ul style="list-style: none; text-indent: -45px; margin-left:100px;">
+    <ul class="gliph-list">
         <li>
-            <span class="glyphicon glyphicon-send" style="font-size: 2em; margin: 0 4rem 1rem 0;"></span>
+            <span class="glyphicon glyphicon-send"></span>
             <strong>Processus de demande plus facile.</strong> Remplissez et soumettez votre demande en deux heures ou moins.
         </li>
         <li>
-            <span class="glyphicon glyphicon-repeat" style="font-size: 2em; margin: 0 4rem 1rem 0;"></span>
+            <span class="glyphicon glyphicon-repeat"></span>
             <strong> Délai de sélection rapide. </strong> L’évaluation des demandes pour une opportunité est rapide et allégée. Nous prévoyons annoncer le fournisseur gagnant deux jours ouvrables après la clôture d’une opportunité.
         </li>
         <li>
-            <span class="glyphicon glyphicon-ok" style="font-size: 2em; margin: 0 4rem 1rem 0"></span>
+            <span class="glyphicon glyphicon-ok"></span>
             <strong>Moins d’obstacles pour remporter une opportunité. </strong> Il n’y a pas de longs processus d’approbation préalable, un processus d’évaluation anonyme pour réduire les biais et tout le travail est effectué virtuellement de sorte qu’un emplacement dans la RCN n’est pas requis.
         </li>
         <li>
-            <span class="glyphicon glyphicon-usd" style="font-size: 2em;  margin: 0 4rem 1rem 0"></span>
+            <span class="glyphicon glyphicon-usd"></span>
             <strong>Paiement plus rapide. </strong> Transmettez votre code et recevez votre paiement par carte de crédit ou PayPal.
         </li>
     </ul>

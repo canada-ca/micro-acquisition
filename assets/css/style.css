@@ -1,0 +1,20 @@
+section.stretch-panel {
+  width: 100%;
+  background-color: #EDEDED;
+  padding: 30px 0;
+}
+
+div.container ul.gliph-list {
+  list-style: none;
+  text-indent: -45px;
+  margin-left:100px;
+}
+
+li span.glyphicon {
+  font-size: 2em;
+  margin: 0 4rem 1rem 0;
+}
+
+h1.gc-thickline {
+  font-size: 50px
+}
