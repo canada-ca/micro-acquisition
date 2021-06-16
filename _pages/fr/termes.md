@@ -41,4 +41,4 @@ Signé par :
 
 <br>
 
-<p style="text-align:center">Pour obtenir de l’aide relativement à ce contrat, envoyez un courriel à la <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">boite courriel Micro-acquisition</a>.</p>
+<p class="text-center">Pour obtenir de l’aide relativement à ce contrat, envoyez un courriel à la <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">boite courriel Micro-acquisition</a>.</p>

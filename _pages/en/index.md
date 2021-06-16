@@ -5,16 +5,16 @@ lang: en
 permalink: /en/index.html
 ---
 <!-- markdownlint-disable MD041 -->
-<section class="stretch-panel" style="width: 100%; background-color: #EDEDED; padding: 30px 0;">
+<section class="stretch-panel">
     <div class="container">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
             <div class="col-md-8 col-lrg-8">
-                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg" style="font-size: 50px"> Calling all coders!</h1>
+                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Calling all coders!</h1>
                 <p>Employment and Social Development Canada (ESDC) is looking for coders to create and deliver custom code under an open source license.</p>
                 <p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you don't need security clearance).</p>
                 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
                 <p>
-                    <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities" class="btn btn-primary btn-lrg">View opportunities &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+                    <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities" class="btn btn-primary btn-lrg">View opportunities&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
                 </p>
             </div>
             <div class="col-md-4 col-lrg-4">
@@ -27,20 +27,20 @@ permalink: /en/index.html
 <div class="container">
     <h2>How is this different from other Government of Canada procurement  opportunities?</h2>
     <p>Our goal is to make the process simpler for you from start to finish by:</p>
-    <ul style="list-style: none; text-indent: -45px; margin-left:100px;">
+    <ul class="gliph-list">
         <li>
-            <span class="glyphicon glyphicon-send" style="font-size: 2em; margin: 0 4rem 1rem 0;"></span>
+            <span class="glyphicon glyphicon-send"></span>
             <strong>Easier application process.</strong> Complete and submit your application in 2 hours or less.
         </li>
         <li>
-            <span class="glyphicon glyphicon-repeat" style="font-size: 2em; margin: 0 4rem 1rem 0;"></span>
+            <span class="glyphicon glyphicon-repeat"></span>
             <strong> Quick selection turnaround.</strong> The evaluation of applications for an opportunity is fast and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
         <li>
-            <span class="glyphicon glyphicon-ok" style="font-size: 2em; margin: 0 4rem 1rem 0"></span>
+            <span class="glyphicon glyphicon-ok"></span>
             <strong> Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so an NCR location is not required.
         </li>
         <li>
-            <span class="glyphicon glyphicon-usd" style="font-size: 2em;  margin: 0 4rem 1rem 0"></span>
+            <span class="glyphicon glyphicon-usd"></span>
             <strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.
         </li>
     </ul>

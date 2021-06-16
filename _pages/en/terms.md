@@ -41,4 +41,4 @@ Signed,
 
 <br>
 
-<p style="text-align:center">For help with this contract, email the <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Micro-acquisition mailbox</a>.</p>
+<p class="text-center">For help with this contract, email the <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Micro-acquisition mailbox</a>.</p>
