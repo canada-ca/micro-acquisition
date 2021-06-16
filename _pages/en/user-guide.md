@@ -40,9 +40,9 @@ If you would like to accept payment via PayPal, visit <a href="https://www.paypa
 
 <h2>Looking for more information?</h2>
 
-<p>If you need clarification on the details of an open opportunity before applying, please email your question(s) to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a>.</p>
+<p>If you need clarification on the details of an open opportunity before applying or if you have questions specific to the Micro-Acquisition pilot, please email it to <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a> as fast as possible. Answers to these questions will be posted on the website for everyone. Questions about an opportunity may be submitted up until two business days before it closes.</p>
 
-<p>If you have a question about an open opportunity, send it to us as fast as possible. Answers to these questions are posted on the website for everyone. Questions may be submitted up until two business days before an opportunity closes.</p>
+<p>If you are new to doing business with the Government of Canada and you need help understanding the federal procurement process, or if you are interested in learning how to find opportunities to bid on, you can contact the <a href="https://buyandsell.gc.ca/for-businesses/contacts-for-businesses/office-of-small-and-medium-enterprises-osme-regional-offices" target="_blank">Office of Small and Medium Enterprises</a> . They have a network of offices across Canada.</p>
 
 <h2>Are you ready to apply?</h2>
 
