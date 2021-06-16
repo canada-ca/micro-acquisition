@@ -154,10 +154,10 @@ opportunities:
     fr: heure de l'Est
   startdate:
     en: Supplier selection date
-    fr: date de début de travail
+    fr: Date de début de travail
   deliverydate:
     en: Work delivery date
-    fr: date de livraison de travail
+    fr: Date de livraison de travail
   noOpen:
     en: No open opportunities
     fr: Pas d&#39opportunitée ouverte
