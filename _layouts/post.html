@@ -7,14 +7,18 @@
     <div class="container">
         <h1>{{ page.title }}</h1>
 
-        <!-- If status is closed, the label for the closing date should be 'Closed:' rather than 'Closing:' -->
+        {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+        {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
+        {%- assign closeDate = page.closing_date | date: "%e %B %Y %H:%M" -%}
+        {%- if page.lang == "fr" -%}
+            {% include replaceFrenchMonth.md %}
+        {%- endif -%}
+
         <p><b>
-            {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
-            {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
             {%- if closeXML > nowXML -%}
-                <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>&nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
+                <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>&nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
             {%- else -%}
-                <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>&nbsp;{{ page.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
+                <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
             {%- endif -%}
         </b></p>
         <hr/>

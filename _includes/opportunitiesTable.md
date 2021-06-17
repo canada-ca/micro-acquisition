@@ -65,8 +65,12 @@
               <tr class="col-xs-12 col-md-6">
                 <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
                 <td>
+                {%- assign closeDate = post.closing_date | date: "%e %B %Y %H:%M" -%}
+                {%- if page.lang == "fr" -%}
+                  {% include replaceFrenchMonth.md %}
+                {%- endif -%}
                 <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
-                {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}&nbsp;
+                {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
                 </td>
                 <td>{{ post.value }}</td>
                 <td>{{ post.short_desc }}</td>
@@ -104,8 +108,12 @@
               <tr class="col-xs-12 col-md-6">
                 <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
                 <td>
+                {%- assign closeDate = post.closing_date | date: "%e %B %Y %H:%M" -%}
+                {%- if page.lang == "fr" -%}
+                  {% include replaceFrenchMonth.md %}
+                {%- endif -%}
                 <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>
-                  {{ site.data.i18n.general.opportunities.closed[page.lang] }}:&nbsp;{{ post.closing_date | date: "%Y-%m-%d" }}
+                  {{ site.data.i18n.general.opportunities.closed[page.lang] }}:&nbsp;{{ closeDate }}
                 </td>
                 <td>{{ post.value }}</td>
                 <td>{{ post.short_desc }}</td>
