@@ -7,14 +7,14 @@ permalink: /fr/guide-utilisateur.html
 
 # Guide d'utilisateur
 
-Le présent guide fournit de l’information aux personnes intéressées à présenter une demande pour une opportunité pour une microacquistion de codage.
-Sur cette page, les demandeurs peuvent obtenir des renseignements sur l’admissibilité, la façon de présenter une demande, la réception du paiement et les coordonnées.
+Le présent guide fournit de l’information aux personnes intéressées à présenter une offre de service pour une opportunité de micro-acquistion de code source.
+Sur cette page, il est possible d'obtenir des renseignements sur l’admissibilité, la façon de présenter une demande, la réception du paiement et les coordonnées.
 
 ## Êtes-vous admissible?
 
-Vous êtes admissible à des occasions de marché sur ce site si :
+Vous êtes admissible à des opportunités de micro-acquisition sur ce site si :
 
-- vous êtes Canadien et (ou) ou membre des Premières Nations, Métis, Inuit ou
+- vous êtes Canadien et/ou membre des Premières Nations, Métis, Inuit ou
 - vous avez [le(s) permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"}approprié(s) pour travailler au Canada.
 
 <!--markdownlint-disable MD026-->
