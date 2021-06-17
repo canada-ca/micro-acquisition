@@ -6,7 +6,7 @@ permalink: /en/user-guide.html
 ---
 <h1>User guide</h1>
 
-This guide provides information for applicants applying on micro-acquisition coding opportunities. On this page, applicants can find information on eligibility, how to apply, receiving payment and contact information.
+This guide provides information for those interested in applying for micro-acquisition coding opportunities. On this page, applicants can find information on eligibility, how to apply, receiving payment and contact information.
 <br>
 
 <h2>Are you eligible?</h2>
