@@ -7,11 +7,10 @@ permalink: /fr/guide-utilisateur.html
 
 # Guide d'utilisateur
 
-Le présent guide fournit de l’information aux demandeurs qui présentent une demande pour une opportunité pour une microacquistion de codage.
+Le présent guide fournit de l’information aux personnes intéressées à présenter une demande pour une opportunité pour une microacquistion de codage.
 Sur cette page, les demandeurs peuvent obtenir des renseignements sur l’admissibilité, la façon de présenter une demande, la réception du paiement et les coordonnées.
-<br>
 
-<h2>Êtes-vous admissible?</h2>
+## Êtes-vous admissible?
 
 Vous êtes admissible à des occasions de marché sur ce site si :
 
