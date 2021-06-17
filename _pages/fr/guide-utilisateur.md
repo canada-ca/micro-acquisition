@@ -24,7 +24,7 @@ Vous êtes admissible à des occasions de marché sur ce site si :
 
 1. __Un compte dans un registre public de code source.__
   Vous pouvez travailler sur un registre de votre choix.
-  Parmi les options de registre, mentionnons [GitLab](https://gitlab.com/){:target="_blank"} (bilingue), [GitHub](https://github.com/){:target="_blank"} (en anglais seulement), [Bitbucket](https://bitbucket.org/){:target="_blank"}.
+  Parmi les options de registre, mentionnons [GitLab](https://gitlab.com/){:target="_blank"} (bilingue), [GitHub](https://github.com/){:target="_blank"} (en anglais seulement), [Bitbucket](https://bitbucket.org/){:target="_blank"} (en anglais seulement).
 1. __Une bonne connaissance du système de contrôle de version Git.__
   Si vous n’avez pas déjà utilisé Git ou avez besoin d’un rappel, cet [aide-mémoire Git](https://training.github.com/downloads/fr/github-git-cheat-sheet/){:target="_blank"} comprend toutes les commandes de base.
 1. __La possibilité d’accepter des paiements à partir d’une carte de crédit au moyen d’un système de paiement ou de PayPal.__
