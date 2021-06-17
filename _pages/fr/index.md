@@ -46,8 +46,7 @@ permalink: /fr/index.html
             <strong>Paiement plus rapide. </strong> Transmettez votre code et recevez votre paiement par carte de crédit ou PayPal.
         </li>
     </ul>
-    <br>
-    <p>Apprenez en d'avantage sur le processus dans le <a href="{{ site.baseurl }}{% link _pages/fr/guide-utilisateur.md %}" title="Guide de l'utilisateur">Guide de l'utilisateur</a>.</p>
+    <p class="mrgn-tp-xl">Apprenez en d'avantage sur le processus dans le <a href="{{ site.baseurl }}{% link _pages/fr/guide-utilisateur.md %}" title="Guide de l'utilisateur">Guide de l'utilisateur</a>.</p>
     <h2>Au sujet du présent projet pilote</h2>
     <p>Ce projet pilote de microa-cquisition est mis en œuvre pendant un an à  <a href="https://www.canada.ca/fr/emploi-developpement-social.html" target="_blank">Emploi et Développement social Canada</a> grâce à un partenariat entre la Direction générale de l’innovation et de la technologie de l’information et la Direction générale du dirigeant principal des finances.</p>
     <p>Ce projet pilote n’aurait pas été possible sans l’aide de <a href="https://bcdevexchange.org/" target="_blank">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace" target="_blank">BC Digital Marketplace</a> (anglais seulement) qui ont ouvert la voie pendant des années, et a généreusement partagé son expertise.</p>
