@@ -15,7 +15,7 @@ Sur cette page, il est possible d'obtenir des renseignements sur l’admissibili
 Vous êtes admissible à des opportunités de micro-acquisition sur ce site si :
 
 - vous êtes Canadien et/ou membre des Premières Nations, Métis, Inuit ou
-- vous avez [le(s) permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"}approprié(s) pour travailler au Canada.
+- vous avez [le(s) permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"} approprié(s) pour travailler au Canada.
 
 <!--markdownlint-disable MD026-->
 ## Pour faire le travail et être payé, vous devez avoir :
