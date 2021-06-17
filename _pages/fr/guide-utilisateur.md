@@ -71,7 +71,7 @@ Si plusieurs fournisseurs satisfont aux critères d’évaluation, nous leur att
 Ensuite, nous utilisons un générateur de nombres aléatoires ([PowerShell Get-Random](https://docs.microsoft.com/fr-ca/powershell/module/microsoft.powershell.utility/get-random?view=powershell-7.1){:target="_blank"}) pour sélectionner le fournisseur gagnant de ce groupe.
 Vous serez avisé par courriel si vous _avez_ ou _n’avez pas_ été sélectionné.
 
-__Si vous n’êtes pas sélectionné, vous pouvez [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca) pour demander un compte rendu.__
+__Si vous n’êtes pas sélectionné, vous pouvez nous écrire à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca) pour demander un compte rendu.__
 
 ## Travail et paiement
 
