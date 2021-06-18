@@ -14,7 +14,7 @@ Sur cette page, il est possible d'obtenir des renseignements sur l’admissibili
 
 Vous êtes admissible à des opportunités de micro-acquisition sur ce site si :
 
-- vous avez atteint l'âge de la majorité et a la capacité de contracter
+- vous avez atteint l'âge de la majorité et avez la capacité de contracter
 
 ET
 
