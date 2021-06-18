@@ -44,8 +44,7 @@ permalink: /en/index.html
             <strong>Faster payment.</strong> Deliver your code and receive your payment by credit card or PayPal.
         </li>
     </ul>
-    <br>
-    <p>Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="User Guide">User Guide</a>.</p>
+    <p class="mrgn-tp-xl">Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="User Guide">User Guide</a>.</p>
     <h2>About this pilot</h2>
     <p>This micro-acquisition pilot project is being run for one year at <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch.</p>
     <p>This pilot would not have been possible without the help of the <a href="https://bcdevexchange.org/" target="_blank">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace" target="_blank">BC Digital Marketplace</a> who have lead the way for years, and have generously shared their expertise.</p>

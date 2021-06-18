@@ -39,6 +39,6 @@ Signed,
   <div class="col-md-6">&nbsp;Sign, Print and Date on Behalf of Contractor</div>
 </div>
 
-<br>
-
+<div class="well mrgn-tp-xl">
 <p class="text-center">For help with this contract, email the <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Micro-acquisition mailbox</a>.</p>
+</div>

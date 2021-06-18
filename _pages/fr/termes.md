@@ -39,6 +39,6 @@ Signé par :
   <div class="col-md-6">&nbsp;Signer, imprimer et dater au nom de l'entrepreneur</div>
 </div>
 
-<br>
-
+<div class="well mrgn-tp-xl">
 <p class="text-center">Pour obtenir de l’aide relativement à ce contrat, envoyez un courriel à la <a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">boite courriel Micro-acquisition</a>.</p>
+</div>
