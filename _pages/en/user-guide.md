@@ -13,6 +13,10 @@ On this page, applicants can find information on eligibility, how to apply, rece
 
 You are eligible for opportunities on this site if:
 
+- you have reached the age of majority and are contractually competent
+  
+AND
+
 - you are Canadian and/or First Nations, Métis, Inuit or
 - you have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html){:target="_blank"} to work in Canada.
 
