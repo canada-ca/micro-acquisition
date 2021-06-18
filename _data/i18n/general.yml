@@ -41,6 +41,9 @@ nav:
     link:
       en: https://www.canada.ca/en.html
       fr: https://www.canada.ca/fr.html
+  UserGuide:
+    en: User Guide
+    fr: Guide de l'utilisateur
 
 footer:
   AboutGovernment:
