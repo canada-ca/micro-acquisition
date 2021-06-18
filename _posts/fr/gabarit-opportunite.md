@@ -2,9 +2,9 @@
 layout: post
 title:
 ref: opportunity1
-lang: en
+lang: fr
 skills:
-value: $0,000
+value: 0,000 $
 closing_date: 2020-10-20T23:59:59-04:00
 start_date: 2020-10-30
 delivery_date: 2020-11-15T23:59:59-04:00
@@ -17,12 +17,12 @@ short_desc:
 
 ## Description
 
-### Background
+### Contexte
 
-### Opportunity
+### Opportunité
 
 <hr/>
 
-## Application evaluation
+## Évaluation de la demande
 
-## Work acceptance criteria
+## Critères d'acceptation de travail
