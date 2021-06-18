@@ -65,7 +65,7 @@ We encourage you to apply to other opportunities that may interest you.
 
 Once the closing date has passed, applications are evaluated.
 If multiple suppliers pass the evaluation criteria, we assign a number to those suppliers.
-Then, we use a random number generator ([PowerShell Get-Random](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-random?view=powershell-7.1){:target="_blank"}) to select the winning supplier from this group.
+Then, we use a random number generator (PowerShell Get-Random) to select the winning supplier from this group.
 You will be advised by email whether you _have_ or _have not_ been selected.
 
 __If you are not selected, you may [contact us](mailto:microacquisition@hrsdc-rhdcc.gc.ca) to request a debrief.__
