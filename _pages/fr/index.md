@@ -15,7 +15,7 @@ permalink: /fr/index.html
                 <p>Ces occasions de travail sont de faible valeur (10 k$ ou moins) et nécessitent l’utilisation de <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html" target="_blank">renseignements non classifiés et non protégés</a> seulement (donc vous n'avez pas besoin d'autorisation de sécurité).</p>
                 <p>Contribuez à accroître le travail ouvert et la réutilisation des codes au gouvernement du Canada!</p>
                 <p>
-                    <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities" class="btn btn-primary btn-lrg">Consulter les opportunités &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+                    <a href="{{ site.baseurl }}{% link _pages/fr/opportunites.md %}" title="Opportunities" class="btn btn-primary btn-lrg">Consulter les opportunités &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
                 </p>
             </div>
             <div class="col-md-4 col-lrg-4">
