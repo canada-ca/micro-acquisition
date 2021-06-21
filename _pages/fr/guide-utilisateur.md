@@ -18,7 +18,7 @@ Vous êtes admissible à des opportunités de micro-acquisition sur ce site si 
 
 ET
 
-- vous êtes Canadien, membre des Premières Nations, Métis, Inuit
+- vous êtes Canadien, membre des Premières Nations, Métis, ou Inuit
 
 OU
 
