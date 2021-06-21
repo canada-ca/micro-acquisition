@@ -18,7 +18,10 @@ Vous êtes admissible à des opportunités de micro-acquisition sur ce site si 
 
 ET
 
-- vous êtes Canadien et/ou membre des Premières Nations, Métis, Inuit ou
+- vous êtes Canadien, membre des Premières Nations, Métis, Inuit
+
+OU
+
 - vous avez [le(s) permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"} approprié(s) pour travailler au Canada.
 
 <!--markdownlint-disable MD026-->
