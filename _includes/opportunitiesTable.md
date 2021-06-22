@@ -41,9 +41,10 @@
     </form>
   </details>
 -->
-<div class="row">
+<div>
 
-  <h2>{{ site.data.i18n.general.opportunities.open[page.lang] }}</h2>
+<details open>
+  <summary><h2>{{ site.data.i18n.general.opportunities.open[page.lang] }}</h2></summary>
   <!-- Data Table open opportunities-->
 
   <div class="mrgn-bttm-lg">
@@ -86,6 +87,7 @@
       </tbody>
     </table>
   </div>
+  </details>
 
   <details>
     <summary><h2>{{ site.data.i18n.general.opportunities.closed[page.lang] }}</h2></summary>
