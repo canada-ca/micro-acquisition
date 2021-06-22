@@ -12,7 +12,7 @@ Each coding opportunity has unique requirements, work acceptance criteria, and w
 <section class="followus">
     <h2>Follow:</h2>
     <ul>
-        <li><a href="https://twitter.com/MicroBuysGC" class="twitter" rel="external"> <span class="wb-inv">Twitter</span></a></li>
+        <li><a href="https://twitter.com/MicroBuysGC" class="twitter" rel="external" target="blank"> <span class="wb-inv">Twitter</span></a></li>
     </ul>
 </section>
 
