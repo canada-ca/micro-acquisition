@@ -163,10 +163,10 @@ opportunities:
     fr: Date de livraison de travail
   noOpen:
     en: No open opportunities
-    fr: Pas d&#39opportunitée ouverte
+    fr: Aucune opportunité ouverte
   noClosed:
     en: No closed opportunities
-    fr: Pas d&#39opportunitée fermée
+    fr: Aucune opportunité fermée
 
 apply:
   title:
