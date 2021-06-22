@@ -123,8 +123,8 @@ opportunities:
     en: Status  
     fr: Statut&nbsp;
   value:
-    en: Value
-    fr: Valeur&nbsp;
+    en: Fixed price
+    fr: Prix fixe&nbsp;
   manager:
     en: Manager
     fr: Gestionnaire&nbsp;
@@ -182,11 +182,14 @@ apply:
     en: "and send it to:"
     fr: "et envoyez le à:"
   checklist:
-    en: "Find more information on eligibility criteria and the application process in the"
+    en: "The complete application process as well as more information on the eligibility criteria can be found in the"
     fr: "Vous trouverez de plus amples renseignements sur les critères d’admissibilité et le processus de demande dans le"
   guide: 
     en: User Guide
     fr: guide de l'utilisateur
+  rejection:
+    en: Canada may reject your application due to poor performance on a previous contract with Canada.
+    fr: French text to come
 
 alert:
   alert1:

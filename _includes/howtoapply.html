@@ -2,7 +2,8 @@
 <div class = "row">
     <div class="col-md-12 well">
        <h2>{{ site.data.i18n.general.apply.title[page.lang] }}</h2>
-       <p>{{ site.data.i18n.general.apply.description1[page.lang] }}&nbsp;<a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link assets/formulaire-de-demande.pdf %}{%- else -%}{% link assets/application-form.pdf %}{%- endif -%}" target="_blank">{{ site.data.i18n.general.apply.application[page.lang] }}</a> {{ site.data.i18n.general.apply.description2[page.lang] }}&nbsp;<a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a></p>
        <p>{{ site.data.i18n.general.apply.checklist[page.lang] }}&nbsp;<a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/guide-utilisateur.md %}{%- else -%}{% link _pages/en/user-guide.md %}{%- endif -%}">{{ site.data.i18n.general.apply.guide[page.lang] }}.</a></p>
+       <p>{{ site.data.i18n.general.apply.rejection[page.lang] }}</p>
+       <p>{{ site.data.i18n.general.apply.description1[page.lang] }}&nbsp;<a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link assets/formulaire-de-demande.pdf %}{%- else -%}{% link assets/application-form.pdf %}{%- endif -%}" target="_blank">{{ site.data.i18n.general.apply.application[page.lang] }}</a> {{ site.data.i18n.general.apply.description2[page.lang] }}&nbsp;<a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">microacquisition@hrsdc-rhdcc.gc.ca</a></p>
     </div>
 </div>
