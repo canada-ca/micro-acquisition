@@ -41,7 +41,7 @@
     </form>
   </details>
 -->
-<div class="row">
+<div>
 
   <h2>{{ site.data.i18n.general.opportunities.open[page.lang] }}</h2>
   <!-- Data Table open opportunities-->
