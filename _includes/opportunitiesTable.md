@@ -87,6 +87,48 @@
     </table>
   </div>
 
+<h2>{{ site.data.i18n.general.opportunities.closed[page.lang] }}</h2>
+<div class="mrgn-bttm-lg">
+      <table class="wb-tables tbl-gridify" data-wb-tables='{"order": [3, "desc"], "language": {"emptyTable": "{{ site.data.i18n.general.opportunities.noClosed[page.lang] }}"}, "searching": false, "columnDefs": [{"targets": [], "visible": false}], "paging": false, "info": false}'>
+        <thead>
+          <tr>
+            <th>{{ site.data.i18n.general.Opportunities[page.lang] }}</th>
+            <th>{{ site.data.i18n.general.opportunities.closing[page.lang] }}</th>
+            <th>{{ site.data.i18n.general.opportunities.value[page.lang] }}</th>
+            <th>{{ site.data.i18n.general.opportunities.short_desc[page.lang] }}</th>
+            <th>{{ site.data.i18n.general.opportunities.skills[page.lang] }}</th>
+          </tr>
+        </thead>
+        <tbody class="row wb-eqht">
+          {%- for post in aPost -%}
+            {%- capture nowXML -%}{{ 'now' | date_to_xmlschema }}{%- endcapture -%}
+            {%- capture closeXML -%}{{ post.closing_date | date_to_xmlschema }}{%- endcapture -%}
+            {%- if closeXML < nowXML -%}
+              <tr class="col-xs-12 col-md-6">
+                <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+                <td>
+                {%- assign closeDate = post.closing_date | date: "%e %B %Y %H:%M" -%}
+                {%- if page.lang == "fr" -%}
+                  {% include replaceFrenchMonth.md %}
+                {%- endif -%}
+                <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>
+                  {{ site.data.i18n.general.opportunities.closed[page.lang] }}:&nbsp;{{ closeDate }}
+                </td>
+                <td>{{ post.value }}</td>
+                <td>{{ post.short_desc }}</td>
+                <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
+                {%- assign skills = post.skills | split: ", " -%}
+                {%- for skill in skills -%}
+                  <span class="label label-primary">{{ skill }}</span>&nbsp;
+                {%- endfor -%}
+                </td>
+              </tr>
+            {%- endif -%}
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </div>
+<!-- 
   <details>
     <summary><h2>{{ site.data.i18n.general.opportunities.closed[page.lang] }}</h2></summary>
     <div class="mrgn-bttm-lg">
@@ -129,5 +171,5 @@
         </tbody>
       </table>
     </div>
-  </details>
+  </details> -->
 </div>
