@@ -12,7 +12,7 @@ Chaque opportunité comporte des exigences uniques, des critères d’acceptatio
 <section class="followus">
     <h2>Suivez:</h2>
     <ul>
-        <li><a href="https://twitter.com/MicroAchatsGC" class="twitter" rel="external"> <span class="wb-inv">Twitter</span></a></li>
+        <li><a href="https://twitter.com/MicroAchatsGC" class="twitter" rel="external" target="_blank"> <span class="wb-inv">Twitter</span></a></li>
     </ul>
 </section>
 
