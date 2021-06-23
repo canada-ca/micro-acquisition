@@ -11,7 +11,7 @@ delivery_date: 2021-07-16T23:59:59-04:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
-last_modified: 2021-06-21
+last_modified: 2021-06-23
 short_desc: "Develop scripts to automatically set policies in Azure Marketplace/Private marketplace that will govern which 3rd party offerings are used by Employment and Social Development Canada (ESDC) clients."
 ---
 
@@ -27,7 +27,9 @@ As part of the rollout of Cloud at ESDC, there are a number of Azure instances i
 These instances are using [a hub and spoke model](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli){:target="_blank"} to group common services that are foundational to all cloud deployments.
 The hub represents a set of common services that provide capabilities to spokes.
 
-Each Azure client at ESDC is uniquely identified by an Azure Subscription or a Resource Group. At the beginning the Spoke was implemented as a Resource Group but this is now being changed to use Management Groups and Subscriptions instead  as industry best practices. ESDC clients on Azure instances can make use of Azure Marketplace 1st and 3rd party offerings.
+Each Azure client at ESDC is uniquely identified by an Azure Subscription or a Resource Group.
+At the beginning the Spoke was implemented as a Resource Group but this is now being changed to use Management Groups and Subscriptions instead  as industry best practices.
+ESDC clients on Azure instances can make use of Azure Marketplace 1st and 3rd party offerings.
 The use of these offerings, like the use of Azure instances, is centrally managed at ESDC in collaboration with other government organizations to simplify administration and for security purposes.
 
 Most of the 1st party offerings in the Marketplace are approved by default and ESDC clients can use them without further approvals.
@@ -41,9 +43,11 @@ This means the list of approved 3rd party offerings in the Private Marketplace w
 If a 3rd party offering is approved for one ESDC client it is available for purchase by all ESDC clients – everyone sees the same Private marketplace.
 
 If an ESDC Azure client wants to use a 3rd party offering in the Private Marketplace that has a ‘Price starts at’ >$0.00 they must seek financial approval for the funds to purchase that  3rd party offering.
-Once an ESDC client has financial approval to purchase the 3rd party offering, a communication is sent to the Cloud Operations team from the client with the name of the 3rd party offering. (Note: This communication is out of scope.)
+Once an ESDC client has financial approval to purchase the 3rd party offering, a communication is sent to the Cloud Operations team from the client with the name of the 3rd party offering.
+(Note: This communication is out of scope.)
 
-This funding process leads us to the problem we need help to solve. While built-in policies exist within Azure there are no policies to restrict clients from installing 3rd party offerings once they have been included in the Private Marketplace offerings.
+This funding process leads us to the problem we need help to solve.
+While built-in policies exist within Azure there are no policies to restrict clients from installing 3rd party offerings once they have been included in the Private Marketplace offerings.
 
 ### The work
 
