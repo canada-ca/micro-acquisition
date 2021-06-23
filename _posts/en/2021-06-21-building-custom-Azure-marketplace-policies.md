@@ -4,7 +4,7 @@ title: Building custom Azure marketplace policies
 ref: opportunity1
 lang: en
 skills:  Azure Policies and Azure Runbooks (via Powershell)
-value: $6,500
+value: $6,500 (excluding taxes)
 closing_date: 2021-07-05T23:59:59-04:00
 start_date: 2021-07-09
 delivery_date: 2021-07-16T23:59:59-04:00
