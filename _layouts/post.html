@@ -25,6 +25,7 @@
         <p>{{ page.short_desc}}</p>
         <hr/>
         <h2>{{ site.data.i18n.general.opportunities.details[page.lang] }}</h2>
+        <p><b>{{ site.data.i18n.general.opportunities.value[page.lang] }}:</b>&nbsp;{{ page.value }}</p>
         <p><b>{{ site.data.i18n.general.opportunities.startdate[page.lang] }}:</b>&nbsp;{{ page.start_date }}</p>
         <p><b>{{ site.data.i18n.general.opportunities.deliverydate[page.lang] }}:</b>&nbsp;{{ page.delivery_date | date: "%Y-%m-%d %H:%M" }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}</p>
         <p><b>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:</b>{{ page.skills }}</p>
