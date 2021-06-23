@@ -37,7 +37,7 @@ permalink: /en/index.html
             <strong> Quick selection turnaround.</strong> The evaluation of applications for an opportunity is fast and light-touch. We anticipate announcing the winning supplier two business days following the closing of an opportunity.</li>
         <li>
             <span class="glyphicon glyphicon-ok"></span>
-            <strong> Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so an NCR location is not required.
+            <strong> Fewer hurdles to winning opportunities.</strong> No lengthy pre-approval processes, anonymized evaluation process to reduce bias and all work is done virtually so a National Captial Region (NCR) location is not required.
         </li>
         <li>
             <span class="glyphicon glyphicon-usd"></span>
