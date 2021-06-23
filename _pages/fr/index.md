@@ -39,7 +39,7 @@ permalink: /fr/index.html
         </li>
         <li>
             <span class="glyphicon glyphicon-ok"></span>
-            <strong>Moins d’obstacles pour remporter une opportunité. </strong> Il n’y a pas de longs processus d’approbation préalable, un processus d’évaluation anonyme pour réduire les biais et tout le travail est effectué virtuellement de sorte qu’un emplacement dans la RCN n’est pas requis.
+            <strong>Moins d’obstacles pour remporter une opportunité. </strong> Il n’y a pas de longs processus d’approbation préalable, un processus d’évaluation anonyme pour réduire les biais et tout le travail est effectué virtuellement de sorte qu’un emplacement dans la région de la capitale national (RCN) n’est pas requis.
         </li>
         <li>
             <span class="glyphicon glyphicon-usd"></span>
