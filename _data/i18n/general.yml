@@ -44,6 +44,9 @@ nav:
   UserGuide:
     en: User Guide
     fr: Guide de l'utilisateur
+  Faq:
+    en: Frequently Asked Questions
+    fr: Foire aux questions
 
 footer:
   AboutGovernment:
