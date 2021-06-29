@@ -4,7 +4,8 @@ ref: faq
 lang: en
 permalink: /en/faq.html
 ---
-# Frequently asked questions
+
+# Frequently Asked Questions (FAQ)
 
 1. **Can people employed by the Government of Canada apply to micro-acquisition opportunities?**
 

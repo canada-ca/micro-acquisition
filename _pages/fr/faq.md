@@ -2,10 +2,10 @@
 layout: default
 ref: faq
 lang: fr
-permalink: /en/fra.html
+permalink: /fr/faq.html
 ---
 
-# Foire aux questions
+# Foire aux questions (FAQ)
 
 1. **Est-ce qu’une personne employée par le gouvernement du Canada peut appliquer sur les opportunités de micro-acquisition?**
 
