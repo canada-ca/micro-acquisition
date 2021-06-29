@@ -47,7 +47,7 @@
   <summary><h2>{{ site.data.i18n.general.opportunities.open[page.lang] }}</h2></summary>
   <!-- Data Table open opportunities-->
 
-  <div class="mrgn-bttm-lg">
+  <div class="mrgn-bttm-lg table-responsive">
     <table class="wb-tables tbl-gridify" id="dataset-filter" data-wb-tables='{"order": [3, "desc"], "language": {"emptyTable": "{{ site.data.i18n.general.opportunities.noOpen[page.lang] }}"}, "searching": false, "columnDefs": [{"targets": [], "visible": false}], "paging": false, "info": false}'>
       <thead>
         <tr>
