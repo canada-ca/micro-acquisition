@@ -5,13 +5,14 @@ ref: opportunity1
 lang: en
 skills:  Azure Policies and Azure Runbooks (via Powershell)
 value: $6,500 (excluding taxes)
-closing_date: 2021-07-05T23:59:59-04:00
-start_date: 2021-07-09
-delivery_date: 2021-07-16T23:59:59-04:00
+closing_date: 2021-07-12T23:59:59-04:00
+start_date: 2021-07-16
+delivery_date: 2021-07-23T23:59:59-04:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
-last_modified: 2021-06-23
+last_modified: 2021-06-30
+update: closing_date
 short_desc: "Develop scripts to automatically set policies in Azure Marketplace/Private marketplace that will govern which 3rd party offerings are used by Employment and Social Development Canada (ESDC) clients."
 ---
 
@@ -76,11 +77,11 @@ You will also be required to confirm that you meet the following eligibility cri
   
 AND
 
-- you are Canadian, First Nations, Métis, or Inuit
+- you are Canadian, First Nations, Métis, Inuit or a permanent resident of Canada
 
 OR
 
-- you are a foreign worker and have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html){:target="_blank"} to work in Canada.
+- you are a foreign worker/student and have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html){:target="_blank"} to work in Canada.
 
 ## Work acceptance criteria
 

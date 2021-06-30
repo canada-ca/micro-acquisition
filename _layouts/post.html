@@ -16,7 +16,12 @@
 
         <p><b>
             {%- if closeXML > nowXML -%}
-                <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>&nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
+                <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang] }}</span>
+                {%- assign update = page.update -%}
+                {% if update != nil %}
+                <span class="label label-info">{{ site.data.i18n.general.opportunities.updated[page.lang] }}</span>
+                {% endif %}
+                &nbsp;{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
             {%- else -%}
                 <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang] }}</span>&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
             {%- endif -%}

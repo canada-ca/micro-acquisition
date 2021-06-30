@@ -17,11 +17,11 @@ You are eligible for opportunities on this site if:
   
 AND
 
-- you are Canadian, First Nations, Métis, or Inuit
+- you are Canadian, First Nations, Métis, Inuit, or a permanent resident of Canada
 
 OR
 
-- you are a foreign worker and have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html){:target="_blank"} to work in Canada.
+- you are a foreign worker/student and have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html){:target="_blank"} to work in Canada.
 
 <!--markdownlint-disable MD026-->
 ## To do the work and get paid you need:
