@@ -12,6 +12,7 @@ selected_bidder:
 selected_bidder-link:
 submitted_work-link:
 last_modified: 2021-06-30
+update: closing_date
 short_desc: "Develop scripts to automatically set policies in Azure Marketplace/Private marketplace that will govern which 3rd party offerings are used by Employment and Social Development Canada (ESDC) clients."
 ---
 

@@ -12,6 +12,7 @@ selected_bidder:
 selected_bidder-link:
 submitted_work-link:
 last_modified: 2021-06-30
+update: closing_date
 short_desc: "Élaborer des scripts pour établir automatiquement des politiques dans Azure Marketplace/Private Marketplace (marché Azure, marché privé) qui régiront les offres de tierces parties qui seront utilisées par les clients d’EDSC."
 ---
 
