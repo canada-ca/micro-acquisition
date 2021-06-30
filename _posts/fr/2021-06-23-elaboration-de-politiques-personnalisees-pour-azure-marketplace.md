@@ -5,13 +5,13 @@ ref: opportunity1
 lang: fr
 skills:  Azure Policies et Azure Runbooks (via Powershell)
 value: 6 500$ (hors les taxes)
-closing_date: 2021-07-05T23:59:59-04:00
-start_date: 2021-07-09
-delivery_date: 2021-07-16T23:59:59-04:00
+closing_date: 2021-07-12T23:59:59-04:00
+start_date: 2021-07-16
+delivery_date: 2021-07-23T23:59:59-04:00
 selected_bidder:
 selected_bidder-link:
 submitted_work-link:
-last_modified: 2021-06-23
+last_modified: 2021-06-30
 short_desc: "Élaborer des scripts pour établir automatiquement des politiques dans Azure Marketplace/Private Marketplace (marché Azure, marché privé) qui régiront les offres de tierces parties qui seront utilisées par les clients d’EDSC."
 ---
 
@@ -76,11 +76,11 @@ Vous devrez également confirmer que vous répondez aux critères d’admissibil
   
 ET
 
-- vous êtes canadien, membre des Premières Nations, Métis ou Inuit
+- vous êtes canadien, membre des Premières Nations, Métis, Inuit ou un résident permanent du Canada
 
 OR
 
-- vous êtes travailleur étranger et avez [les permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"} appropriés pour travailler au Canada.
+- vous êtes travailleur/étudiant étranger et avez [les permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"} appropriés pour travailler au Canada.
 
 ## Critères d'acceptation de travail
 
