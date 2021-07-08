@@ -76,9 +76,9 @@
                 {%- if page.lang == "fr" -%}
                   {% include replaceFrenchMonth.md %}
                 {%- endif -%}
-                {{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}
+                <span class="glyphicon glyphicon-calendar"></span>&nbsp;<strong>{{ site.data.i18n.general.opportunities.closing[page.lang] }}:&nbsp;{{ closeDate }}, {{ site.data.i18n.general.opportunities.easternTime[page.lang] }}</strong>
                 </td>
-                <td>{{ post.value }}</td>
+                <td><strong>{{ post.value }}</strong></td>
                 <td>{{ post.short_desc }}</td>
                 <td>{{ site.data.i18n.general.opportunities.skills[page.lang] }}:&nbsp;
                 {%- assign skills = post.skills | split: ", " -%}
