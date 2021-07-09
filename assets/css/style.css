@@ -19,6 +19,6 @@ h1.gc-thickline {
   font-size: 50px
 }
 
-p {
+div.container {
   overflow-wrap: anywhere !important;
 }
