@@ -54,7 +54,7 @@ They have a network of offices across Canada.
 
 ## Are you ready to apply?
 
-To apply to an opportunity, fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form</a> and send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+To apply to an opportunity, fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form (PDF 45.5 kB)</a> and send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 Application evaluation criteria are marked as a pass/fail (there is no scoring).
 
 __A pass is required for each evaluation criteria in order for you to be considered for an opportunity.__
@@ -89,5 +89,5 @@ With that in mind, we recommend that you deliver your work in advance of the dea
 
 If the work _does meet_ the Work Acceptance Criteria in the opportunity statement, you send an invoice for the fixed price of the opportunity, plus any applicable taxes to [NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca](mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca).
 
-You may use your own invoice template if you have one, or use this  [invoice template](../../assets/invoice_template.odt).
+You may use your own invoice template if you have one, or use this  [invoice template (ODT 25.8 kB)](../../assets/invoice_template.odt).
 It includes all the fields required for payment.

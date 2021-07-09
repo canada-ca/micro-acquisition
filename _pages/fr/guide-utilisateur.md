@@ -57,7 +57,7 @@ Ils ont un réseau de bureaux partout au Canada.
 
 ## Êtes-vous prêt à présenter une demande?
 
-Pour présenter une demande pour une opportunité, remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande</a>  et envoyez le à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Pour présenter une demande pour une opportunité, remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 53.7 kB)</a>  et envoyez le à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 Les critères d’évaluation de la demande portent la mention « réussite/échec » (il n’y a pas de cote).
 
 __Une note de passage est requise pour chaque critère d’évaluation afin que votre demande soit retenue pour une opportunité.__
@@ -91,5 +91,5 @@ Dans cette optique, nous vous recommandons de livrer votre travail avant la date
 
 Si les travaux _satisfont_ aux critères d’acceptation de travail de l’énoncé d’occasion de marché, vous envoyez une facture au prix convenu de l’opportunité, plus les taxes applicables, à [NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca](mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca).
 
-Vous pouvez utiliser votre propre modèle de facture si vous en avez un ou utiliser ce [modèle de facture](../../assets/modele-de-facture.odt).
+Vous pouvez utiliser votre propre modèle de facture si vous en avez un ou utiliser ce [modèle de facture (ODT 10.1 kB)](../../assets/modele-de-facture.odt).
 Il comprend tous les champs requis pour le paiement.
