@@ -9,15 +9,20 @@ permalink: /en/terms.html
 
 This form is to be used where IP is being created under the Micro-Acquisition Program and the contractor will retain ownership of all IP rights. This form can NOT be used for any other acquisition.
 
-In the agreement between _________________________ (Canada) and _________________________ (Contractor), for the provision of ____________________________________________ between the dates of __________________ and __________________, Canada acknowledges that all Intellectual Property rights in the foreground information will rest with the Contractor.
+<p>In the agreement between <span aria-label="25 underscores">_________________________</span> (Canada) and <span aria-label="25 underscores">_________________________</span> (Contractor), for the provision of <span aria-label="30 underscores">______________________________</span> between the dates of <span aria-label="25 underscores">_________________________</span> and <span aria-label="25 underscores">_________________________</span>, Canada acknowledges that all Intellectual Property rights in the foreground information will rest with the Contractor.</p>
 
-1. "Material" means anything that is created by the Contractor as part of the Work under the Contract, that is required by the Contract to be delivered to Canada and in which copyright subsists.
-
-2. Copyright in the Material belongs to the Contractor.
-The Contractor makes the Material available to Canada as per the terms of the following open source license: ____________________________________________
-
-3. The Contractor represents and warrants that it has the right to grant licenses and any other rights to use the Foreground and Background Information.
-If the Intellectual Property Rights in any Foreground or Background Information are or will be owned by a subcontractor or any third party, the Contractor must have or obtain promptly a license from that subcontractor or third party that permits compliance.
+<ol>
+  <li><p>"Material" means anything that is created by the Contractor as part of the Work under the Contract, that is required by the Contract to be delivered to Canada and in which copyright subsists.
+  </p></li>
+  <li><p>
+  Copyright in the Material belongs to the Contractor.
+  The Contractor makes the Material available to Canada as per the terms of the following open source license: <span aria-label="35 underscores">___________________________________</span>
+  </p></li>
+  <li><p>
+  The Contractor represents and warrants that it has the right to grant licenses and any other rights to use the Foreground and Background Information.
+  If the Intellectual Property Rights in any Foreground or Background Information are or will be owned by a subcontractor or any third party, the Contractor must have or obtain promptly a license from that subcontractor or third party that permits compliance.
+  </p></li>
+</ol>
 
 ## Termination of the Contract
 

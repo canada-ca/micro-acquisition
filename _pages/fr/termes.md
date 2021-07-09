@@ -9,15 +9,20 @@ permalink: /fr/termes.html
 
 Le présent formulaire doit être utilisé uniquement lorsque des actifs de propriété intellectuelle (PI) sont créés en vertu du Programme des micro-acquisitions et que l’entrepreneur souhaite conserver l’intégralité des droits de PI. Ce formulaire ne peut PAS être utilisé pour d’autres types d’acquisition.
 
-Dans le cadre de l’entente entre _________________________ (le Canada) et _________________________ (l’entrepreneur) concernant la fourniture de ____________________________________________ entre le ____(DATE)______________ et _____(DATE)_____________, le Canada reconnaît que tous les droits de propriété intellectuelle à l’égard du matériel seront dévolus à l’entrepreneur.
+Dans le cadre de l’entente entre <span aria-label="25 underscores">_________________________</span> (le Canada) et <span aria-label="25 underscores">_________________________</span> (l’entrepreneur) concernant la fourniture de <span aria-label="30 underscores">______________________________</span> entre le <span aria-label="10 underscores">__________</span>(DATE)<span aria-label="10 underscores">__________</span> et <span aria-label="10 underscores">__________</span>(DATE)<span aria-label="10 underscores">__________</span>, le Canada reconnaît que tous les droits de propriété intellectuelle à l’égard du matériel seront dévolus à l’entrepreneur.
 
-1. « Matériel » désigne tout ce qui est créé par l’entrepreneur dans le cadre de la possibilité de micro-acquisition prévue au contrat, qui doit être livré au Canada, et qui est protégé par un droit d’auteur.
-
-2. L’entrepreneur est titulaire du droit d’auteur sur le matériel.
-L’entrepreneur met le matériel à la disposition du Canada, conformément aux modalités de la licence de source ouverte suivante : ____________________________________________
-
-3. L’entrepreneur déclare et garantit qu’il a le droit d’accorder des licences et tout autre droit d’utiliser les renseignements originaux et contextuels.
+<ol>
+  <li><p>« Matériel » désigne tout ce qui est créé par l’entrepreneur dans le cadre de la possibilité de micro-acquisition prévue au contrat, qui doit être livré au Canada, et qui est protégé par un droit d’auteur.
+</p></li>
+<li><p>
+L’entrepreneur est titulaire du droit d’auteur sur le matériel.
+L’entrepreneur met le matériel à la disposition du Canada, conformément aux modalités de la licence de source ouverte suivante : <span aria-label="35 underscores">___________________________________</span>
+</p></li>
+<li><p>
+L’entrepreneur déclare et garantit qu’il a le droit d’accorder des licences et tout autre droit d’utiliser les renseignements originaux et contextuels.
 Si les droits de propriété intellectuelle sur les renseignements originaux ou contextuels sont ou seront la propriété d’un sous-traitant ou d’un tiers, l’entrepreneur doit obtenir rapidement une licence de ce sous-traitant ou d’un tiers permettant d’assurer la conformité.
+  </p></li>
+</ol>
 
 ## Résiliation du contrat
 
