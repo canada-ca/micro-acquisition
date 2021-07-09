@@ -19,7 +19,7 @@ permalink: /fr/index.html
                 </p>
             </div>
             <div class="col-md-4 col-lrg-4">
-                <img src="/assets/images/computer.png" alt="un ordinateur portable avec un code sur l'écran">
+                <img class="img-responsive" src="/assets/images/computer.png" alt="un ordinateur portable avec un code sur l'écran">
             </div>
         </div>
     </div>
