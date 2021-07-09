@@ -18,3 +18,7 @@ li span.glyphicon {
 h1.gc-thickline {
   font-size: 50px
 }
+
+div.container {
+  overflow-wrap: anywhere !important;
+}
