@@ -57,7 +57,7 @@ Ils ont un réseau de bureaux partout au Canada.
 
 ## Êtes-vous prêt à présenter une demande?
 
-Pour présenter une demande pour une opportunité, remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 53.7 kB)</a>  et envoyez le à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Pour présenter une demande pour une opportunité, remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB)</a>  et envoyez le à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 Les critères d’évaluation de la demande portent la mention « réussite/échec » (il n’y a pas de cote).
 
 __Une note de passage est requise pour chaque critère d’évaluation afin que votre demande soit retenue pour une opportunité.__
