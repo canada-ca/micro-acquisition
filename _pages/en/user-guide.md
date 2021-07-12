@@ -54,7 +54,7 @@ They have a network of offices across Canada.
 
 ## Are you ready to apply?
 
-To apply to an opportunity, fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form (PDF 45.5 kB)</a> and send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+To apply to an opportunity, fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form (PDF 61 kB)</a> and send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 Application evaluation criteria are marked as a pass/fail (there is no scoring).
 
 __A pass is required for each evaluation criteria in order for you to be considered for an opportunity.__
