@@ -25,7 +25,7 @@ L’équipe administrative des Opérations infonuagiques d’EDSC demande le tra
 Les technologies infonuagiques facilitent la transformation au sein du gouvernement et améliorent la prestation des services aux Canadiens.
 Dans le cadre du déploiement de infonuagiques à EDSC, un certain nombre d’instances Azure sont utilisées à EDSC.
 
-Ces instances utilisent un [modèle de type en étoile (Hub and Spoke)](hhttps://docs.microsoft.com/fr-ca/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli) (lien externe) pour regrouper les services communs essentiels à tous les déploiements de nuages.
+Ces instances utilisent un [modèle de type en étoile (Hub and Spoke)](https://docs.microsoft.com/fr-ca/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli) (lien externe) pour regrouper les services communs essentiels à tous les déploiements de nuages.
 Le carrefour (hub) représente un ensemble de services communs qui offrent des capacités pour les rayons.
 
 Chaque client Azure à EDSC est identifié de façon unique par un abonnement Azure ou un groupe de ressources.
