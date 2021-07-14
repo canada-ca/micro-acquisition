@@ -14,7 +14,7 @@ permalink: /en/index.html
             <div class="col-md-8 col-lrg-8">
                 <h2 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Calling all coders!</h2>
                 <p>Employment and Social Development Canada (ESDC) is looking for coders to create and deliver custom code under an open source license.</p>
-                <p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html" target="_blank">unclassified, non-protected information</a> only (so you don't need security clearance).</p>
+                <p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html">unclassified, non-protected information</a> only (so you don't need security clearance).</p>
                 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
                 <p>
                     <a href="{{ site.baseurl }}{% link _pages/en/opportunities.md %}" title="Opportunities" class="btn btn-primary btn-lrg">View opportunities&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -49,8 +49,8 @@ permalink: /en/index.html
     </ul>
     <p class="mrgn-tp-xl">Learn more about the process in the <a href="{{ site.baseurl }}{% link _pages/en/user-guide.md %}" title="User Guide">User Guide</a> and <a href="{{ site.baseurl }}{% link _pages/en/faq.md %}" title="Frequently asked questions">Frequently Asked Questions</a>.</p>
     <h2>About this pilot</h2>
-    <p>This micro-acquisition pilot project is being run for one year at <a href="https://www.canada.ca/en/employment-social-development.html" target="_blank">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch.</p>
-    <p>This pilot would not have been possible without the help of the <a href="https://bcdevexchange.org/" target="_blank">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace" target="_blank">BC Digital Marketplace</a> who have lead the way for years, and have generously shared their expertise.</p>
-    <p>We have also endeavoured to learn from the lessons of the <a href="https://github.com/canada-ca/devex" target="_blank">GC Developers Exchange</a> (the Government of Canada's first foray into low dollar value procurement of open source code).</p>
+    <p>This micro-acquisition pilot project is being run for one year at <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a> through a partnership between the Innovation Information Technology Branch and the Chief Financial Officer Branch.</p>
+    <p>This pilot would not have been possible without the help of the <a href="https://bcdevexchange.org/">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace">BC Digital Marketplace</a> who have lead the way for years, and have generously shared their expertise.</p>
+    <p>We have also endeavoured to learn from the lessons of the <a href="https://github.com/canada-ca/devex">GC Developers Exchange</a> (the Government of Canada's first foray into low dollar value procurement of open source code).</p>
     <p><a href="mailto:microacquisition@hrsdc-rhdcc.gc.ca">Contact us</a> if you are an ESDC team with a coding opportunity!</p>
 </div>
