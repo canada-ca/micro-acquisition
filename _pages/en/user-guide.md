@@ -21,7 +21,7 @@ AND
 
 OR
 
-- you are a foreign worker/student and have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html){:target="_blank"} to work in Canada.
+- you are a foreign worker/student and have the appropriate [work permit(s)](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html) to work in Canada.
 
 <!--markdownlint-disable MD026-->
 ## To do the work and get paid you need:
@@ -29,12 +29,12 @@ OR
 
 1. __An account on a public source code repository.__
   You can work on a repository of your choice.
-  Some repository options include [GitLab](https://gitlab.com/){:target="_blank"} (bilingual), [GitHub](https://github.com/){:target="_blank"} (English only), [Bitbucket](https://bitbucket.org/){:target="_blank"} (English only).
-1. __Familiarity with Git version control system.__
-  If you have not used Git before or need a refresher, this [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet){:target="_blank"} includes all the basic commands.
-1. __The ability to accept payment from a credit card using a payment system or via PayPal.__
+  Some repository options include [GitLab](https://gitlab.com/) (external link, bilingual), [GitHub](https://github.com/) (external link, English only), [Bitbucket](https://bitbucket.org/) (external link, English only).
+2. __Familiarity with Git version control system.__
+  If you have not used Git before or need a refresher, this [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet) (external link) includes all the basic commands.
+3. __The ability to accept payment from a credit card using a payment system or via PayPal.__
   If you choose to use a payment system, it must accept payment via Visa card.
-  If you would like to accept payment via PayPal, visit [how to get set up to accept PayPal payment](https://www.paypal.com/ca/business/accept-payments?locale.x=en_CA){:target="_blank"}.
+  If you would like to accept payment via PayPal, visit [how to get set up to accept PayPal payment](https://www.paypal.com/ca/business/accept-payments?locale.x=en_CA) (external link).
 
 _Note: simply having a credit card does not mean you are able to accept payment by credit card._
 
