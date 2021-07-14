@@ -18,7 +18,7 @@ permalink: /en/index.html
                 </p>
             </div>
             <div class="col-md-4 col-lrg-4">
-                <img class="img-responsive" src="/assets/images/computer.png" alt="Computer with code">
+                <img class="img-responsive" src="/assets/images/computer.png" alt="">
             </div>
         </div>
     </div>
