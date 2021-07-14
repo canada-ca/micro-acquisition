@@ -6,11 +6,14 @@ permalink: /fr/index.html
 ---
 
 <!-- markdownlint-disable MD041 -->
+<div class="container">
+    <h1 class="home">{{site.data.i18n.general.head.title[page.lang]}}</h1>
+</div>
 <section class="stretch-panel">
     <div class="container">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
             <div class="col-md-8 col-lrg-8">
-                <h1 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Appel à tous les codeurs!</h1>
+                <h2 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Appel à tous les codeurs!</h2>
                 <p>Emploi et Développement social Canada (EDSC) est à la recherche de codeurs qui peuvent créer et livrer un code personnalisé en vertu d’une licence de source ouverte.</p>
                 <p>Ces occasions de travail sont de faible valeur (10 k$ ou moins) et nécessitent l’utilisation de <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html" target="_blank">renseignements non classifiés et non protégés</a> seulement (donc vous n'avez pas besoin d'autorisation de sécurité).</p>
                 <p>Contribuez à accroître le travail ouvert et la réutilisation des codes au gouvernement du Canada!</p>
