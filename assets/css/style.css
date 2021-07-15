@@ -15,8 +15,21 @@ li span.glyphicon {
   margin: 0 4rem 1rem 0;
 }
 
-h1.gc-thickline {
-  font-size: 50px
+h1.home {
+  font-size: 50px;
+  border-bottom: none;
+}
+
+h2.gc-thickline {
+  font-size: 40px
+}
+
+h2.provisional.gc-thickline::after {
+    border-bottom: .18em solid #af3c43 !important;
+    content: "" !important;
+    display: block !important;
+    padding-bottom: 8px !important;
+    width: 70px !important;
 }
 
 div.container {
