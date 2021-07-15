@@ -31,12 +31,12 @@ OU
 
 1. __Un compte dans un registre public de code source.__
   Vous pouvez travailler sur un registre de votre choix.
-  Parmi les options de registre, mentionnons [GitLab](https://gitlab.com/) (lien externe, bilingue), [GitHub](https://github.com/) (lien externe, en anglais seulement), [Bitbucket](https://bitbucket.org/) (lien externe, en anglais seulement).
+  Parmi les options de registre, mentionnons [GitLab](https://gitlab.com/) (bilingue), [GitHub](https://github.com/) (en anglais seulement), [Bitbucket](https://bitbucket.org/) (en anglais seulement).
 2. __Une bonne connaissance du système de contrôle de version Git.__
-  Si vous n’avez pas déjà utilisé Git ou avez besoin d’un rappel, cet [aide-mémoire Git](https://training.github.com/downloads/fr/github-git-cheat-sheet/) (lien externe) comprend toutes les commandes de base.
+  Si vous n’avez pas déjà utilisé Git ou avez besoin d’un rappel, cet [aide-mémoire Git](https://training.github.com/downloads/fr/github-git-cheat-sheet/) comprend toutes les commandes de base.
 3. __La possibilité d’accepter des paiements à partir d’une carte de crédit au moyen d’un système de paiement ou de PayPal.__
   Si vous choisissez d’utiliser un système de paiement, celui-ci doit accepter les paiements par carte Visa.
-  Si vous souhaitez accepter le paiement par PayPal, consultez [la façon de configurer votre compte pour accepter le paiement PayPal](https://www.paypal.com/ca/business/accept-payments?locale.x=fr_CA) (lien externe).
+  Si vous souhaitez accepter le paiement par PayPal, consultez [la façon de configurer votre compte pour accepter le paiement PayPal](https://www.paypal.com/ca/business/accept-payments?locale.x=fr_CA).
 
 _Remarque : le simple fait d’avoir une carte de crédit ne signifie pas que vous pouvez accepter les paiements par carte de crédit._
 
@@ -57,7 +57,11 @@ Ils ont un réseau de bureaux partout au Canada.
 
 ## Êtes-vous prêt à présenter une demande?
 
-Pour présenter une demande pour une opportunité, remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB)</a>  et envoyez le à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Pour présenter une demande pour une opportunité:
+
+1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB)</a>
+2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+
 Les critères d’évaluation de la demande portent la mention « réussite/échec » (il n’y a pas de cote).
 
 __Une note de passage est requise pour chaque critère d’évaluation afin que votre demande soit retenue pour une opportunité.__
