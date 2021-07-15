@@ -12,7 +12,7 @@ Pour la déclaration de confidentialité relative au sondage volontaire auprès 
 
 ## La déclaration de confidentialité du pilote de micro-acquisition – sondage auprès des fournisseurs
 
-Les renseignements que vous fournissez sont recueillis en vertu de la Loi sur le ministère de l’Emploi et du Développement social (LMEDS) pour évaluer le succès du projet pilote de micro-acquisition.
+Les renseignements que vous fournissez sont recueillis en vertu de la [Loi sur le ministère de l’Emploi et du Développement social (LMEDS)](https://laws-lois.justice.gc.ca/fra/lois/h-5.7/page-1.html) pour évaluer le succès du projet pilote de micro-acquisition.
 
 La participation à cette initiative de recherche pour le projet pilote de micro-acquisition est volontaire.
 Le refus de fournir des renseignements personnels n'aura aucune conséquence.

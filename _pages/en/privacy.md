@@ -12,7 +12,7 @@ For the privacy notice related to the voluntary survey to suppliers, please see 
 
 ## Privacy Notice Statement for the Micro-acquisition pilot – survey to suppliers
 
-The information you provide is collected under the authority of the Department of Employment and Social Development Act (DESDA) to evaluate the success of the Micro-Acquisition Pilot.
+The information you provide is collected under the authority of the [Department of Employment and Social Development Act (DESDA)](https://laws-lois.justice.gc.ca/eng/acts/h-5.7/page-1.html) to evaluate the success of the Micro-Acquisition Pilot.
 
 Participation in this research initiative for the Micro-Acquisition Pilot is voluntary.
 Refusal to provide personal information will have no consequences.
