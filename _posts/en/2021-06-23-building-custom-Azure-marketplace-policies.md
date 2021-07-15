@@ -25,7 +25,7 @@ The work in this opportunity is being requested by the Cloud Operations team at 
 Cloud technologies are enabling transformation within government; improving service delivery to Canadians.
 As part of the rollout of Cloud at ESDC, there are a number of Azure instances in use at ESDC.
 
-These instances are using [a hub and spoke model](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli) (external link) to group common services that are foundational to all cloud deployments.
+These instances are using [a hub and spoke model](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli) to group common services that are foundational to all cloud deployments.
 The hub represents a set of common services that provide capabilities to spokes.
 
 Each Azure client at ESDC is uniquely identified by an Azure Subscription or a Resource Group.
@@ -91,7 +91,7 @@ This is a fixed price opportunity governed by the terms of the Micro-Acquisition
 
    - The code must be delivered with an MIT license
    - The code must  pass the following tests:
-     - [PowerShell Script Analyzer](https://github.com/PowerShell/PSScriptAnalyzer) (external link, English only) - all default rules (all warnings, alerts and suppressions of those warnings or alerts in code must be included in the documentation along with a justification)
+     - [PowerShell Script Analyzer](https://github.com/PowerShell/PSScriptAnalyzer) (English only) - all default rules (all warnings, alerts and suppressions of those warnings or alerts in code must be included in the documentation along with a justification)
      - The winning supplier will be given access to an unsecured sandbox on Azure in order to do the following functional tests to ensure the scripts are working:
        - A client with a subscription that has financial approval for approved 3rd party offering: ‘ CIS Microsoft Windows Server 2016 Benchmark L1’ in the private marketplace can pass validation to install it.
        - A client with a subscription that does NOT have financial approval for approved 3rd party offering ‘ CIS Microsoft Windows Server 2016 Benchmark L2’ in the private marketplace will fail validation when trying to install this approved 3rd party offering.
