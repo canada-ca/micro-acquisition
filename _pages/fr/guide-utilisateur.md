@@ -22,7 +22,7 @@ ET
 
 OU
 
-- vous êtes travailleur/étudiant étranger et avez [le(s) permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"} approprié(s) pour travailler au Canada.
+- vous êtes travailleur/étudiant étranger et avez [le(s) permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html) approprié(s) pour travailler au Canada.
 
 <!--markdownlint-disable MD026-->
 ## Pour faire le travail et être payé, vous devez avoir :
@@ -31,12 +31,12 @@ OU
 
 1. __Un compte dans un registre public de code source.__
   Vous pouvez travailler sur un registre de votre choix.
-  Parmi les options de registre, mentionnons [GitLab](https://gitlab.com/){:target="_blank"} (bilingue), [GitHub](https://github.com/){:target="_blank"} (en anglais seulement), [Bitbucket](https://bitbucket.org/){:target="_blank"} (en anglais seulement).
-1. __Une bonne connaissance du système de contrôle de version Git.__
-  Si vous n’avez pas déjà utilisé Git ou avez besoin d’un rappel, cet [aide-mémoire Git](https://training.github.com/downloads/fr/github-git-cheat-sheet/){:target="_blank"} comprend toutes les commandes de base.
-1. __La possibilité d’accepter des paiements à partir d’une carte de crédit au moyen d’un système de paiement ou de PayPal.__
+  Parmi les options de registre, mentionnons [GitLab](https://gitlab.com/) (bilingue), [GitHub](https://github.com/) (en anglais seulement), [Bitbucket](https://bitbucket.org/) (en anglais seulement).
+2. __Une bonne connaissance du système de contrôle de version Git.__
+  Si vous n’avez pas déjà utilisé Git ou avez besoin d’un rappel, cet [aide-mémoire Git](https://training.github.com/downloads/fr/github-git-cheat-sheet/) comprend toutes les commandes de base.
+3. __La possibilité d’accepter des paiements à partir d’une carte de crédit au moyen d’un système de paiement ou de PayPal.__
   Si vous choisissez d’utiliser un système de paiement, celui-ci doit accepter les paiements par carte Visa.
-  Si vous souhaitez accepter le paiement par PayPal, consultez [la façon de configurer votre compte pour accepter le paiement PayPal](https://www.paypal.com/ca/business/accept-payments?locale.x=fr_CA){:target="_blank"}.
+  Si vous souhaitez accepter le paiement par PayPal, consultez [la façon de configurer votre compte pour accepter le paiement PayPal](https://www.paypal.com/ca/business/accept-payments?locale.x=fr_CA).
 
 _Remarque : le simple fait d’avoir une carte de crédit ne signifie pas que vous pouvez accepter les paiements par carte de crédit._
 
@@ -52,12 +52,16 @@ Les questions peuvent être soumises jusqu’à deux jours ouvrables avant la cl
 
 Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par e-mail à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le [Bureau des petites et moyennes entreprises](https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux"){:target="_blank"}.
+Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le [Bureau des petites et moyennes entreprises](https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux").
 Ils ont un réseau de bureaux partout au Canada.
 
 ## Êtes-vous prêt à présenter une demande?
 
-Pour présenter une demande pour une opportunité, remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB)</a>  et envoyez le à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Pour présenter une demande pour une opportunité:
+
+1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB, ouvre une nouvelle fenêtre)</a>
+2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+
 Les critères d’évaluation de la demande portent la mention « réussite/échec » (il n’y a pas de cote).
 
 __Une note de passage est requise pour chaque critère d’évaluation afin que votre demande soit retenue pour une opportunité.__

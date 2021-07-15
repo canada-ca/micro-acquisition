@@ -12,10 +12,10 @@ Each coding opportunity has unique requirements, work acceptance criteria, and w
 <section class="followus">
     <h2>Follow:</h2>
     <ul>
-        <li><a href="https://twitter.com/MicroBuysGC" class="twitter" rel="external" target="_blank"> <span class="wb-inv">Twitter</span></a></li>
+        <li><a href="https://twitter.com/MicroBuysGC" class="twitter" rel="external"> <span class="wb-inv">Twitter</span></a></li>
     </ul>
 </section>
 
-Don't see an opportunity that matches your skills? Visit <a href="https://buyandsell.gc.ca/" target="_blank">Buy and Sell </a>  and <a href="https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?fromMenu=true&toggleLanguage=en" target="_blank"> GC Jobs </a>  sites for more contract, term and full-time work opportunities.
+Don't see an opportunity that matches your skills? Visit <a href="https://buyandsell.gc.ca/">Buy and Sell </a>  and <a href="https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?fromMenu=true&toggleLanguage=en"> GC Jobs </a>  sites for more contract, term and full-time work opportunities.
 
 {% include opportunitiesTable.md %}

@@ -25,7 +25,7 @@ L’équipe administrative des Opérations infonuagiques d’EDSC demande le tra
 Les technologies infonuagiques facilitent la transformation au sein du gouvernement et améliorent la prestation des services aux Canadiens.
 Dans le cadre du déploiement de infonuagiques à EDSC, un certain nombre d’instances Azure sont utilisées à EDSC.
 
-Ces instances utilisent un [modèle de type en étoile](hhttps://docs.microsoft.com/fr-ca/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli){:target="_blank"} (Hub and Spoke) pour regrouper les services communs essentiels à tous les déploiements de nuages.
+Ces instances utilisent un [modèle de type en étoile (Hub and Spoke)](https://docs.microsoft.com/fr-ca/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli) pour regrouper les services communs essentiels à tous les déploiements de nuages.
 Le carrefour (hub) représente un ensemble de services communs qui offrent des capacités pour les rayons.
 
 Chaque client Azure à EDSC est identifié de façon unique par un abonnement Azure ou un groupe de ressources.
@@ -81,7 +81,7 @@ ET
 
 OR
 
-- vous êtes travailleur/étudiant étranger et avez [les permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html){:target="_blank"} appropriés pour travailler au Canada.
+- vous êtes travailleur/étudiant étranger et avez [les permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html) appropriés pour travailler au Canada.
 
 ## Critères d'acceptation de travail
 
@@ -91,7 +91,7 @@ Il s’agit d’une opportunité à prix fixe régie par les modalités du proje
 
    - Le code doit être livré avec une licence MIT.
    - Le code doit passer les tests automatisés suivants :
-     - [PowerShell Script Analyzer (analyseur de script)](https://github.com/PowerShell/PSScriptAnalyzer){:target="_blank"} – toutes les règles par défaut (tous les avertissements, alertes et suppressions de ces avertissements ou alertes dans le code doivent être inclus dans la documentation avec une justification)
+     - [PowerShell Script Analyzer (analyseur de script)](https://github.com/PowerShell/PSScriptAnalyzer) (en anglais seulement) – toutes les règles par défaut (tous les avertissements, alertes et suppressions de ces avertissements ou alertes dans le code doivent être inclus dans la documentation avec une justification)
      - Le fournisseur retenu aura accès à un bac à sable non sécurisé sur Azure afin d’effectuer les essais fonctionnels suivants pour s’assurer que les scripts fonctionnent :
        - Un client ayant un abonnement qui a obtenu une approbation financière pour une offre de tierce partie approuvée : « CIS Microsoft Windows Server 2016 Benchmark L1 » sur le marché privé obtient la validation et peut procéder à l’installation.
        - Un client dont l’abonnement n’a PAS d’approbation financière pour l’offre d’une tierce partie approuvée « CIS Microsoft Windows Server 2016 Benchmark L2 » sur le marché privé échouera à la validation lorsqu’il tentera d’installer cette offre d’une tierce partie approuvée.
