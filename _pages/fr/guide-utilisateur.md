@@ -52,7 +52,7 @@ Les questions peuvent être soumises jusqu’à deux jours ouvrables avant la cl
 
 Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par e-mail à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le [Bureau des petites et moyennes entreprises](https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux").
+Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le [Bureau des petites et moyennes entreprises](https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux).
 Ils ont un réseau de bureaux partout au Canada.
 
 ## Êtes-vous prêt à présenter une demande?
