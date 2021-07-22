@@ -9,16 +9,16 @@ permalink: /fr/faq.html
 
 <details id="faq-001">
 <summary>Je viens d’obtenir mon diplôme. Puis-je envisager de répondre à ces occasions offertes?</summary>
-<p>Oui! Si vous satisfaites aux critères, vous pouvez définitivement inscrire votre nom sur la liste! Le projet pilote de microacquisition vise à faciliter le plus possible la collaboration avec le gouvernement sur des possibilités dont le nombre est limité. Même si c’est la première fois que vous faites affaire avec le gouvernement, vous ne devriez pas être dépassé par la complexité de la réglementation en matière d’approvisionnement.</p>
+<p>Oui! Si vous satisfaites aux critères d'éligibilité, vous pouvez définitivement soumettre votre nom! Le projet pilote de micro-acquisition vise à faciliter le plus possible la collaboration avec le gouvernement sur des opportunités de petite envergure. Même si c’est la première fois que vous faites affaire avec le gouvernement, vous ne devriez pas être dépassé par la complexité de la réglementation en matière d’approvisionnement.</p>
 
-<p>Nous voulons que vous puissiez consacrer votre temps au travail plutôt que de remplir de la paperasse et obtenir le paiement le plus rapidement possible une fois le travail terminé. </p>
+<p>Nous voulons que vous puissiez consacrer votre temps à réaliser le travail plutôt qu'à remplir de la paperasse et que vous puissiez obtenir le paiement le plus rapidement possible une fois celui-ci terminé. </p>
 </details>
 
 <details id="faq-002">
 <summary>Je ne suis pas un développeur à temps plein. Devrais-je tenter ma chance quand même?</summary>
-<p> Oui! Les opportunités sont offertes au plus grand nombre de personnes possible et même si vous ne vous considérez pas comme un codeur professionnel, vous aurez peut-être les compétences nécessaires pour résoudre le problème en jeu.</p>
+<p>Oui! Les opportunités sont offertes au plus grand nombre de personnes possible et même si vous ne vous considérez pas comme un développeur professionnel, vous aurez peut-être les compétences nécessaires pour résoudre le problème en jeu.</p>
 
-<p>Le processus de demande en soi comporte peu de travail initial et les critères de réussite sont définis avant de commencer. Si votre candidature est retenue et que vous livrez la marchandise, vous recevrez votre paiement, que votre emploi à temps plein porte sur le codage ou non. </p>
+<p>Le processus de demande en soi comporte peu de travail initial et les critères de réussite sont définis avant de commencer. Si votre candidature est retenue et que vous livrez la marchandise, vous recevrez votre paiement, que votre emploi à temps plein consiste à développer ou non. </p>
 </details>
 
 <details id="faq-003">
@@ -27,10 +27,10 @@ permalink: /fr/faq.html
 </details>
 
 <details id="faq-004">
-<summary> Je n’ai jamais fourni de services au gouvernement auparavant. Puis-je soumettre ma candidature?</summary>
-<p>Oui! Ces opportunités offertes visent à trouver des personnes possédant des compétences particulières pour résoudre un problème particulier en toute transparence. Vous devez simplement avoir la capacité de résoudre le problème et satisfaire aux critères d’admissibilité.</p>
+<summary>Je n’ai jamais fourni de services au gouvernement auparavant. Puis-je soumettre ma candidature?</summary>
+<p>Oui! Ces opportunités visent à trouver des personnes possédant des compétences spécifiques pour résoudre un problème particulier en toute transparence. Vous devez simplement avoir la capacité de résoudre le problème et satisfaire aux critères d’admissibilité.</p>
 
-<p>Si vous avez les deux, cette occasion s’adresse à vous! </p>
+<p>Si vous avez les deux, cette occasion s’adresse à vous!</p>
 </details>
 
 <details id="faq-005">
