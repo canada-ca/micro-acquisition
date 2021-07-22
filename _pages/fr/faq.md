@@ -9,7 +9,7 @@ permalink: /fr/faq.html
 
 <details id="faq-001">
 <summary>Je viens d’obtenir mon diplôme. Puis-je envisager de répondre à ces occasions offertes?</summary>
-<p>Oui! Si vous satisfaites aux critères d'éligibilité, vous pouvez définitivement soumettre votre nom! Le projet pilote de micro-acquisition vise à faciliter le plus possible la collaboration avec le gouvernement sur des opportunités de petite envergure. Même si c’est la première fois que vous faites affaire avec le gouvernement, vous ne devriez pas être dépassé par la complexité de la réglementation en matière d’approvisionnement.</p>
+<p>Oui! Si vous satisfaites aux critères d'éligibilité, vous pouvez définitivement soumettre votre nom! Le projet pilote de micro-acquisition vise à faciliter le plus possible la collaboration avec le gouvernement sur des opportunités de faible valeur. Même si c’est la première fois que vous faites affaire avec le gouvernement, vous ne devriez pas être dépassé par des processus d'approvisionnement complexes.</p>
 
 <p>Nous voulons que vous puissiez consacrer votre temps à réaliser le travail plutôt qu'à remplir de la paperasse et que vous puissiez obtenir le paiement le plus rapidement possible une fois celui-ci terminé. </p>
 </details>

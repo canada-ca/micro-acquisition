@@ -9,13 +9,13 @@ permalink: /en/faq.html
 
 <details id="faq-001">
 <summary>I'm a recent graduate, can I apply to these opportunities?</summary>
-<p>Yes! If you meet the criteria, you can definitely put your name in the hat! The micro-acquisition pilot aims to make it as easy as possible to work with the government on small size opportunities. That means that even if it's your first time dealing with the government, you shouldn't be overwhelmed by the complexities of procurement regulations.</p>
+<p>Yes! If you meet the criteria, you can definitely put your name in the hat! The micro-acquisition pilot aims to make it as easy as possible to work with the government on low dollar value opportunities. That means that even if it's your first time dealing with the government, you shouldn't be overwhelmed by complex procurement processes.</p>
 
-<p>We want you to be able to spend your time the work at hand rather than filling in paperwork and get paid as fast as possible once it's completed.</p>
+<p>We want you to be able to spend your time on the work at hand rather than filling in paperwork, and get paid as fast as possible once the work is completed.</p>
 </details>
 
 <details id="faq-002">
-<summary>I'm not a full time developer, should I try to apply on an opportunity?</summary>
+<summary>I'm not a full time developer, should I try to apply to an opportunity?</summary>
 <p>Yes! The opportunities are meant to be open to as many people as possible and even if you don't consider yourself a professional coder, you may have the right skill set to solve the issue at hand!</p>
 
 <p>The application process itself involves little upfront work and the success criteria are defined before getting started. If you are selected and you deliver the goods, then you're paid, whether your full time job is coding or not.</p>
@@ -27,8 +27,8 @@ permalink: /en/faq.html
 </details>
 
 <details id="faq-004">
-<summary>I've never provided services for the government before. Can I apply on an opportunity?</summary>
-<p>Yes! These opportunities are meant to find people with specific skill set to solve a specific issue in the open. The only thing you need to have is the ability to solve the issue and meet the eligibility criteria.</p>
+<summary>I've never provided services for the government before. Can I apply to an opportunity?</summary>
+<p>Yes! These opportunities are meant to find people with specific skill sets to solve a specific issue in the open. The only thing you need to have is the ability to solve the issue and meet the eligibility criteria.</p>
 
 <p>If you have both, then this is for you!</p>
 </details>
