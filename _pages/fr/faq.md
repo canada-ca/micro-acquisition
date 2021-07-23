@@ -7,7 +7,33 @@ permalink: /fr/faq.html
 
 # Foire aux questions (FAQ)
 
-<details open id="faq-001">
+<details id="faq-001">
+<summary>Je viens d’obtenir mon diplôme. Puis-je envisager de répondre à ces occasions offertes?</summary>
+<p>Oui! Si vous satisfaites aux critères d'éligibilité, vous pouvez définitivement soumettre votre nom! Le projet pilote de micro-acquisition vise à faciliter le plus possible la collaboration avec le gouvernement sur des opportunités de faible valeur. Même si c’est la première fois que vous faites affaire avec le gouvernement, vous ne devriez pas être dépassé par des processus d'approvisionnement complexes.</p>
+
+<p>Nous voulons que vous puissiez consacrer votre temps à réaliser le travail plutôt qu'à remplir de la paperasse et que vous puissiez obtenir le paiement le plus rapidement possible une fois celui-ci terminé. </p>
+</details>
+
+<details id="faq-002">
+<summary>Je ne suis pas un développeur à temps plein. Devrais-je tenter ma chance quand même?</summary>
+<p>Oui! Les opportunités sont offertes au plus grand nombre de personnes possible et même si vous ne vous considérez pas comme un développeur professionnel, vous aurez peut-être les compétences nécessaires pour résoudre le problème en jeu.</p>
+
+<p>Le processus de demande en soi comporte peu de travail initial et les critères de réussite sont définis avant de commencer. Si votre candidature est retenue et que vous livrez la marchandise, vous recevrez votre paiement, que votre emploi à temps plein consiste à développer ou non. </p>
+</details>
+
+<details id="faq-003">
+<summary>J’ai fait du codage de mon propre chef, mais je n’ai jamais reçu de paiement à cet effet. Puis-je poser ma candidature?</summary>
+<p>Oui! Consultez la réponse ci-dessus! Si on retient votre candidature et que vous réglez le problème en jeu, un paiement vous sera versé. C’est aussi simple que cela!</p>
+</details>
+
+<details id="faq-004">
+<summary>Je n’ai jamais fourni de services au gouvernement auparavant. Puis-je soumettre ma candidature?</summary>
+<p>Oui! Ces opportunités visent à trouver des personnes possédant des compétences spécifiques pour résoudre un problème particulier en toute transparence. Vous devez simplement avoir la capacité de résoudre le problème et satisfaire aux critères d’admissibilité.</p>
+
+<p>Si vous avez les deux, cette occasion s’adresse à vous!</p>
+</details>
+
+<details id="faq-005">
 <summary>Est-ce qu’une personne employée par le gouvernement du Canada peut appliquer sur les opportunités de micro-acquisition?</summary>
 
 <p>Si vous êtes à l’emploi du gouvernement du Canada, vous pouvez poser votre candidature aux opportunités de micro-acquisition. Toutefois, n'oubliez pas que le respect de la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32627">Directive sur les conflits d'intérêts</a> est une condition de votre emploi. Cette directive exige ce qui suit des personnes employées par le gouvernement du Canada :</p>
