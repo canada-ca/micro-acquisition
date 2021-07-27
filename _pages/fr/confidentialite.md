@@ -22,7 +22,7 @@ Cependant, de telles utilisations ou divulgations additionnelles de vos renseign
 
 Remarque : Le pilote de micro-acquisition de Emploi et Développement social Canada (EDSC) utilise les Formulaires GC pour recueillir les informations relatives aux demandes.
 Les Formulaires GC sont un produit développé et géré par le Service numérique canadien du Secrétariat du Conseil du Trésor du Canada.
-Apprenez-en plus sur la [la politique de confidentialité des Formulaires GC](https://digital.canada.ca/legal/privacy/).
+Apprenez-en plus sur la [la politique de confidentialité des Formulaires GC](https://numerique.canada.ca/transparence/confidentialite/).
 
 Les renseignements personnels qui vous concernent sont administrés conformément à la *Loi sur le ministère de l’Emploi et du Développement social*, la *Loi sur la protection des renseignements personnels* et d’autres lois applicables.
 Vous avez droit à la protection, à la correction de vos renseignements personnels et à l’accès à ceux-ci; ce droit est décrit dans le répertoire de données personnelles [Activités de sensibilisation](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html#pou938) (POU 938).
