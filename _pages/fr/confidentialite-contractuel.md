@@ -12,9 +12,9 @@ Les renseignements que vous fournissez sont recueillis en vertu de la [Loi sur l
 La participation au pilote de micro-acquisition (y compris le fait de postuler à des opportunités, de compléter et de soumettre des travaux pour des opportunités de micro-acquisition, et d'accepter un paiement) est volontaire.
 Si vous refusez de fournir les informations personnelles requises dans le cadre de l'évaluation des candidatures, vous ne pourrez pas participer aux opportunités.
 
-Remarque : Le Emploi et Développement social Canada (EDSC) utilise les Formulaires GC pour recueillir les informations relatives aux demandes.
+Remarque : Le pilote de micro-acquisition de Emploi et Développement social Canada (EDSC) utilise les Formulaires GC pour recueillir les informations relatives aux demandes.
 Les Formulaires GC sont un produit développé et géré par le Service numérique canadien du Secrétariat du Conseil du Trésor du Canada.
-Pour en savoir plus sur la [politique de confidentialité des formulaires GC](https://digital.canada.ca/legal/privacy/).
+Apprenez-en plus sur la [politique de confidentialité des formulaires GC](https://digital.canada.ca/legal/privacy/).
 
 Vos renseignements personnels pourraient être utilisés et communiqués aux fins d’analyse stratégique, de recherche et d’évaluation.
 Cependant, de telles utilisations ou divulgations additionnelles de vos renseignements ne serviront jamais à prendre une décision administrative à votre sujet.

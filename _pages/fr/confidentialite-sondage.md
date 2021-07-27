@@ -8,7 +8,7 @@ permalink: /fr/confidentialite-sondage.html
 
 Les renseignements que vous fournissez sont recueillis en vertu de la [Loi sur le ministère de l’Emploi et du Développement social (LMEDS)](https://laws-lois.justice.gc.ca/fra/lois/h-5.7/page-1.html) pour évaluer le succès du projet pilote de micro-acquisition y compris, mais sans s'y limiter, l'évaluation de la demande pour cette option d'approvisionnement et l'atteinte de l'objectif d'une participation accrue des fournisseurs qui ne soumissionneraient pas normalement aux contrats du gouvernement du Canada.
 
-La participation à cet sondage pour les fournisseurs de micro-acquisition est volontaire.
+La participation à ce sondage pour les fournisseurs de micro-acquisition est volontaire.
 Le refus de fournir des renseignements personnels n'aura aucune conséquence.
 
 Les informations que vous fournissez par le biais de commentaires, de questions ou en demandant à être ajouté à la liste de diffusion, pourraient être utilisés et communiqués aux fins d’analyse stratégique, de recherche et d’évaluation.

@@ -19,7 +19,7 @@ Participation in the Micro-Acquisition Pilot is voluntary. Refusal to provide pe
 The information you provide by way of feedback, questions, or by requesting to be added to the mailing list, may be used and/or disclosed for policy analysis, research and/or evaluation purposes.
 However, these additional uses and/or disclosures of your personal information will never result in an administrative decision being made about you.
 
-Note, Employment and Social Development Canada uses GC Forms to collect feedback and mailing list information.
+Note: The Micro-Acquisition pilot at Employment and Social Development Canada uses GC Forms to collect feedback and mailing list information.
 GC Forms is a product developed and managed by the Canadian Digital Service at the Treasury Board of Canada Secretariat.
 The information you provide may be shared with Treasury Board of Canada Secretariat for the purpose of managing GC Forms.
 Learn more about [GC Forms privacy policy](https://digital.canada.ca/legal/privacy/).

@@ -20,8 +20,9 @@ Le refus de fournir des renseignements personnels n'aura aucune conséquence.
 Les informations que vous fournissez par le biais de commentaires, de questions ou en demandant à être ajouté à la liste de diffusion, pourraient être utilisés et communiqués aux fins d’analyse stratégique, de recherche et d’évaluation.
 Cependant, de telles utilisations ou divulgations additionnelles de vos renseignements ne serviront jamais à prendre une décision administrative à votre sujet.
 
-Remarque : Le Emploi et Développement social Canada (EDSC) utilise les Formulaires GC pour recueillir les informations relatives aux demandes.
-Les Formulaires GC sont un produit développé et géré par le Service numérique canadien du Secrétariat du Conseil du Trésor du Canada. Pour en savoir plus sur [la politique de confidentialité des Formulaires GC](https://digital.canada.ca/legal/privacy/).
+Remarque : Le pilote de micro-acquisition de Emploi et Développement social Canada (EDSC) utilise les Formulaires GC pour recueillir les informations relatives aux demandes.
+Les Formulaires GC sont un produit développé et géré par le Service numérique canadien du Secrétariat du Conseil du Trésor du Canada.
+Apprenez-en plus sur la [la politique de confidentialité des Formulaires GC](https://digital.canada.ca/legal/privacy/).
 
 Les renseignements personnels qui vous concernent sont administrés conformément à la *Loi sur le ministère de l’Emploi et du Développement social*, la *Loi sur la protection des renseignements personnels* et d’autres lois applicables.
 Vous avez droit à la protection, à la correction de vos renseignements personnels et à l’accès à ceux-ci; ce droit est décrit dans le répertoire de données personnelles [Activités de sensibilisation](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html#pou938) (POU 938).

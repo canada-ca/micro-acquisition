@@ -11,7 +11,7 @@ The information you provide is collected under the authority of the [Financial A
 
 Participation in Micro-acquisition pilot (including applying to opportunities, completing and submitting work for micro-acquisition opportunities, and accepting payment) is voluntary. Refusal to provide personal information required as part of the application evaluation purposes will result in you being screened out of opportunities.
 
-Note: Employment and Social Development Canada (ESDC) uses GC Forms to collect application information. GC Forms is a product developed and managed by the Canadian Digital Service at the Treasury Board of Canada Secretariat.
+Note: The Micro-Acquisition pilot at Employment and Social Development Canada (ESDC) uses GC Forms to collect application information. GC Forms is a product developed and managed by the Canadian Digital Service at the Treasury Board of Canada Secretariat.
 Learn more about [GC Forms privacy policy](https://digital.canada.ca/legal/privacy/).
 
 The information you provide may be used and/or disclosed for policy analysis, research and/or evaluation purposes.
