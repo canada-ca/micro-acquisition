@@ -9,6 +9,12 @@
       {%- if page.ref == "terms" -%}
       <li><a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/guide-utilisateur.md %}{%- else -%}{% link _pages/en/user-guide.md %}{%- endif -%}">{{ site.data.i18n.general.apply.guide[page.lang] }}</a></li>
       {%- endif -%}
+      {%- if page.ref == "survey" -%}
+      <li><a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/confidentialite.md %}{%- else -%}{% link _pages/en/privacy.md %}{%- endif -%}">{{ site.data.i18n.general.footer.Nav.Privacy[page.lang].title }}</a></li>
+      {%- endif -%}
+      {%- if page.ref == "contracting" -%}
+      <li><a href="{{ site.baseurl }}{%- if page.lang == 'fr' -%}{% link _pages/fr/confidentialite.md %}{%- else -%}{% link _pages/en/privacy.md %}{%- endif -%}">{{ site.data.i18n.general.footer.Nav.Privacy[page.lang].title }}</a></li>
+      {%- endif -%}
     </ol>
   </div>
 </nav>
