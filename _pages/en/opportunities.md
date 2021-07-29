@@ -24,4 +24,4 @@ Additionally, teams have mentioned using the following frameworks: Spring, React
 
 Also consider visiting <a href="https://buyandsell.gc.ca/">Buy and Sell </a>  and <a href="https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?fromMenu=true&toggleLanguage=en"> GC Jobs </a>  sites for more contract, term and full-time work opportunities.
 
-{% include opportunitiesTable.md %}
+{% include opportunitiesTable.html %}
