@@ -5,3 +5,7 @@ _site/
 .DS_Store
 Gemfile.lock
 node_modules
+.env
+env/
+venv/
+hydra.py
