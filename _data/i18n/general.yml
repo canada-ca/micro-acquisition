@@ -200,13 +200,17 @@ apply:
 alert:
   alert1:
     en: This website is part of a pilot. If you want to share your feedback, please open an 
-    fr: Ce site fait partie d'un pilote. Si vous souhaitez partager vos commentaires, posez une 
+    fr: Ce site fait partie d'un pilote. Si vous souhaitez partager vos commentaires, poser une 
   issue:
     en: issue
     fr: question
   alert2:
-    en: or send us an 
-    fr: ou envoyez-nous un
-  email:
-    en: email
-    fr: courriel
+    en: or fill in a
+    fr: ou remplir un
+  GCForm:
+      en:
+        link: https://forms-formulaires.alpha.canada.ca/id/35
+        title: feedback form
+      fr:
+        link: https://forms-formulaires.alpha.canada.ca/fr/id/35
+        title: formulaire de commentaires
