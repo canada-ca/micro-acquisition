@@ -205,8 +205,15 @@ alert:
     en: issue
     fr: question
   alert2:
-    en: or send us an 
-    fr: ou envoyez-nous un
-  email:
-    en: email
-    fr: courriel
+    en: or fill in a
+    fr: ou remplir un
+  form:
+    en: feedback form
+    fr: formulaire de commentaires
+  GCForm:
+      en:
+        link: https://forms-formulaires.alpha.canada.ca/id/35
+        title: Feedback form
+      fr:
+        link: https://forms-formulaires.alpha.canada.ca/fr/id/35
+        title: formulaire de commentaires
