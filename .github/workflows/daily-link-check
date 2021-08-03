@@ -1,0 +1,20 @@
+on:
+  schedule:
+    - cron: '5 4 * * 1'
+    env:
+  URL: https://micro-acquisition.alpha.canada.ca
+  FILENAME: report.yaml
+  CONFIG: config.json
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Report broken links
+        uses: victoriadrake/link-snitch@master
