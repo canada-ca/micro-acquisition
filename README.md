@@ -1,12 +1,13 @@
+<!-- markdownlint-disable MD041-->
 ([Français](#prototype-site-web-micro-acquisition))
 
 ## Micro-acquisition Website
 
-https://micro-acquisition.alpha.canada.ca/en/index.html
+<https://micro-acquisition.alpha.canada.ca/en/index.html>
 
 What is this project?
 
-See https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html
+See <https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html>
 
 ### How to Contribute
 
@@ -22,11 +23,11 @@ ______________________
 
 ## Site Web micro-acquisition
 
-https://micro-acquisition.alpha.canada.ca/fr/index.html
+<https://micro-acquisition.alpha.canada.ca/fr/index.html>
 
 Quel est ce projet?
 
-Voir https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition.html
+Voir <https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition.html>
 
 ### Comment contribuer
 
