@@ -4,7 +4,7 @@
   "description": "([Français](#prototype-site-web-micro-acquisition))",
   "main": "index.js",
   "scripts": {
-    "lint-markdown": "markdownlint -i node_modules -i _site -i _includes -i README.md -i SECURITY.md \"**/*.md\"",
+    "lint-markdown": "markdownlint -i node_modules -i _site \"**/*.md\"",
     "lint-editorconfig": "editorconfig-checker -disable-indentation -disable-insert-final-newline",
     "open-licences": "licensee --errors-only",
     "test": "npm run lint-markdown && npm run lint-editorconfig && npm run open-licences"
