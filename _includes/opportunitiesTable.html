@@ -32,7 +32,7 @@
             <p>
               {%- assign closeDate = post.closing_date | date: "%e %B %Y
               %H:%M" -%} {%- if page.lang == "fr" -%} {% include
-              replaceFrenchMonth.md %} {%- endif -%}
+              replaceFrenchMonth.html %} {%- endif -%}
               <span class="glyphicon glyphicon-calendar"></span>&nbsp;<strong>{{
                 site.data.i18n.general.opportunities.closing[page.lang]
                 }}:</strong>&nbsp;{{ closeDate }}, {{
@@ -80,7 +80,7 @@
             <p>
               {%- assign closeDate = post.closing_date | date: "%e %B %Y
               %H:%M" -%} {%- if page.lang == "fr" -%} {% include
-              replaceFrenchMonth.md %} {%- endif -%}
+              replaceFrenchMonth.html %} {%- endif -%}
               <span class="label label-danger">{{ site.data.i18n.general.opportunities.closed[page.lang]
                 }}</span>
               {{ site.data.i18n.general.opportunities.closed[page.lang]

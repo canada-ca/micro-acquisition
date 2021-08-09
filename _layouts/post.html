@@ -11,7 +11,7 @@
         {%- capture closeXML -%}{{ page.closing_date | date_to_xmlschema }}{%- endcapture -%}
         {%- assign closeDate = page.closing_date | date: "%e %B %Y %H:%M" -%}
         {%- if page.lang == "fr" -%}
-            {% include replaceFrenchMonth.md %}
+            {% include replaceFrenchMonth.html %}
         {%- endif -%}
 
         <p><b>
