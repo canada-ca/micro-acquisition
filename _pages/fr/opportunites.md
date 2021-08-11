@@ -10,10 +10,16 @@ permalink: /fr/opportunites.html
 Chaque opportunité comporte des exigences uniques, des critères d’acceptation du travail et une date de livraison du travail. Assurez-vous de passer en revue la section « détails » de chaque opportunité afin de choisir celle qui vous convient le mieux!
 
 Soyez informé lorsque de nouvelles opportunités sont publiées :
-<p><a href="https://forms-formulaires.alpha.canada.ca/fr/id/36" class="btn btn-primary btn-lrg">S'inscrire à la liste de diffusion&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
-
-<a href="https://twitter.com/MicroAchatsGC" class="btn btn-primary btn-lrg">Suivez-nous sur Twitter&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
-</p>
+<div class="mrgn-bttm-lg">
+<div class="row">
+    <div class="col-md-4 col-lg-3 col-sm-4">
+    <a href="https://forms-formulaires.alpha.canada.ca/fr/id/36" class="btn btn-default btn-lrg">S'inscrire à la liste de diffusion&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+    </div>
+    <div class="col-md-5 col-lg-4 col-sm-5">
+    <a href="https://twitter.com/MicroAchatsGC" class="btn btn-default btn-lrg">Suivez-nous sur Twitter&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+    </div>
+</div>
+</div>
 
 {% include opportunitiesTable.html %}
 

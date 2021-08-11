@@ -10,6 +10,8 @@ permalink: /en/opportunities.html
 Each coding opportunity has unique requirements, work acceptance criteria, and work delivery date. Be sure to review the ‘details’ section in each opportunity to select the right opportunity for you!
 
 Get notified when new opportunities are posted:
+
+<div class="mrgn-bttm-lg">
 <div class="row">
     <div class="col-md-4 col-lg-3 col-sm-4">
     <a href="https://forms-formulaires.alpha.canada.ca/id/36" class="btn btn-default btn-lrg">Sign up for the mailing list&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -18,12 +20,7 @@ Get notified when new opportunities are posted:
     <a href="https://twitter.com/MicroBuysGC" class="btn btn-default btn-lrg">Follow us on Twitter&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
     </div>
 </div>
-
-<!--
-<p><a href="https://forms-formulaires.alpha.canada.ca/id/36" class="btn btn-default btn-lrg">Sign up for the mailing list&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a> -->
-<!--
-<a href="https://twitter.com/MicroBuysGC" class="btn btn-primary btn-lrg">Follow us on Twitter&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
-</p> -->
+</div>
 
 {% include opportunitiesTable.html %}
 
