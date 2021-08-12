@@ -1,0 +1,45 @@
+name: Build and test website
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Main repo
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Run HTMLProofer
+        run: bundle exec htmlproofer --disable-external --allow-hash-href ./_site
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.4.0
+
+      - name: Install NPM dependencies
+        run: npm ci
+
+      - name: Run HTML5 Validator
+        run: npm run lint-html
+    
+      - name: Run Markdownlint
+          run: |
+            echo "::add-matcher::.github/workflows/markdownlint-problem-matcher.json"
+            npm run lint-markdown
+      
+      - name: Run EditorConfig linting
+        run: npm run lint-editorconfig
+
+      - name: Run License validation
+        run: npm run open-licences
