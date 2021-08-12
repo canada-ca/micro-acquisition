@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint-html": "java -jar node_modules/vnu-jar/build/dist/vnu.jar --errors-only --no-langdetect --skip-non-html _site/",
-    "lint-markdown": "markdownlint -i node_modules -i _site \"**/*.md\"",
+    "lint-markdown": "markdownlint -i node_modules -i vendor -i _site \"**/*.md\"",
     "lint-editorconfig": "editorconfig-checker -disable-indentation -disable-insert-final-newline",
     "open-licences": "licensee --errors-only",
     "test": "npm run lint-markdown && npm run lint-editorconfig && npm run open-licences && npm run lint-html"
