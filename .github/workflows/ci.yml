@@ -34,9 +34,9 @@ jobs:
         run: npm run lint-html
     
       - name: Run Markdownlint
-          run: |
-            echo "::add-matcher::.github/workflows/markdownlint-problem-matcher.json"
-            npm run lint-markdown
+        run: |
+          echo "::add-matcher::.github/workflows/markdownlint-problem-matcher.json"
+          npm run lint-markdown
       
       - name: Run EditorConfig linting
         run: npm run lint-editorconfig
