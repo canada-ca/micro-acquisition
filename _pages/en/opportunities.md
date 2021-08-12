@@ -14,10 +14,10 @@ Get notified when new opportunities are posted:
 <div class="mrgn-bttm-lg">
 <div class="row">
     <div class="col-md-4 col-lg-3 col-sm-4">
-    <a href="https://forms-formulaires.alpha.canada.ca/id/36" class="btn btn-default btn-lrg">Sign up for the mailing list&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+    <a href="https://forms-formulaires.alpha.canada.ca/id/36" class="btn btn-default btn-lrg">Sign up for the mailing list&nbsp;&nbsp;<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
     </div>
     <div class="col-md-5 col-lg-4 col-sm-5">
-    <a href="https://twitter.com/MicroBuysGC" class="btn btn-default btn-lrg">Follow us on Twitter&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+    <a href="https://twitter.com/MicroBuysGC" class="btn btn-default btn-lrg">Follow us on Twitter&nbsp;&nbsp;<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
     </div>
 </div>
 </div>
