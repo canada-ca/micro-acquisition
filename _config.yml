@@ -8,5 +8,5 @@ wet_cdts_version: "v4_0_39"
 # Build settings
 markdown: kramdown
 include: ["_pages"]
-exclude: ["CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "LICENSE", "README.md", "SECURITY.md", "package*.json", "node_modules", "_posts/en/template*.md", "_posts/fr/gabarit*.md"]
+exclude: ["CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "LICENSE", "README.md", "SECURITY.md", "package*.json", "node_modules", "_posts/en/template*.md", "_posts/fr/gabarit*.md", "vendor"]
 timezone: America/Vancouver
