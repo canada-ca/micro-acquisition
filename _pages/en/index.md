@@ -12,8 +12,8 @@ permalink: /en/index.html
     <div class="container">
         <div class="row wb-eqht mrgn-tp-md mrgn-bttm-md">
             <div class="col-md-8 col-lrg-8">
-                <h2 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Calling all coders!</h2>
-                <p>Employment and Social Development Canada (ESDC) is looking for coders to create and deliver custom code under an open source license.</p>
+                <h2 class="provisional gc-thickline mrgn-tp-0 mrgn-bttm-lg">Calling all people who code!</h2>
+                <p>Employment and Social Development Canada (ESDC) is looking for people who code to create and deliver custom code under an open source license.</p>
                 <p>These work opportunities are low dollar value ($10K or less) and involve the use of <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html">unclassified, non-protected information</a> only (so you don't need security clearance).</p>
                 <p>Contribute to increased working in the open and reuse of code in the Government of Canada!</p>
                 <p>
