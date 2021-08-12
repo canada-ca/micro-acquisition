@@ -9,7 +9,7 @@ permalink: /fr/opportunites.html
 
 Chaque opportunité comporte des exigences uniques, des critères d’acceptation du travail et une date de livraison du travail. Assurez-vous de passer en revue la section « détails » de chaque opportunité afin de choisir celle qui vous convient le mieux!
 
-Soyez informé lorsque de nouvelles opportunités sont publiées :
+Soyez informé lorsque de nouvelles opportunités sont publiées&nbsp;:
 <div class="mrgn-bttm-lg">
 <div class="row">
     <div class="col-md-4 col-lg-3 col-sm-4">
