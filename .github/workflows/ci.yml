@@ -38,3 +38,9 @@ jobs:
         run: |
           echo "::add-matcher::.github/workflows/vnu-jar-problem-matcher.json"
           npm run lint-html
+
+      - name: Run EditorConfig linting
+        run: npm run lint-editorconfig
+
+      - name: Run License validation
+        run: npm run open-licences
