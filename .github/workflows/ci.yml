@@ -35,6 +35,4 @@ jobs:
         run: npm ci
 
       - name: Run W3C Nu Validator
-        run: |
-          echo "::add-matcher::.github/workflows/vnu-jar-problem-matcher.json"
-          npm run lint-html
+        run: npm run lint-html
