@@ -13,10 +13,10 @@ Soyez informé lorsque de nouvelles opportunités sont publiées :
 <div class="mrgn-bttm-lg">
 <div class="row">
     <div class="col-md-4 col-lg-3 col-sm-4">
-    <a href="https://forms-formulaires.alpha.canada.ca/fr/id/36" class="btn btn-default btn-lrg">S'inscrire à la liste de diffusion&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+    <a href="https://forms-formulaires.alpha.canada.ca/fr/id/36" class="btn btn-default btn-lrg">S'incrire à la liste de diffusion&nbsp;&nbsp;<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
     </div>
     <div class="col-md-5 col-lg-4 col-sm-5">
-    <a href="https://twitter.com/MicroAchatsGC" class="btn btn-default btn-lrg">Suivez-nous sur Twitter&nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+    <a href="https://twitter.com/MicroAchatsGC" class="btn btn-default btn-lrg">Nous suivre sur Twitter&nbsp;&nbsp;<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
     </div>
 </div>
 </div>
