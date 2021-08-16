@@ -1,6 +1,5 @@
 {%- assign aPost = site.posts | where:"lang", page.lang | sort:"closing_date"
 -%}
-<link rel="stylesheet" href="../assets/css/gridify.css" />
 
 <div>
   <details open>
@@ -15,11 +14,11 @@
       | plus: 1 %}
       <div class="col-xs-12 col-md-6">
         <div class="panel panel-default position-relative">
-          <div class="panel-heading">
+          <header class="card-header">
             <p>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <a class="h3 card-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </p>
-          </div>
+          </header>
           <div class="panel-body">
             <p>
               <span class="label label-success">{{ site.data.i18n.general.opportunities.open[page.lang]
@@ -71,11 +70,7 @@
       post.closing_date | date_to_xmlschema }}{%- endcapture -%} {%- if
       closeXML < nowXML -%} <div class="col-xs-12 col-md-6">
         <div class="panel panel-default position-relative">
-          <div class="panel-heading">
-            <p>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </p>
-          </div>
+            <h3 class="card-header"><a class="card-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
           <div class="panel-body">
             <p>
               {%- assign closeDate = post.closing_date | date: "%e %B %Y

@@ -35,3 +35,18 @@ h2.provisional.gc-thickline::after {
 div.container {
   overflow-wrap: anywhere !important;
 }
+
+a.card-link,a.card-link:focus,a.card-link:visited {
+  color:#fff !important;
+}
+
+a.card-link:hover,a.card-link:active {
+  color:#000 !important;
+}
+
+.card-header {
+  padding: 1.2rem 2rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  background:#777;
+}
