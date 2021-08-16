@@ -71,9 +71,7 @@
       post.closing_date | date_to_xmlschema }}{%- endcapture -%} {%- if
       closeXML < nowXML -%} <div class="col-xs-12 col-md-6">
         <div class="panel panel-default position-relative">
-          <header class="card-header">
-            <a class="h3 card-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </header>
+            <h3 class="card-header"><a class="card-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
           <div class="panel-body">
             <p>
               {%- assign closeDate = post.closing_date | date: "%e %B %Y
