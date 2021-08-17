@@ -67,29 +67,29 @@ __Une note de passage est requise pour chaque critère d’évaluation afin que 
 
 ### Exemple de critères d'évaluation
 
-Confirmez que vous possédez les compétences nécessaires pour effectuer ce travail.
-Veuillez fournir une courte déclaration écrite (250 mots ou moins, une demi-page) démontrant que vous possédez les compétences requises relativement à Python ou une langue similaire.
-Précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait.
+- Confirmez que vous possédez les compétences nécessaires pour effectuer ce travail.
+- Veuillez fournir une courte déclaration écrite (250 mots ou moins, une demi-page) démontrant que vous possédez les compétences requises relativement à Python ou une langage similaire.
+- Précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait.<br>
 Exemples : expérience de travail antérieure, travaux scolaires, projets Civic Tech, etc.
 
 ### Exemples de réponses qui obtiendraient la note de passage
 
 > J'ai fait un projet pour mon cours de concepts de données en 2019 où je devais utiliser Python et les carnets Jupyter pour nettoyer un ensemble de données avec plus de 25000 lignes de données.
-J'ai utilisé Pandas et des dataframes pour supprimer les colonnes inutiles, j'ai utilisé Numpy pour modifier l'index et j'ai combiné les méthodes str de Pandas avec la fonction np.where de NumPy pour obtenir l'équivalent d'une instruction " if ".
+J'ai utilisé Pandas et des `DataFrames` pour supprimer les colonnes inutiles, j'ai utilisé Numpy pour modifier l'index et j'ai combiné les méthodes `str` de Pandas avec la fonction `np.where` de NumPy pour obtenir l'équivalent d'une instruction `if`.
 Cela m'a permis de trouver et de corriger des données qui étaient les mêmes, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario").
 
 Ou
 
-> Bien que je n'aie pas utilisé Python et Jupyter notebooks, j'ai effectué des nettoyages de données similaires à l'aide de R.
+> Bien que je n'aie pas utilisé Python et les carnets Jupyter, j'ai effectué des nettoyages de données similaires à l'aide de R.
 En 2020, j'ai travaillé sur un court contrat pour une association locale à but non lucratif où je devais nettoyer un ensemble de données sur les membres.
-J'ai supprimé les entrées en double avec duplicate (), j'ai utilisé la fonction gsub() pour faire correspondre et remplacer les données qui étaient identiques, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans.
+J'ai supprimé les entrées en double avec `duplicate()`, j'ai utilisé la fonction `gsub()` pour faire correspondre et remplacer les données qui étaient les mêmes, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans.
 Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
 Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure de prendre Python et de réaliser ce contrat.
 
-<div class="well">Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord avec :
-
-<ul><li>de terminer les travaux avant la date de livraison de travail et pour le prix fixe indiqués dans l’énoncé d’opportunité;</li>
-<li>d’être payés par carte de crédit (Visa) ou PayPal</li></ul>
+<div class="well">
+<p>Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord :</p>
+<ul><li>de terminer les travaux avant la date de livraison et pour le prix fixe indiqués dans l’énoncé d’opportunité;</li>
+<li>d’être payé par carte de crédit (Visa) ou PayPal</li></ul>
 
 </div>
 

@@ -67,22 +67,22 @@ __A pass is required for each evaluation criteria in order for you to 
 
 ### Example evaluation criteria
 
-Confirm that you have the skills to complete this work.
-Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language.
-Describe when you gained these skills, what you did and how you did it.
+- Confirm that you have the skills to complete this work.
+- Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language.
+- Describe when you gained these skills, what you did and how you did it.<br>
 Examples could include: previous work experience, school work, Civic Tech projects etc.
 
 ### Example answers that would get a passing mark
 
 > I did a project for my Data Concepts class in 2019 where I had to use Python and Jupyter notebooks to clean a dataset with over 25000 rows of data.
-I used Pandas and dataframes to drop unnecessary columns, I used Numpy to change the index and I combined Pandas str methods with NumPy’s np.where function to get the equivalent of an ‘if’ statement.
+I used Pandas and `DataFrames` to drop unnecessary columns, I used Numpy to change the index and I combined Pandas `str` methods with NumPy’s `np.where` function to get the equivalent of an `if` statement.
 This allowed me to find and fix data that was the same but not exactly the same (e.g. in the province field were some entries had “ON”, some had “on” and some had “Ontario”.
 
 Or
 
 > While I haven't used Python and Jupyter notebooks, I have done similar data cleaning using R.
 In 2020 I worked on a short contract for a local non-profit where I had to clean a data set of member information.
-I removed duplicate entries with duplicate (), I used the gsub() function to match and replace data that was the same but not exactly the same (e.g. in the province field some entries had "ON", some had "on" and some had "Ontario", I looked for invalid values by reviewing the data of birth and ensuring no member was under 10yo or over 100 yo.
+I removed duplicate entries with `duplicate()`, I used the `gsub()` function to match and replace data that was the same but not exactly the same (e.g. in the province field some entries had "ON", some had "on" and some had "Ontario", I looked for invalid values by reviewing the data of birth and ensuring no member was under 10yo or over 100 yo.
 Lastly I used RMarkdown to clearly document all my changes.
 Given my experience in R, I'm confident I would be able to pick up Python and complete this contract.
 
