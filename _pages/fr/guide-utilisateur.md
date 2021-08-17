@@ -7,7 +7,7 @@ permalink: /fr/guide-utilisateur.html
 
 # Guide d'utilisateur
 
-Le présent guide fournit de l’information aux personnes intéressées à présenter une offre de service pour une opportunité de micro-acquistion de code source.
+Le présent guide fournit de l’information aux personnes intéressées à présenter une offre de service pour une opportunité de micro-acquisition de code source.
 Sur cette page, il est possible d'obtenir des renseignements sur l’admissibilité, la façon de présenter une demande, la réception du paiement et les coordonnées.
 
 ## Êtes-vous admissible?
@@ -46,11 +46,11 @@ _Remarque : le simple fait d’avoir une carte de crédit ne signifie pas que v
 
 Si vous avez besoin de précisions sur les détails d’une opportunité ouverte avant de présenter votre demande, veuillez envoyer vos questions par courriel à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Si vous avez une question au sujet d’une opportunité ouverte, envoyez-nous la dès que possible.
+Si vous avez une question au sujet d’une opportunité ouverte, envoyez-nous-la dès que possible.
 Les réponses à ces questions sont affichées sur le site Web pour tous.
 Les questions peuvent être soumises jusqu’à deux jours ouvrables avant la clôture d’une opportunité.
 
-Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par e-mail à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par courriel à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le [Bureau des petites et moyennes entreprises](https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux).
 Ils ont un réseau de bureaux partout au Canada.
@@ -59,7 +59,7 @@ Ils ont un réseau de bureaux partout au Canada.
 
 Pour présenter une demande pour une opportunité:
 
-1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB, ouvre une nouvelle fenêtre)</a>
+1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kb, ouvre une nouvelle fenêtre)</a>
 2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 Votre candidature sera évaluée sur la base de critères qui sont notés comme une réussite ou un échec (il n'y a pas de notation).
@@ -76,13 +76,13 @@ Précisez quand vous avez acquis ces compétences, ce que vous avez fait et comm
 
 > J'ai fait un projet pour mon cours de concepts de données en 2019 où je devais utiliser Python et les carnets Jupyter pour nettoyer un ensemble de données avec plus de 25000 lignes de données.
 J'ai utilisé Pandas et des dataframes pour supprimer les colonnes inutiles, j'ai utilisé Numpy pour modifier l'index et j'ai combiné les méthodes str de Pandas avec la fonction np.where de NumPy pour obtenir l'équivalent d'une instruction " if ".
-Cela m'a permis de trouver et de corriger des données qui étaient les mêmes mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario").
+Cela m'a permis de trouver et de corriger des données qui étaient les mêmes, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario").
 
 Ou
 
 > Bien que je n'aie pas utilisé Python et Jupyter notebooks, j'ai effectué des nettoyages de données similaires à l'aide de R.
 En 2020, j'ai travaillé sur un court contrat pour une association locale à but non lucratif où je devais nettoyer un ensemble de données sur les membres.
-J'ai supprimé les entrées en double avec duplicate (), j'ai utilisé la fonction gsub() pour faire correspondre et remplacer les données qui étaient identiques mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans. Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
+J'ai supprimé les entrées en double avec duplicate (), j'ai utilisé la fonction gsub() pour faire correspondre et remplacer les données qui étaient identiques, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans. Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
 Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure de prendre Python et de réaliser ce contrat.
 
 <div class="well">Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord avec :
@@ -112,5 +112,5 @@ Dans cette optique, nous vous recommandons de livrer votre travail avant la date
 
 Si les travaux _satisfont_ aux critères d’acceptation de travail de l’énoncé d’occasion de marché, vous envoyez une facture au prix convenu de l’opportunité, plus les taxes applicables, à [NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca](mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca).
 
-Vous pouvez utiliser votre propre modèle de facture si vous en avez un ou utiliser ce [modèle de facture (ODT 10.1 kB)](../../assets/modele-de-facture.odt).
+Vous pouvez utiliser votre propre modèle de facture si vous en avez un ou utiliser ce [modèle de facture (ODT 10.1 kb)](../../assets/modele-de-facture.odt).
 Il comprend tous les champs requis pour le paiement.
