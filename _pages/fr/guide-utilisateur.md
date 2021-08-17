@@ -26,7 +26,6 @@ OU
 
 <!--markdownlint-disable MD026-->
 ## Pour faire le travail et être payé, vous devez avoir :
-
 <!--markdownlint-enable MD026-->
 
 1. __Un compte dans un registre public de code source.__
@@ -70,7 +69,8 @@ __Une note de passage est requise pour chaque critère d’évaluation afin que 
 
 Confirmez que vous possédez les compétences nécessaires pour effectuer ce travail.
 Veuillez fournir une courte déclaration écrite (250 mots ou moins, une demi-page) démontrant que vous possédez les compétences requises relativement à Python ou une langue similaire.
-Précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait. Exemples : expérience de travail antérieure, travaux scolaires, projets Civic Tech, etc.
+Précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait.
+Exemples : expérience de travail antérieure, travaux scolaires, projets Civic Tech, etc.
 
 ### Exemples de réponses qui obtiendraient la note de passage
 
@@ -82,7 +82,8 @@ Ou
 
 > Bien que je n'aie pas utilisé Python et Jupyter notebooks, j'ai effectué des nettoyages de données similaires à l'aide de R.
 En 2020, j'ai travaillé sur un court contrat pour une association locale à but non lucratif où je devais nettoyer un ensemble de données sur les membres.
-J'ai supprimé les entrées en double avec duplicate (), j'ai utilisé la fonction gsub() pour faire correspondre et remplacer les données qui étaient identiques, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans. Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
+J'ai supprimé les entrées en double avec duplicate (), j'ai utilisé la fonction gsub() pour faire correspondre et remplacer les données qui étaient identiques, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans.
+Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
 Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure de prendre Python et de réaliser ce contrat.
 
 <div class="well">Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord avec :
@@ -103,8 +104,9 @@ __Si vous n’êtes pas sélectionné, vous pouvez nous écrire à [microacquis
 
 ## Travail et paiement
 
-Si vous êtes sélectionné, on vous demandera de signer un _document de modalités_ avant le début des travaux. Il s’agit du <a href="{{ site.baseurl }}{% link _pages/fr/termes.md %}" title="modèle de modalités">modèle de modalités</a> qui sera utilisé pour toutes les opportunités de microacquisition. Une fois ce document signé, vous êtes mis en contact avec le client.
-
+Si vous êtes sélectionné, on vous demandera de signer un _document de modalités_ avant le début des travaux.
+Il s’agit du <a href="{{ site.baseurl }}{% link _pages/fr/termes.md %}" title="modèle de modalités">modèle de modalités</a> qui sera utilisé pour toutes les opportunités de microacquisition.
+Une fois ce document signé, vous êtes mis en contact avec le client.
 Une fois les travaux terminés, ils sont évalués en fonction des critères d’acceptation des travaux.
 
 Si le travail _ne satisfait pas_ aux critères d’acceptation de travail de l’énoncé d’opportunité, vous aurez la possibilité de réviser votre travail.

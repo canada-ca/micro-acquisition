@@ -4,6 +4,7 @@ ref: user
 lang: en
 permalink: /en/user-guide.html
 ---
+
 # User guide
 
 This guide provides information for those interested in applying for micro-acquisition coding opportunities.
@@ -45,7 +46,8 @@ _Note: simply having a credit card does not mean you are able to accept payment 
 If you need clarification on the details of an open opportunity before applying, please email your question(s) to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 If you have a question about an open opportunity, please send it to us as fast as possible.
-Answers to these questions are posted on the website for everyone. Questions may be submitted up until two business days before an opportunity closes.
+Answers to these questions are posted on the website for everyone.
+Questions may be submitted up until two business days before an opportunity closes.
 
 If you have questions about the micro-acquisiiton pilot in general, you can also send these questions by email to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
@@ -67,7 +69,8 @@ __A pass is required for each evaluation criteria in order for you to 
 
 Confirm that you have the skills to complete this work.
 Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language.
-Describe when you gained these skills, what you did and how you did it. Examples could include: previous work experience, school work, Civic Tech projects etc.
+Describe when you gained these skills, what you did and how you did it.
+Examples could include: previous work experience, school work, Civic Tech projects etc.
 
 ### Example answers that would get a passing mark
 
