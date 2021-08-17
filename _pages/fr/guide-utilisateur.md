@@ -84,7 +84,7 @@ Ou
 En 2020, j'ai travaillé sur un court contrat pour une association locale à but non lucratif où je devais nettoyer un ensemble de données sur les membres.
 J'ai supprimé les entrées en double avec `duplicate()`, j'ai utilisé la fonction `gsub()` pour faire correspondre et remplacer les données qui étaient les mêmes, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans.
 Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
-Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure de prendre Python et de réaliser ce contrat.
+Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure d'apprendre Python rapidement et de réaliser ce contrat.
 
 <div class="well">
 <p>Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord :</p>
