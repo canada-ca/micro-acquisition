@@ -87,7 +87,7 @@ Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure d
 
 <div class="well">Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord avec :
 
-<ul><li>de terminer les travaux avant la date de livraison de travail indiquée dans l’énoncé d’opportunité;</li>
+<ul><li>de terminer les travaux avant la date de livraison de travail et pour le prix fixe indiqués dans l’énoncé d’opportunité;</li>
 <li>d’être payés par carte de crédit (Visa) ou PayPal</li></ul>
 
 </div>

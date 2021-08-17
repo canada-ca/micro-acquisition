@@ -63,7 +63,7 @@ Your application will be evaluated based on criteria that are marked as a pass
 
 __A pass is required for each evaluation criteria in order for you to be considered for an opportunity.__
 
-### Example evaluation question
+### Example evaluation criteria
 
 Confirm that you have the skills to complete this work.
 Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language.
@@ -85,7 +85,7 @@ Given my experience in R, I'm confident I would be able to pick up Python and co
 
 <div class="well">
 <p>When applying to an opportunity, you will be asked to confirm that you agree to:</p>
-<ul><li>complete the work by the completion date in the opportunity statement; and</li>
+<ul><li>complete the work by the delivery date and for the fixed price in the opportunity statement; and</li>
 <li>be paid by credit card (Visa) or PayPal </li></ul>
 
 </div>
