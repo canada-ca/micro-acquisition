@@ -62,7 +62,7 @@ Pour présenter une demande pour une opportunité:
 1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB, ouvre une nouvelle fenêtre)</a>
 2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Les critères d’évaluation de la demande portent la mention « réussite/échec » (il n’y a pas de cote).
+Votre candidature sera évaluée sur la base de critères qui sont notés comme une réussite ou un échec (il n'y a pas de notation).
 
 __Une note de passage est requise pour chaque critère d’évaluation afin que votre demande soit retenue pour une opportunité.__
 
