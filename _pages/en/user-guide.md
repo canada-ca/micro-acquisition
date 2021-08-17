@@ -82,7 +82,7 @@ Lastly I used RMarkdown to clearly document all my changes.
 Given my experience in R, I'm confident I would be able to pick up Python and complete this contract.
 
 <div class="well">
-<p>By applying to an opportunity, you agree to:</p>
+<p>When applying to an opportunity, you will be asked to confirm that you agree to:</p>
 <ul><li>complete the work by the completion date in the opportunity statement; and</li>
 <li>be paid by credit card (Visa) or PayPal </li></ul>
 
