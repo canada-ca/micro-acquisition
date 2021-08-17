@@ -60,7 +60,7 @@ footer:
     fr: Signaler un problème sur cette page (site en anglais seulement)
   sourceCode:
     en: View source code of this page
-    fr: Voir le code source de cette page
+    fr: Voir le code source de cette page<br>(site en anglais seulement)
   Nav:
     Canada:
       en:
@@ -200,13 +200,13 @@ apply:
 alert:
   alert1:
     en: This website is part of a pilot. If you want to share your feedback, please open an 
-    fr: Ce site fait partie d'un pilote. Si vous souhaitez partager vos commentaires, poser une 
+    fr: Ce site fait partie d'un pilote. Si vous souhaitez partager vos commentaires, veuiller créer une «&nbsp;
   issue:
     en: issue
-    fr: question
+    fr: issue&nbsp;
   alert2:
     en: or fill in a
-    fr: ou remplir un
+    fr: » (site en anglais seulement) ou remplir un
   GCForm:
       en:
         link: https://forms-formulaires.alpha.canada.ca/id/35
