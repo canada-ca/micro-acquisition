@@ -67,9 +67,8 @@ __Une note de passage est requise pour chaque critère d’évaluation afin que 
 
 ### Exemple de critères d'évaluation
 
-- Confirmez que vous possédez les compétences nécessaires pour effectuer ce travail.
-- Veuillez fournir une courte déclaration écrite (250 mots ou moins, une demi-page) démontrant que vous possédez les compétences requises relativement à Python ou une langage similaire.
-- Précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait.<br>
+Veuillez fournir une courte déclaration écrite (250 mots ou moins, une demi-page) démontrant que vous possédez les compétences requises relativement à Python ou une langage similaire.
+Dans votre déclaration écrite, précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait.
 Exemples : expérience de travail antérieure, travaux scolaires, projets Civic Tech, etc.
 
 ### Exemples de réponses qui obtiendraient la note de passage
