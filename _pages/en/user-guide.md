@@ -67,7 +67,7 @@ __A pass is required for each evaluation criteria in order for you to 
 
 ### Example evaluation criteria
 
-Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language
+Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language.
 In your written statement, describe when you gained these skills, what you did and how you did it.
 Examples could include: previous work experience, school work, Civic Tech projects etc.
 
