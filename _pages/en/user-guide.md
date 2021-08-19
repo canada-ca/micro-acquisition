@@ -4,6 +4,7 @@ ref: user
 lang: en
 permalink: /en/user-guide.html
 ---
+
 # User guide
 
 This guide provides information for those interested in applying for micro-acquisition coding opportunities.
@@ -45,9 +46,10 @@ _Note: simply having a credit card does not mean you are able to accept payment 
 If you need clarification on the details of an open opportunity before applying, please email your question(s) to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 If you have a question about an open opportunity, please send it to us as fast as possible.
-Answers to these questions are posted on the website for everyone. Questions may be submitted up until two business days before an opportunity closes.
+Answers to these questions are posted on the website for everyone.
+Questions may be submitted up until two business days before an opportunity closes.
 
-If you have questions about the micro-acquisiiton pilot in general, you can also send these questions by email to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+If you have questions about the micro-acquisition pilot in general, you can also send these questions by email to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 If you are new to doing business with the Government of Canada and you need help understanding the federal procurement process, or if you are interested in learning how to find opportunities to bid on, you can contact the [Office of Small and Medium Enterprises](https://buyandsell.gc.ca/for-businesses/contacts-for-businesses/office-of-small-and-medium-enterprises-osme-regional-offices).
 They have a network of offices across Canada.
@@ -59,15 +61,33 @@ To apply to an opportunity:
 1. open and fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form (PDF 61 kB, opens a new window)</a>
 2. send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Application evaluation criteria are marked as a pass/fail (there is no scoring).
+Your application will be evaluated based on criteria that are marked as a pass or fail (there is no scoring).
 
 __A pass is required for each evaluation criteria in order for you to be considered for an opportunity.__
 
-We encourage you to apply to other opportunities that may interest you.
+### Example evaluation criteria
+
+Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Python or a similar language.
+In your written statement, describe when you gained these skills, what you did and how you did it.
+Examples could include: previous work experience, school work, Civic Tech projects etc.
+
+### Example answers that would get a passing mark
+
+> I did a project for my Data Concepts class in 2019 where I had to use Python and Jupyter notebooks to clean a dataset with over 25000 rows of data.
+I used Pandas and `DataFrames` to drop unnecessary columns, I used Numpy to change the index and I combined Pandas `str` methods with NumPy’s `np.where` function to get the equivalent of an `if` statement.
+This allowed me to find and fix data that was the same but not exactly the same (e.g., in the province field were some entries had “ON”, some had “on” and some had “Ontario”.
+
+Or
+
+> While I haven't used Python and Jupyter notebooks, I have done similar data cleaning using R.
+In 2020 I worked on a short contract for a local non-profit where I had to clean a data set of member information.
+I removed duplicate entries with `duplicate()`, I used the `gsub()` function to match and replace data that was the same but not exactly the same (e.g., in the province field some entries had "ON", some had "on" and some had "Ontario", I looked for invalid values by reviewing the data of birth and ensuring no member was under 10 yo or over 100 yo.
+Lastly, I used RMarkdown to clearly document all my changes.
+Given my experience in R, I'm confident I would be able to quickly learn Python and complete this contract.
 
 <div class="well">
-<p>By applying to an opportunity, you agree to:</p>
-<ul><li>complete the work by the completion date in the opportunity statement; and</li>
+<p>When applying to an opportunity, you will be asked to confirm that you agree to:</p>
+<ul><li>complete the work by the delivery date and for the fixed price in the opportunity statement; and</li>
 <li>be paid by credit card (Visa) or PayPal </li></ul>
 
 </div>

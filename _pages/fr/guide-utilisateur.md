@@ -7,7 +7,7 @@ permalink: /fr/guide-utilisateur.html
 
 # Guide d'utilisateur
 
-Le présent guide fournit de l’information aux personnes intéressées à présenter une offre de service pour une opportunité de micro-acquistion de code source.
+Le présent guide fournit de l’information aux personnes intéressées à présenter une offre de service pour une opportunité de micro-acquisition de code source.
 Sur cette page, il est possible d'obtenir des renseignements sur l’admissibilité, la façon de présenter une demande, la réception du paiement et les coordonnées.
 
 ## Êtes-vous admissible?
@@ -26,7 +26,6 @@ OU
 
 <!--markdownlint-disable MD026-->
 ## Pour faire le travail et être payé, vous devez avoir :
-
 <!--markdownlint-enable MD026-->
 
 1. __Un compte dans un registre public de code source.__
@@ -46,11 +45,11 @@ _Remarque : le simple fait d’avoir une carte de crédit ne signifie pas que v
 
 Si vous avez besoin de précisions sur les détails d’une opportunité ouverte avant de présenter votre demande, veuillez envoyer vos questions par courriel à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Si vous avez une question au sujet d’une opportunité ouverte, envoyez-nous la dès que possible.
+Si vous avez une question au sujet d’une opportunité ouverte, envoyez-nous-la dès que possible.
 Les réponses à ces questions sont affichées sur le site Web pour tous.
 Les questions peuvent être soumises jusqu’à deux jours ouvrables avant la clôture d’une opportunité.
 
-Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par e-mail à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+Si vous avez des questions sur le pilote de micro-acquisition en général, vous pouvez également envoyer ces questions par courriel à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 Si vous êtes nouveau dans les affaires avec le gouvernement du Canada et vous avez besoin d'aide pour comprendre le processus d'approvisionnement fédéral, ou si vous souhaitez apprendre comment trouver des occasions d'affaires, communiquez avec le [Bureau des petites et moyennes entreprises](https://achatsetventes.gc.ca/pour-les-entreprises/contacts-pour-les-entreprises/bureau-des-petites-et-moyennes-entreprises-bureaux-regionaux).
 Ils ont un réseau de bureaux partout au Canada.
@@ -59,19 +58,37 @@ Ils ont un réseau de bureaux partout au Canada.
 
 Pour présenter une demande pour une opportunité:
 
-1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kB, ouvre une nouvelle fenêtre)</a>
+1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kb, ouvre une nouvelle fenêtre)</a>
 2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
-Les critères d’évaluation de la demande portent la mention « réussite/échec » (il n’y a pas de cote).
+Votre candidature sera évaluée sur la base de critères qui sont notés comme une réussite ou un échec (il n'y a pas de notation).
 
 __Une note de passage est requise pour chaque critère d’évaluation afin que votre demande soit retenue pour une opportunité.__
 
-Nous vous encourageons à présenter des demandes pour d’autres opportunités qui pourraient vous intéresser.
+### Exemple de critères d'évaluation
 
-<div class="well">En présentant une demande pour une opportunité, vous acceptez :
+Veuillez fournir une courte déclaration écrite (250 mots ou moins, une demi-page) démontrant que vous possédez les compétences requises relativement à Python ou une langage similaire.
+Dans votre déclaration écrite, précisez quand vous avez acquis ces compétences, ce que vous avez fait et comment vous l’avez fait.
+Exemples : expérience de travail antérieure, travaux scolaires, projets Civic Tech, etc.
 
-<ul><li>de terminer les travaux avant la date de livraison de travail indiquée dans l’énoncé d’opportunité;</li>
-<li>d’être payés par carte de crédit (Visa) ou PayPal</li></ul>
+### Exemples de réponses qui obtiendraient la note de passage
+
+> J'ai fait un projet pour mon cours de concepts de données en 2019 où je devais utiliser Python et les carnets Jupyter pour nettoyer un ensemble de données avec plus de 25000 lignes de données.
+J'ai utilisé Pandas et des `DataFrames` pour supprimer les colonnes inutiles, j'ai utilisé Numpy pour modifier l'index et j'ai combiné les méthodes `str` de Pandas avec la fonction `np.where` de NumPy pour obtenir l'équivalent d'une instruction `if`.
+Cela m'a permis de trouver et de corriger des données qui étaient les mêmes, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario").
+
+Ou
+
+> Bien que je n'aie pas utilisé Python et les carnets Jupyter, j'ai effectué des nettoyages de données similaires à l'aide de R.
+En 2020, j'ai travaillé sur un court contrat pour une association locale à but non lucratif où je devais nettoyer un ensemble de données sur les membres.
+J'ai supprimé les entrées en double avec `duplicate()`, j'ai utilisé la fonction `gsub()` pour faire correspondre et remplacer les données qui étaient les mêmes, mais pas exactement les mêmes (par exemple, dans le champ de la province, certaines entrées avaient "ON", d'autres "on" et d'autres encore "Ontario"), j'ai recherché les valeurs invalides en examinant les données de naissance et en m'assurant qu'aucun membre n'avait moins de 10 ans ou plus de 100 ans.
+Enfin, j'ai utilisé RMarkdown pour documenter clairement toutes mes modifications.
+Compte tenu de mon expérience en R, je suis convaincu que je serais en mesure d'apprendre Python rapidement et de réaliser ce contrat.
+
+<div class="well">
+<p>Lorsque vous postulez à une opportunité, il vous sera demandé de confirmer que vous êtes d'accord :</p>
+<ul><li>de terminer les travaux avant la date de livraison et pour le prix fixe indiqués dans l’énoncé d’opportunité;</li>
+<li>d’être payé par carte de crédit (Visa) ou PayPal</li></ul>
 
 </div>
 
@@ -86,8 +103,9 @@ __Si vous n’êtes pas sélectionné, vous pouvez nous écrire à [microacquis
 
 ## Travail et paiement
 
-Si vous êtes sélectionné, on vous demandera de signer un _document de modalités_ avant le début des travaux. Il s’agit du <a href="{{ site.baseurl }}{% link _pages/fr/termes.md %}" title="modèle de modalités">modèle de modalités</a> qui sera utilisé pour toutes les opportunités de microacquisition. Une fois ce document signé, vous êtes mis en contact avec le client.
-
+Si vous êtes sélectionné, on vous demandera de signer un _document de modalités_ avant le début des travaux.
+Il s’agit du <a href="{{ site.baseurl }}{% link _pages/fr/termes.md %}" title="modèle de modalités">modèle de modalités</a> qui sera utilisé pour toutes les opportunités de microacquisition.
+Une fois ce document signé, vous êtes mis en contact avec le client.
 Une fois les travaux terminés, ils sont évalués en fonction des critères d’acceptation des travaux.
 
 Si le travail _ne satisfait pas_ aux critères d’acceptation de travail de l’énoncé d’opportunité, vous aurez la possibilité de réviser votre travail.
@@ -95,5 +113,5 @@ Dans cette optique, nous vous recommandons de livrer votre travail avant la date
 
 Si les travaux _satisfont_ aux critères d’acceptation de travail de l’énoncé d’occasion de marché, vous envoyez une facture au prix convenu de l’opportunité, plus les taxes applicables, à [NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca](mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca).
 
-Vous pouvez utiliser votre propre modèle de facture si vous en avez un ou utiliser ce [modèle de facture (ODT 10.1 kB)](../../assets/modele-de-facture.odt).
+Vous pouvez utiliser votre propre modèle de facture si vous en avez un ou utiliser ce [modèle de facture (ODT 10.1 kb)](../../assets/modele-de-facture.odt).
 Il comprend tous les champs requis pour le paiement.
