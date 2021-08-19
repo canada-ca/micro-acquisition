@@ -3,7 +3,7 @@ layout: post
 title: Élaboration de politiques personnalisées pour Azure marketplace  
 ref: opportunity1
 lang: fr
-skills:  Azure Policies et Azure Runbooks (via Powershell)
+skills: Azure Policies et Azure Runbooks (via Powershell)
 value: 6 500$ (hors les taxes)
 closing_date: 2021-07-12T23:59:59-04:00
 start_date: 2021-07-16
