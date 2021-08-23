@@ -58,7 +58,7 @@ They have a network of offices across Canada.
 
 To apply to an opportunity:
 
-1. open and fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" title="application form" target="_blank"> application form (PDF 61 kB, opens a new window)</a>
+1. open and fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" target="_blank">application form (PDF 61 kB, opens a new window)</a>
 2. send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 Your application will be evaluated based on criteria that are marked as a pass or fail (there is no scoring).
@@ -104,7 +104,7 @@ __If you are not selected, you may contact us at [microacquisition@hrsdc-rhdcc.g
 ## Work and payment
 
 If you are selected, you will be asked to sign a _terms and conditions document_  before the work is started.
-This is the  <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}" title="Terms and Conditions">template terms and conditions</a>  document that will be used for all micro-acquisition opportunities.
+This is the <a href="{{ site.baseurl }}{% link _pages/en/terms.md %}">template terms and conditions</a> document that will be used for all micro-acquisition opportunities.
 Once this document is signed, you are put in contact with the client.
 Once the work is complete, it is assessed against the Work Acceptance Criteria.
 
