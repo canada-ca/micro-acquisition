@@ -15,7 +15,7 @@ On this page, applicants can find information on eligibility, how to apply, rece
 You are eligible for opportunities on this site if:
 
 - you have reached the age of majority and are contractually competent
-  
+
 AND
 
 - you are Canadian, First Nations, Métis, Inuit, or a permanent resident of Canada
@@ -113,5 +113,5 @@ With that in mind, we recommend that you deliver your work in advance of the dea
 
 If the work _does meet_ the Work Acceptance Criteria in the opportunity statement, you send an invoice for the fixed price of the opportunity, plus any applicable taxes to [NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca](mailto:NA-FPS-SFA-GD@hrsdc-rhdcc.gc.ca).
 
-You may use your own invoice template if you have one, or use this  [invoice template (ODT 25.8 kB)](../../assets/invoice_template.odt).
+You may use your own invoice template if you have one, or use this [invoice template (ODT 25.8 kB)](../../assets/invoice_template.odt).
 It includes all the fields required for payment.
