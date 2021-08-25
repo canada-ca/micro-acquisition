@@ -58,7 +58,7 @@ Ils ont un réseau de bureaux partout au Canada.
 
 Pour présenter une demande pour une opportunité:
 
-1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" title="application form" target="_blank"> formulaire de demande (PDF 66 kb, ouvre une nouvelle fenêtre)</a>
+1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" target="_blank"> formulaire de demande (PDF 66 kb, ouvre une nouvelle fenêtre)</a>
 2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
 
 Votre candidature sera évaluée sur la base de critères qui sont notés comme une réussite ou un échec (il n'y a pas de notation).
@@ -104,7 +104,7 @@ __Si vous n’êtes pas sélectionné, vous pouvez nous écrire à [microacquis
 ## Travail et paiement
 
 Si vous êtes sélectionné, on vous demandera de signer un _document de modalités_ avant le début des travaux.
-Il s’agit du <a href="{{ site.baseurl }}{% link _pages/fr/termes.md %}" title="modèle de modalités">modèle de modalités</a> qui sera utilisé pour toutes les opportunités de microacquisition.
+Il s’agit du <a href="{{ site.baseurl }}{% link _pages/fr/termes.md %}">modèle de modalités</a> qui sera utilisé pour toutes les opportunités de microacquisition.
 Une fois ce document signé, vous êtes mis en contact avec le client.
 Une fois les travaux terminés, ils sont évalués en fonction des critères d’acceptation des travaux.
 

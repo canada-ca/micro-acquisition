@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Élaboration de politiques personnalisées pour Azure marketplace  
+title: Élaboration de politiques personnalisées pour Azure marketplace
 ref: opportunity1
 lang: fr
-skills:  Azure Policies et Azure Runbooks (via Powershell)
+skills: Azure Policies et Azure Runbooks (via Powershell)
 value: 6 500$ (hors les taxes)
 closing_date: 2021-07-12T23:59:59-04:00
 start_date: 2021-07-16
@@ -20,7 +20,7 @@ short_desc: "Élaborer des scripts pour établir automatiquement des politiques 
 
 ### Contexte
 
-L’équipe administrative des Opérations infonuagiques d’EDSC demande le travail lié à cette possibilité.  
+L’équipe administrative des Opérations infonuagiques d’EDSC demande le travail lié à cette possibilité.
 
 Les technologies infonuagiques facilitent la transformation au sein du gouvernement et améliorent la prestation des services aux Canadiens.
 Dans le cadre du déploiement de infonuagiques à EDSC, un certain nombre d’instances Azure sont utilisées à EDSC.
@@ -55,7 +55,7 @@ Bien que des politiques intégrées existent dans Azure, aucune politique n’em
 Pour répondre à cette opportunité, vous devez fournir :
 
 1. un script (ou des scripts) écrit dans PowerShell qui permet :
-   - de créer un fichier JSON pour mettre en œuvre une politique personnalisée Azure laquelle empêchera tous les clients d’Azure d’EDSC d’installer n’importe quelle offre de tierce partie du marché (y compris le marché privé) dont le prix commence à > 0,00 $/h.  
+   - de créer un fichier JSON pour mettre en œuvre une politique personnalisée Azure laquelle empêchera tous les clients d’Azure d’EDSC d’installer n’importe quelle offre de tierce partie du marché (y compris le marché privé) dont le prix commence à > 0,00 $/h.
    - d’activer un filtre pour déterminer les offres autorisées ou refusées par l’éditeur, l’offre et le plan. Le filtre devrait permettre des caractères génériques.
    - S’assurer que seuls les clients qui obtiennent l’autorisation financière d’utiliser une offre approuvée (sur le marché privé) peuvent installer cette offre.
    - Empêcher un client ayant un abonnement qui n’a pas l’autorisation financière d’utiliser une offre de tierce partie approuvée d’installer une telle offre. Si le client tente d’installer l’offre, il devrait recevoir le message suivant en anglais ou en français selon la langue de son interface utilisateur.
@@ -74,7 +74,7 @@ Votre demande sera évaluée en fonction des critères suivants :
 Vous devrez également confirmer que vous répondez aux critères d’admissibilité suivants :
 
 - vous avez atteint l’âge de la majorité et avez la capacité de contracter
-  
+
 ET
 
 - vous êtes canadien, membre des Premières Nations, Métis, Inuit ou un résident permanent du Canada
