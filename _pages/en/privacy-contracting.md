@@ -7,7 +7,7 @@ permalink: /en/privacy-contracting.html
 
 # Privacy Notice Statement for the Micro-Acquisition contracting process
 
-The information you provide is collected under the authority of the [Financial Administration Act (FAA)](https://laws-lois.justice.gc.ca/eng/acts/f-11/) to assess your skills as part of the application screening process as well as to initiate payment to suppliers who are chosen to work on Micro-Acquisition opportunities.  
+The information you provide is collected under the authority of the [Financial Administration Act (FAA)](https://laws-lois.justice.gc.ca/eng/acts/f-11/) to assess your skills as part of the application screening process as well as to initiate payment to suppliers who are chosen to work on Micro-Acquisition opportunities.
 
 Participation in Micro-acquisition pilot (including applying to opportunities, completing and submitting work for micro-acquisition opportunities, and accepting payment) is voluntary. Refusal to provide personal information required as part of the application evaluation purposes will result in you being screened out of opportunities.
 
@@ -15,7 +15,7 @@ Note: The Micro-Acquisition pilot at Employment and Social Development Canada (E
 Learn more about [GC Forms privacy policy](https://digital.canada.ca/legal/privacy/).
 
 The information you provide may be used and/or disclosed for policy analysis, research and/or evaluation purposes.
-However, these additional uses and/or disclosures of your personal information will never result in an administrative decision being made about you.  
+However, these additional uses and/or disclosures of your personal information will never result in an administrative decision being made about you.
 
 The name of the winning supplier for each micro-acquisition opportunity may be published as part of procurement process.
 
