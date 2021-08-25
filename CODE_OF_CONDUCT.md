@@ -58,7 +58,7 @@ available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.h
 
 [homepage]: https://www.contributor-covenant.org
 
-This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https://github.com/alphagov/code-of-conduct)
+This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https://github.com/alphagov/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 <!--markdownlint-disable MD025-->
@@ -119,4 +119,4 @@ disponible à l'adresse [https://www.contributor-covenant.org/version/1/4/code-o
 
 [page d'accueil]: https://www.contributor-covenant.org
 
-Le présent Code de conduite s'inspire également du " Code de conduite " du [alphaGov](https://github.com/alphagov/code-of-conduct) de GDS.
+Le présent Code de conduite s'inspire également du " Code de conduite " du [alphaGov](https://github.com/alphagov/.github/blob/main/CODE_OF_CONDUCT.md) (en anglais seulement) de GDS.

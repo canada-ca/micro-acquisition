@@ -30,7 +30,7 @@ OR
 
 1. __An account on a public source code repository.__
   You can work on a repository of your choice.
-  Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitHub](https://github.com/) (English only), [Bitbucket](https://bitbucket.org/) (English only).
+  Some repository options include [GitLab](https://gitlab.com/) (bilingual), [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/).
 2. __Familiarity with Git version control system.__
   If you have not used Git before or need a refresher, this [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet) includes all the basic commands.
 3. __The ability to accept payment from a credit card using a payment system or via PayPal.__
