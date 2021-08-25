@@ -57,10 +57,13 @@ footer:
     fr: À propos du site
   reportProblem:
     en: Report a problem on this page
-    fr: Signaler un problème sur cette page<br>(interface en anglais seulement)
+    fr: Signaler un problème sur cette page
+  problemLink:
+    en: https://forms-formulaires.alpha.canada.ca/id/35
+    fr: https://forms-formulaires.alpha.canada.ca/fr/id/35
   sourceCode:
     en: View source code of this page
-    fr: Voir le code source de cette page<br>(interface en anglais seulement)
+    fr: Voir le code source de cette page (interface en anglais seulement)
   Nav:
     Canada:
       en:
