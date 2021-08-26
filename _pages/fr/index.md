@@ -18,7 +18,7 @@ permalink: /fr/index.html
                 <p>Ces occasions de travail sont de faible valeur (10 k$ ou moins) et nécessitent l’utilisation de <a href="https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html">renseignements non classifiés et non protégés</a> seulement (donc vous n'avez pas besoin d'autorisation de sécurité).</p>
                 <p>Contribuez à accroître le travail ouvert et la réutilisation des codes au gouvernement du Canada!</p>
                 <p>
-                    <a href="{{ site.baseurl }}{% link _pages/fr/opportunites.md %}" title="Opportunities" class="btn btn-primary btn-lrg">Consulter les opportunités &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
+                    <a href="{{ site.baseurl }}{% link _pages/fr/opportunites.md %}" class="btn btn-primary btn-lrg">Consulter les opportunités&nbsp;&nbsp;<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
                 </p>
             </div>
             <div class="col-md-4 col-lrg-4">
@@ -49,7 +49,7 @@ permalink: /fr/index.html
             <strong>Paiement plus rapide. </strong> Transmettez votre code et recevez votre paiement par carte de crédit ou PayPal.
         </li>
     </ul>
-    <p class="mrgn-tp-xl">Apprenez en d'avantage sur le processus dans le <a href="{{ site.baseurl }}{% link _pages/fr/guide-utilisateur.md %}" title="Guide de l'utilisateur">Guide de l'utilisateur</a> et la <a href="{{ site.baseurl }}{% link _pages/fr/faq.md %}" title="Foire aux questions">Foire aux questions</a>.</p>
+    <p class="mrgn-tp-xl">Apprenez en d'avantage sur le processus dans le <a href="{{ site.baseurl }}{% link _pages/fr/guide-utilisateur.md %}">Guide de l'utilisateur</a> et la <a href="{{ site.baseurl }}{% link _pages/fr/faq.md %}">Foire aux questions</a>.</p>
     <h2>Au sujet du présent projet pilote</h2>
     <p>Ce projet pilote de micro-acquisition est mis en œuvre pendant un an à  <a href="https://www.canada.ca/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a> grâce à un partenariat entre la Direction générale de l’innovation et de la technologie de l’information et la Direction générale du dirigeant principal des finances.</p>
     <p>Ce projet pilote n’aurait pas été possible sans l’aide de <a href="https://bcdevexchange.org/">BC Developers Exchange</a>/<a href="https://digital.gov.bc.ca/marketplace">BC Digital Marketplace</a> (en anglais seulement) qui ont ouvert la voie pendant des années, et a généreusement partagé son expertise.</p>

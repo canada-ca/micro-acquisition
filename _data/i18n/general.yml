@@ -57,10 +57,13 @@ footer:
     fr: À propos du site
   reportProblem:
     en: Report a problem on this page
-    fr: Signaler un problème sur cette page (site en anglais seulement)
+    fr: Signaler un problème sur cette page
+  problemLink:
+    en: https://forms-formulaires.alpha.canada.ca/id/35
+    fr: https://forms-formulaires.alpha.canada.ca/fr/id/35
   sourceCode:
     en: View source code of this page
-    fr: Voir le code source de cette page
+    fr: Voir le code source de cette page (interface en anglais seulement)
   Nav:
     Canada:
       en:
@@ -163,10 +166,10 @@ opportunities:
     fr: heure de l'Est
   startdate:
     en: Anticipated supplier selection date
-    fr: Date prévue de sélection du fournisseur
+    fr: Date prévue de sélection du fournisseur&nbsp;
   deliverydate:
     en: Work delivery date
-    fr: Date de livraison de travail
+    fr: Date de livraison de travail&nbsp;
   noOpen:
     en: No open opportunities
     fr: Aucune opportunité ouverte

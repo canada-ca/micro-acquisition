@@ -3,7 +3,7 @@ layout: post
 title: Building custom Azure marketplace policies
 ref: opportunity1
 lang: en
-skills:  Azure Policies and Azure Runbooks (via Powershell)
+skills: Azure Policies and Azure Runbooks (via Powershell)
 value: $6,500 (excluding taxes)
 closing_date: 2021-07-12T23:59:59-04:00
 start_date: 2021-07-16
@@ -29,7 +29,7 @@ These instances are using [a hub and spoke model](https://docs.microsoft.com/en-
 The hub represents a set of common services that provide capabilities to spokes.
 
 Each Azure client at ESDC is uniquely identified by an Azure Subscription or a Resource Group.
-At the beginning the Spoke was implemented as a Resource Group but this is now being changed to use Management Groups and Subscriptions instead  as industry best practices.
+At the beginning the Spoke was implemented as a Resource Group but this is now being changed to use Management Groups and Subscriptions instead as industry best practices.
 ESDC clients on Azure instances can make use of Azure Marketplace 1st and 3rd party offerings.
 The use of these offerings, like the use of Azure instances, is centrally managed at ESDC in collaboration with other government organizations to simplify administration and for security purposes.
 
@@ -43,7 +43,7 @@ If an ESDC Azure client wants to use a 3rd party offering that is not yet approv
 This means the list of approved 3rd party offerings in the Private Marketplace will change over time.
 If a 3rd party offering is approved for one ESDC client it is available for purchase by all ESDC clients – everyone sees the same Private marketplace.
 
-If an ESDC Azure client wants to use a 3rd party offering in the Private Marketplace that has a ‘Price starts at’ >$0.00 they must seek financial approval for the funds to purchase that  3rd party offering.
+If an ESDC Azure client wants to use a 3rd party offering in the Private Marketplace that has a ‘Price starts at’ >$0.00 they must seek financial approval for the funds to purchase that 3rd party offering.
 Once an ESDC client has financial approval to purchase the 3rd party offering, a communication is sent to the Cloud Operations team from the client with the name of the 3rd party offering.
 (Note: This communication is out of scope.)
 
@@ -56,12 +56,12 @@ To complete this opportunity, you must provide:
 
 1. A script (or scripts) written in PowerShell which must:
    - Create a JSON file to implement a custom Azure policy that will prevent all ESDC Azure clients from installing any Marketplace (including the Private Marketplace) 3rd party offerings that have a ’Price starts at’ of >$0.00/hr.
-   - Enable filtering which offerings are allowed or denied by Publisher, Offer, and  Plan. The filter should allow for wildcards.
+   - Enable filtering which offerings are allowed or denied by Publisher, Offer, and Plan. The filter should allow for wildcards.
    - Ensure that only those clients who receive financial approval to use an approved offering (in the Private Marketplace) are able to install that offering.
    - Prevent a client with a subscription who does not have financial approval to use an approved 3rd party offering, from installing that offering. If the client tries to install the offering they should receive the following message in English or French depending on the language of their UI:
      - English message: “You must seek financial approval to use this Azure Marketplace offering before you can install it.”
      - French message: " Vous devez demander l’approbation financière pour utiliser cette offre Azure Marketplace avant de pouvoir l'installer.”
-2. Documentation (both in-line comments and a separate document) about what you are providing and how it works.  Ensure that your documentation/comments describes the logic and/or business rules used by your script or section of a script. Also, please use descriptive variable names and put spaces between large blocks of comments.
+2. Documentation (both in-line comments and a separate document) about what you are providing and how it works. Ensure that your documentation/comments describes the logic and/or business rules used by your script or section of a script. Also, please use descriptive variable names and put spaces between large blocks of comments.
 
 <hr/>
 
@@ -69,12 +69,12 @@ To complete this opportunity, you must provide:
 
 Your application will be evaluated using the following criterion:
 
-1. Confirm that you have the skills to complete this work. Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in  Azure Policies and Azure Runbooks (via Powershell). Describe when you gained these skills, what you did and how you did it. Examples could include: previous work experience, school work, Civic Tech projects etc.
+1. Confirm that you have the skills to complete this work. Please provide a short, written statement (250 words or less, half a page) demonstrating how you have the required skills in Azure Policies and Azure Runbooks (via Powershell). Describe when you gained these skills, what you did and how you did it. Examples could include: previous work experience, school work, Civic Tech projects etc.
 
 You will also be required to confirm that you meet the following eligibility criteria:
 
 - you have reached the age of majority and are contractually competent
-  
+
 AND
 
 - you are Canadian, First Nations, Métis, Inuit or a permanent resident of Canada
@@ -87,11 +87,11 @@ OR
 
 This is a fixed price opportunity governed by the terms of the Micro-Acquisition pilot. To be paid the fixed price, you must:
 
-1. Deliver source code which fulfills all the requirements in the opportunity description above.  In addition:
+1. Deliver source code which fulfills all the requirements in the opportunity description above. In addition:
 
    - The code must be delivered with an MIT license
-   - The code must  pass the following tests:
-     - [PowerShell Script Analyzer](https://github.com/PowerShell/PSScriptAnalyzer) (English only) - all default rules (all warnings, alerts and suppressions of those warnings or alerts in code must be included in the documentation along with a justification)
+   - The code must pass the following tests:
+     - [PowerShell Script Analyzer](https://github.com/PowerShell/PSScriptAnalyzer) - all default rules (all warnings, alerts and suppressions of those warnings or alerts in code must be included in the documentation along with a justification)
      - The winning supplier will be given access to an unsecured sandbox on Azure in order to do the following functional tests to ensure the scripts are working:
        - A client with a subscription that has financial approval for approved 3rd party offering: ‘ CIS Microsoft Windows Server 2016 Benchmark L1’ in the private marketplace can pass validation to install it.
        - A client with a subscription that does NOT have financial approval for approved 3rd party offering ‘ CIS Microsoft Windows Server 2016 Benchmark L2’ in the private marketplace will fail validation when trying to install this approved 3rd party offering.
