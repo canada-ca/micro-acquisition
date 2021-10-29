@@ -199,17 +199,16 @@ apply:
   rejection:
     en: Canada may reject your application due to poor performance on a previous contract with Canada.
     fr: Le Canada peut rejeter votre demande en raison d'une mauvaise exécution d'un contrat antérieur avec le Canada.
-
 alert:
   alert1:
-    en: This website is part of a pilot. If you want to share your feedback, please open an 
-    fr: Ce site fait partie d'un pilote. Si vous souhaitez partager vos commentaires, veuiller créer une «&nbsp;
+    en: This website is part of a pilot. If you have suggestions for improvements, we'd love to hear them! Please fill in a
+    fr: Ce site fait partie d'un pilote. Si vous avez des suggestions d'améliorations, nous serions ravis de les entendre! Veuillez remplir un
   issue:
-    en: issue
-    fr: issue&nbsp;
+    en: or if you prefer, create an
+    fr: ou si vous préférez, créez un
   alert2:
-    en: or fill in a
-    fr: » (interface en anglais seulement) ou remplir un
+    en: issue
+    fr: <i>issue</i> (point)
   GCForm:
       en:
         link: https://forms-formulaires.alpha.canada.ca/id/35
@@ -217,3 +216,6 @@ alert:
       fr:
         link: https://forms-formulaires.alpha.canada.ca/fr/id/35
         title: formulaire de commentaires
+  repository:
+      en: in our open repository (GitHub account needed)
+      fr: dans notre dépôt ouvert (compte GitHub requis – interface en anglais seulement)
