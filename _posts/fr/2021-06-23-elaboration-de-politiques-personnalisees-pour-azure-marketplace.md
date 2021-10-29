@@ -79,7 +79,7 @@ ET
 
 - vous êtes canadien, membre des Premières Nations, Métis, Inuit ou un résident permanent du Canada
 
-OR
+OU
 
 - vous êtes travailleur/étudiant étranger et avez [les permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html) appropriés pour travailler au Canada.
 
