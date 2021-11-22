@@ -23,7 +23,7 @@
   "devDependencies": {
     "editorconfig-checker": "^4.0.2",
     "licensee": "^8.2.0",
-    "markdownlint-cli": "^0.28.1",
+    "markdownlint-cli": "^0.30.0",
     "vnu-jar": "^21.6.11"
   },
   "dependencies": {}
