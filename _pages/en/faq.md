@@ -36,7 +36,15 @@ permalink: /en/faq.html
 <details id="faq-005">
 <summary>Can people employed by the Government of Canada apply to micro-acquisition opportunities?</summary>
 
-<p>If you are a Government of Canada employee, you may apply to micro-acquisition opportunities. However, keep in mind that complying with the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32627">Directive on Conflicts of Interest</a> is a condition of your employment. This directive requires the following of persons employed by the Government of Canada:</p>
+<p>Yes. Government of Canada employees may apply to micro-acquisition opportunities.</p>
+
+<p><strong>Note:</strong> Intellectual Property for any micro-acquisition opportunity rests with the supplier.
+<strong>You must get sign off (by email) from your Director General (DG)</strong> outlining that "the work is being performed on your own time without government resources, and that IP rights would stay with you".
+This is required before work can begin.</p>
+<p>This is because anything produced by an employee of the Crown (whether as part of their job or via a contract) is considered to be Crown property as it is still being created "under the direction or control of the Crown" (from section 8.1 of the ESDC Intellectual Property Management Policy).
+Clause 8.1.3 (a) does specify that this is "subject to any agreement to the contrary", and this is where the sign off from the DG is necessary.</p>
+
+<p>Additionally, keep in mind that complying with the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32627">Directive on Conflicts of Interest</a> is a condition of your employment. This directive requires the following of persons employed by the Government of Canada:</p>
 
 <blockquote>“4.2.3 Reporting in writing to their deputy head all outside employment and activities, assets, liabilities and interests that might give rise to a real, apparent or potential conflict of interest in relation to their official duties and responsibilities;”</blockquote>
 
