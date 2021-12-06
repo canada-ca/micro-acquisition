@@ -39,8 +39,8 @@ permalink: /fr/faq.html
 <p>Oui. Les employés du gouvernement du Canada peuvent poser leur candidature aux opportunités de micro-acquisition.</p>
 
 <p><strong>Remarque:</strong> La propriété intellectuelle (PI) de toute opportunité de micro-acquisition appartient au fournisseur.
-<strong>vous devez obtenir l'autorisation (par courriel) de votre directeur général (DG)</strong> indiquant que « le travail est effectué dans votre temps libre, sans recours à des ressources gouvernementales, et que vous conserverez les droits de propriété intellectuelle ». Cette autorisation est exigée avant de commencer votre travail.</p>
-<p>Cela est dû au fait que tout ce qui est produit par un employé de l'État (que ce soit dans le cadre de son travail ou par contrat) est considéré comme la propriété de l'État, car il est toujours créé   « sous la direction ou sous le contrôle de l'État » (de la section 8.1 de la politique de gestion de la propriété intellectuelle du EDSC).
+<strong>Vous devez obtenir l'autorisation (par courriel) de votre directeur général (DG)</strong> indiquant que « le travail est effectué dans votre temps libre, sans recours à des ressources gouvernementales, et que vous conserverez les droits de propriété intellectuelle ». Cette autorisation est exigée avant de commencer votre travail.</p>
+<p>Cela est dû au fait que tout ce qui est produit par un employé de l'État (que ce soit dans le cadre de son travail ou par contrat) est considéré comme la propriété de l'État, car il est toujours créé « sous la direction ou sous le contrôle de l'État » (de la section 8.1 de la politique de gestion de la propriété intellectuelle du EDSC).
 La clause 8.1.3 (a) précise que cela est « sauf stipulation contraire », et c'est là que l'approbation du DG est requise.</p>
 
 <p>Toutefois, n'oubliez pas que le respect de la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32627">Directive sur les conflits d'intérêts</a> est une condition de votre emploi. Cette directive exige ce qui suit des personnes employées par le gouvernement du Canada :</p>
