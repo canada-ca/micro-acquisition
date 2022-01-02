@@ -58,8 +58,9 @@ They have a network of offices across Canada.
 
 To apply to an opportunity:
 
-1. open and fill out an <a href="{{ site.baseurl }}{% link assets/application-form.pdf %}" target="_blank">application form (PDF 61 kB, opens a new window)</a>
-2. send it to [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+1. Click on the 'application form' link in the footer for the open opportunity you want to apply to
+2. Fill in the form
+3. Click submit
 
 Your application will be evaluated based on criteria that are marked as a pass or fail (there is no scoring).
 
