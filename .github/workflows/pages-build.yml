@@ -12,7 +12,7 @@ jobs:
       with:
           github-token: ${{secrets.SEB_TOKEN}}
           script: |
-            github.repos.requestPagesBuild({
+            github.rest.repos.requestPagesBuild({
               owner: context.repo.owner,
               repo: context.repo.repo
             })
