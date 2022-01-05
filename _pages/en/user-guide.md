@@ -60,7 +60,7 @@ To apply to an opportunity:
 
 1. Click on the 'application form' link in the footer for the open opportunity you want to apply to
 2. Fill in the form
-3. Click submit
+3. Click 'Submit'
 
 Your application will be evaluated based on criteria that are marked as a pass or fail (there is no scoring).
 

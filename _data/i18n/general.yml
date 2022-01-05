@@ -185,8 +185,8 @@ apply:
     en: "To apply to this opportunity, fill in an"
     fr: "Pour présenter votre demande pour cette opportunité, remplissez un"
   application:
-    en: application form (PDF 61 kB, opens a new window)
-    fr: formulaire de demande (PDF 66 kB, ouvre une nouvelle fenêtre)
+    en: application form
+    fr: formulaire de demande
   description2:
     en: "and send it to:"
     fr: "et envoyez le à:"
