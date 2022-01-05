@@ -58,7 +58,7 @@ Ils ont un réseau de bureaux partout au Canada.
 
 Pour présenter une demande pour une opportunité:
 
-1. Cliquez sur le lien "formulaire de demande" dans le pied de page de l'opportunité ouverte à laquelle vous souhaitez postuler.
+1. Cliquez sur le lien "formulaire de demande" dans le pied de page de l'opportunité ouverte à laquelle vous souhaitez postuler
 2. Remplissez le formulaire
 3. Cliquez sur "Soumettre"
 
