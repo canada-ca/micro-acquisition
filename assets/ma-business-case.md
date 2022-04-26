@@ -191,11 +191,13 @@ Costs for the planning and technology delivery include a non-salary cost of $15 
 
 <table>
     <thead>
+        <tr>
         <th><strong>Team</strong></th>
         <th><strong>Total employees</strong></th>
         <th><strong>Total Estimated level of effort (days)</strong></th>
         <th><strong>Estimated cost*</strong></th>
         <th><strong>Details</strong></th>
+        </tr>
     </thead>
     <tbody>
         <tr>
@@ -265,11 +267,13 @@ Further details on the proposed Roles and Responsibilities can be found in Secti
 
 <table>
     <thead>
+        <tr>
         <th><strong>Team</strong></th>
         <th><strong>Total employees</strong></th>
         <th><strong>Level of effort (days)</strong></th>
         <th><strong>Estimated cost</strong></th>
         <th><strong>Details</strong></th>
+        </tr>
     </thead>
     <tbody>
         <tr>
