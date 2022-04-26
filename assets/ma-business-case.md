@@ -1241,7 +1241,7 @@ Other communications pathways will be added to the communication plan as the pro
 
 - Opportunity text
 
-- Proof of supplier agreement to the generic process and contract [<u>Terms and Conditions</u>](#t1qk6do5peqj)
+- Proof of supplier agreement to the generic process and contract <u>Terms and Conditions</u>
 
 - GC Team’s responses to the ‘union’ questions (e.g. no internal capacity exists)
 
