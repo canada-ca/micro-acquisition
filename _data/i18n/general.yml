@@ -221,7 +221,7 @@ alert:
       fr: dans notre dépôt ouvert (compte GitHub requis – interface en anglais seulement)
 alert-close:
   text:
-    en: The Micro-Acquisition pilot is now closed. We will not be posting any further opportunities. You can read about our lessons learned this
+    en: The Micro-Acquisition pilot is now closed. We will not be posting any further opportunities. You can read about our lessons learned in this
     fr: text to come
   blog:
     en: 
