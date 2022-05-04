@@ -222,24 +222,24 @@ alert:
 alert-close:
   text:
     en: The Micro-Acquisition pilot is now closed. We will not be posting any further opportunities. You can read about our lessons learned in this
-    fr: text to come
+    fr: Le pilote de micro-acquisition est maintenant terminé. Nous ne publierons pas d'autres opportunités. Vous pouvez lire les leçons apprises dans cet
   blog:
     en: 
       link: https://sara-sabr.github.io/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html
       title: blog post
     fr: 
       link: https://sara-sabr.github.io/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html
-      title: text to come
+      title: article de blog
   text2: 
     en: and this
-    fr: text to come
+    fr: et ce
   report:
     en: 
       link: https://sara-sabr.github.io/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html
       title: close-out report
     fr: 
       link: https://sara-sabr.github.io/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html
-      title: text to come
+      title: rapport de clôture
   text3:
     en: If you have any comments you'd like to share, please create an issue on this 
     fr: text to come
@@ -248,4 +248,4 @@ alert-close:
     fr: text to come
   thankyou:
     en: Thank you for your interest in this pilot project!
-    fr: text to come
+    fr: Merci de l'intérêt que vous avez porté à ce projet pilote!
