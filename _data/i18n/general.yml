@@ -235,10 +235,10 @@ alert-close:
     fr: et ce
   report:
     en: 
-      link: https://sara-sabr.github.io/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html
+      link: https://sara-sabr.github.io/ITStrategy/ma-closeout-report.html
       title: close-out report
     fr: 
-      link: https://sara-sabr.github.io/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html
+      link: https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition-les-lecons-tirees.html
       title: rapport de clôture
   text3:
     en: If you have any comments you'd like to share, please create an issue on this 
