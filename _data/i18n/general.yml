@@ -5,7 +5,7 @@ head:
     fr: &title_fr Pilote micro-acquisition
   description:
     en: Work opportunities to create and deliver custom code under an open source license
-    fr: Opportunités de travail pour créer et livrer du code personnalisé en vertu d’une licence de source ouverte
+    fr: Opportunités de travail pour créer et livrer du code personnalisé en vertu d'une licence de source ouverte
   home:
     en: Home
     fr: Accueil
@@ -219,3 +219,33 @@ alert:
   repository:
       en: in our open repository (GitHub account needed)
       fr: dans notre dépôt ouvert (compte GitHub requis – interface en anglais seulement)
+alert-close:
+  text:
+    en: The Micro-Acquisition pilot is now closed. We will not be posting any further opportunities. You can read about our lessons learned in this
+    fr: Le pilote de micro-acquisition est maintenant terminé. Nous ne publierons pas d'autres opportunités. Vous pouvez lire les leçons apprises dans cet
+  blog:
+    en: 
+      link: https://sara-sabr.github.io/ITStrategy/2022/05/05/micro-acquisition-pilot-closeout.html
+      title: blog post
+    fr: 
+      link: https://sara-sabr.github.io/ITStrategy/2022/05/05/cloture-du-pilote-de-micro-acquisition.html
+      title: article de blog
+  text2: 
+    en: and this
+    fr: et ce
+  report:
+    en: 
+      link: https://sara-sabr.github.io/ITStrategy/ma-closeout-report.html
+      title: close-out report
+    fr: 
+      link: https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition-les-lecons-tirees.html
+      title: rapport de clôture
+  text3:
+    en: If you have any comments you'd like to share, please create an issue on this 
+    fr: text to come
+  repo:
+    en: repo.
+    fr: text to come
+  thankyou:
+    en: Thank you for your interest in this pilot project!
+    fr: Merci de l'intérêt que vous avez porté à ce projet pilote!
