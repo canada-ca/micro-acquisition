@@ -5,7 +5,7 @@
 
 The Micro-acquisition pilot ran from June 2021 to May 2022.  It was led by Employment and Social Development Canada (ESDC) in a partnership between the Innovation, Information and Technology Branch (IITB) and the Chief Financial Officer Branch (CFOB).
 
-Driven by the results of the [red tape reduction report](https://internal-red-tape-reduction-report.github.io/), the [Gartner Procurement 2020 report](https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?), and the knowledge that while Digital Standards require open first working in the open by default, very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
+Driven by the results of the [red tape reduction report](https://internal-red-tape-reduction-report.github.io/), the Gartner Procurement 2020 report, and the knowledge that while Digital Standards require open first working in the open by default, very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
 
 We also felt strongly that there is a lot of coding talent that remains untapped by the Federal Public Service and that by simplifying low dollar value procurement of code, we could not only increase access to that talent but enable distribution of GC contract dollars to those who might normally face barriers.
 
@@ -43,7 +43,7 @@ ______________________
 
 Le Projet pilote sur la microacquisition s’est déroulé de juin 2021 à mai 2022. EDSC l’a dirigé dans le cadre d’un partenariat entre la Direction générale de l’innovation, de l’information et de la technologie (DGIIT) et la Direction générale de la Dirigeante principale des finances (DGDPF).
 
-Compte tenu des résultats du [Rapport sur la réduction de la paperasse (en anglais)](https://internal-red-tape-reduction-report.github.io/), du [rapport Gartner sur l’approvisionnement paru en 2020 (en anglais)](https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?) et du fait que les normes numériques nécessitent en premier lieu le travail en mode ouvert par défaut[^1], très peu de codes élaborés à EDSC étaient autorisés en vertu d’une licence de source ouverte et échangés ouvertement; nous estimions donc qu’il y avait là une occasion de recourir à l’approvisionnement comme levier.
+Compte tenu des résultats du [Rapport sur la réduction de la paperasse (en anglais)](https://internal-red-tape-reduction-report.github.io/), du rapport Gartner sur l’approvisionnement paru en 2020 et du fait que les normes numériques nécessitent en premier lieu le travail en mode ouvert par défaut, très peu de codes élaborés à EDSC étaient autorisés en vertu d’une licence de source ouverte et échangés ouvertement; nous estimions donc qu’il y avait là une occasion de recourir à l’approvisionnement comme levier.
 
 Nous étions également convaincus qu’il y a une abondance de talents en codage qui demeurent inexploités par la fonction publique fédérale et que la simplification de l’acquisition de codes de faible valeur nous donnerait un accès élargi à ces talents, tout en permettant la répartition des fonds contractuels du GC à ceux qui risquent habituellement de se buter à des obstacles.
 
