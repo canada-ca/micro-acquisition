@@ -22,7 +22,7 @@
   "homepage": "https://github.com/canada-ca/micro-acquisition#readme",
   "devDependencies": {
     "editorconfig-checker": "^4.0.2",
-    "licensee": "^8.2.0",
+    "licensee": "^10.0.0",
     "markdownlint-cli": "^0.30.0",
     "vnu-jar": "^21.6.11"
   },
