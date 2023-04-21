@@ -58,8 +58,9 @@ Ils ont un réseau de bureaux partout au Canada.
 
 Pour présenter une demande pour une opportunité:
 
-1. ouvrez et remplissez un <a href="{{ site.baseurl }}{% link assets/formulaire-de-demande.pdf %}" target="_blank"> formulaire de demande (PDF 66 kb, ouvre une nouvelle fenêtre)</a>
-2. retournez le formulaire rempli à [microacquisition@hrsdc-rhdcc.gc.ca](mailto:microacquisition@hrsdc-rhdcc.gc.ca).
+1. Cliquez sur le lien "formulaire de demande" dans le pied de page de l'opportunité ouverte à laquelle vous souhaitez postuler
+2. Remplissez le formulaire
+3. Cliquez sur "Soumettre"
 
 Votre candidature sera évaluée sur la base de critères qui sont notés comme une réussite ou un échec (il n'y a pas de notation).
 
